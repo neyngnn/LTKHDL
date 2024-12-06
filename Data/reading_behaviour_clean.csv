@@ -1,0 +1,2107 @@
+Age,Sex,Race,Marital status,Education,Employement,Incomes,Number of books read,Printed books?,Audiobooks?,E-books?,Source of the last book read,Daily news/newspapers reader?,Magazines/Journals Reader?
+46,Male,Native American,Married,High school,Employed full-time,1,97,Yes,Yes,Yes,Purchased,Yes,Yes
+32,Male,Mixed race,Never been married,High school,Employed full-time,1,97,No,Yes,Yes,Borrowed from others,Yes,Yes
+27,Male,Mixed race,Married,High school,Employed full-time,5,97,Yes,No,Yes,Borrowed from library,Yes,No
+16,Female,Mixed race,Never been married,Some high school,Employed part-time,2,97,Yes,Yes,No,Purchased,Yes,No
+55,Female,Asian/Pacific Islander,Divorced,Some college,Self-employed,5,97,Yes,Yes,Yes,Purchased,No,No
+63,Male,Black/African-American,Widowed,Some college,Employed full-time,6,97,Yes,No,No,Borrowed from library,Yes,No
+60,Female,Black/African-American,Married,College,Retired,8,97,Yes,No,No,Purchased,Yes,Yes
+50,Female,Black/African-American,Married,Post-graduate,Employed part-time,7,97,Yes,No,Yes,Purchased,Yes,No
+29,Female,Black/African-American,Never been married,High school,Employed part-time,1,97,Yes,No,Yes,Borrowed from others,No,No
+23,Male,Black/African-American,Never been married,High school,Employed part-time,8,97,Yes,No,No,Borrowed from others,Yes,Yes
+19,Female,Black/African-American,Never been married,Some college,Employed part-time,6,97,Yes,No,No,Other sources,Yes,Yes
+16,Female,Black/African-American,Never been married,High school,Student,2,97,Yes,No,Yes,Borrowed from library,No,Yes
+89,Female,White,Widowed,Some college,Retired,4,97,Yes,No,No,Purchased,Yes,Yes
+88,Female,White,Widowed,Some college,Retired,2,97,Yes,No,No,Borrowed from library,Yes,No
+84,Female,White,Widowed,Some college,Retired,8,97,Yes,No,No,Borrowed from others,Yes,Yes
+81,Female,White,Married,Some college,Retired,7,97,Yes,No,No,Purchased,Yes,Yes
+79,Female,White,Widowed,High school,Other,3,97,Yes,No,No,Borrowed from library,No,No
+79,Male,White,Married,College,Retired,6,97,Yes,No,No,Borrowed from library,Yes,No
+78,Female,White,Divorced,High school,Unemployed,2,97,Yes,No,No,Borrowed from library,No,No
+78,Male,White,Married,College,Retired,8,97,Yes,No,No,Borrowed from library,Yes,Yes
+78,Female,White,Widowed,Trade school,Retired,2,97,Yes,No,No,Borrowed from library,Yes,Yes
+76,Female,White,Married,Post-graduate,Retired,8,97,Yes,No,No,Borrowed from others,Yes,Yes
+75,Female,White,Married,Post-graduate,Retired,8,97,Yes,No,No,Borrowed from library,Yes,Yes
+73,Male,White,Married,Post-graduate,Self-employed,8,97,Yes,No,No,Purchased,Yes,Yes
+73,Female,White,Married,College,Unemployed,6,97,Yes,No,Yes,Borrowed from library,Yes,Yes
+71,Female,White,Divorced,Post-graduate,Retired,8,97,Yes,No,No,Borrowed from library,Yes,No
+70,Male,White,Married,Post-graduate,Retired,7,97,Yes,No,No,Purchased,Yes,Yes
+70,Male,White,Married,Post-graduate,Retired,8,97,Yes,No,Yes,Purchased,Yes,Yes
+69,Female,White,Married,College,Retired,7,97,Yes,No,No,Purchased,Yes,Yes
+69,Female,White,Widowed,Some college,Retired,1,97,Yes,No,No,Borrowed from others,Yes,Yes
+68,Female,White,Married,High school,Employed part-time,4,97,Yes,No,No,Borrowed from others,Yes,Yes
+68,Female,White,Divorced,High school,Retired,3,97,Yes,No,No,Borrowed from others,Yes,Yes
+67,Female,White,Widowed,Some college,Retired,4,97,Yes,No,No,Other sources,Yes,Yes
+67,Female,White,Married,Some high school,Retired,7,97,Yes,No,Yes,Purchased,Yes,Yes
+66,Female,White,Married,Some college,Retired,6,97,Yes,No,No,Borrowed from library,Yes,Yes
+66,Female,White,Divorced,Post-graduate,Retired,3,97,Yes,No,No,Purchased,Yes,No
+66,Female,White,Married,College,Retired,8,97,Yes,No,Yes,Borrowed from library,Yes,No
+65,Female,White,Married,Post-graduate,Retired,3,97,Yes,No,No,Purchased,No,No
+65,Male,White,Married,Post-graduate,Retired,4,97,Yes,No,No,Purchased,Yes,Yes
+65,Female,White,Divorced,College,Retired,2,97,Yes,No,No,Other sources,Yes,Yes
+65,Female,White,Widowed,Some college,Retired,8,97,Yes,No,Yes,Purchased,Yes,Yes
+65,Female,White,Divorced,College,Employed full-time,7,97,Yes,No,No,Borrowed from library,Yes,Yes
+65,Female,White,Living with a partner,Some college,Employed part-time,5,97,Yes,Yes,No,Purchased,Yes,Yes
+65,Female,White,Divorced,Some college,Retired,3,97,Yes,No,No,Borrowed from library,Yes,Yes
+64,Female,White,Married,Post-graduate,Retired,8,97,Yes,No,Yes,Purchased,Yes,Yes
+64,Male,White,Married,Post-graduate,Retired,8,97,Yes,Yes,Yes,Purchased,Yes,Yes
+64,Male,White,Married,College,Employed full-time,8,97,Yes,No,Yes,Purchased,Yes,Yes
+63,Female,White,Married,Post-graduate,Retired,7,97,Yes,Yes,Yes,Purchased,Yes,Yes
+63,Female,White,Divorced,Some college,Employed full-time,6,97,Yes,No,No,Purchased,Yes,Yes
+62,Female,White,Divorced,College,Retired,3,97,Yes,Yes,Yes,Purchased,Yes,Yes
+60,Female,White,Widowed,College,Employed full-time,8,97,Yes,Yes,Yes,Purchased,No,Yes
+60,Female,White,Single,College,Employed full-time,6,97,Yes,Yes,Yes,Borrowed from library,Yes,Yes
+60,Female,White,Never been married,College,Employed part-time,6,97,Yes,No,Yes,Purchased,Yes,Yes
+60,Female,White,Married,College,Employed full-time,6,97,Yes,No,Yes,Purchased,Yes,Yes
+60,Female,White,Never been married,College,Retired,3,97,Yes,Yes,No,Purchased,Yes,No
+59,Female,White,Married,Post-graduate,Retired,8,97,Yes,Yes,No,Borrowed from others,Yes,Yes
+59,Female,White,Married,College,Employed full-time,8,97,Yes,No,Yes,Purchased,Yes,Yes
+58,Female,White,Married,High school,Unemployed,6,97,Yes,No,No,Purchased,No,No
+58,Male,White,Never been married,Some college,Unemployed,2,97,Yes,No,No,Borrowed from library,Yes,Yes
+58,Female,White,Married,Some college,Employed part-time,6,97,Yes,No,No,Borrowed from library,Yes,No
+58,Female,White,Married,Post-graduate,Other,8,97,Yes,No,No,Borrowed from library,Yes,Yes
+57,Female,White,Married,Some college,Unemployed,8,97,Yes,Yes,Yes,Borrowed from library,Yes,Yes
+56,Female,White,Divorced,High school,Retired,3,97,Yes,No,No,Purchased,No,Yes
+55,Female,White,Married,Some college,Retired,6,97,Yes,Yes,Yes,Purchased,No,Yes
+53,Female,White,Divorced,High school,Employed full-time,4,97,Yes,No,No,Purchased,No,No
+53,Male,White,Divorced,Some college,Employed full-time,6,97,Yes,No,Yes,Purchased,No,Yes
+52,Female,White,Married,College,Employed part-time,8,97,Yes,Yes,No,Purchased,Yes,Yes
+52,Female,White,Married,College,Employed full-time,3,97,Yes,No,Yes,Other sources,No,No
+50,Female,White,Married,Post-graduate,Employed full-time,7,97,Yes,No,Yes,Purchased,Yes,Yes
+50,Male,White,Married,College,Employed full-time,8,97,Yes,Yes,Yes,Purchased,Yes,Yes
+50,Female,White,Married,Some high school,Unemployed,1,97,Yes,No,No,Purchased,Yes,No
+46,Female,White,Married,College,Self-employed,4,97,Yes,No,No,Borrowed from library,Yes,Yes
+46,Female,White,Married,College,Unemployed,8,97,Yes,No,No,Borrowed from others,Yes,Yes
+45,Male,White,Married,Post-graduate,Employed full-time,8,97,Yes,No,Yes,Purchased,Yes,Yes
+44,Male,White,Married,Some college,Employed full-time,6,97,Yes,No,Yes,Purchased,No,Yes
+42,Female,White,Married,Post-graduate,Employed full-time,8,97,Yes,No,Yes,Borrowed from library,Yes,Yes
+41,Female,White,Married,College,Employed full-time,4,97,Yes,Yes,No,Borrowed from library,No,Yes
+40,Female,White,Married,Post-graduate,Employed full-time,8,97,Yes,No,Yes,Purchased,Yes,Yes
+38,Female,White,Married,College,Employed full-time,8,97,Yes,No,Yes,Purchased,No,Yes
+38,Female,White,Married,College,Self-employed,8,97,Yes,No,Yes,Purchased,Yes,Yes
+37,Female,White,Married,College,Employed part-time,5,97,Yes,No,Yes,Purchased,No,No
+36,Female,White,Never been married,Some college,Employed full-time,4,97,Yes,No,Yes,Purchased,No,No
+35,Male,White,Single,High school,Unemployed,2,97,Yes,No,Yes,Purchased,Yes,Yes
+35,Male,White,Married,Some college,Self-employed,3,97,Yes,Yes,Yes,Purchased,Yes,Yes
+34,Female,White,Married,College,Employed full-time,7,97,Yes,No,Yes,Borrowed from library,No,Yes
+34,Male,White,Married,High school,Employed full-time,5,97,Yes,Yes,No,Borrowed from others,No,Yes
+33,Female,White,Married,College,Employed full-time,8,97,Yes,No,Yes,Borrowed from library,Yes,Yes
+32,Female,White,Married,High school,Unemployed,4,97,Yes,No,No,Purchased,Yes,No
+32,Female,White,Married,Post-graduate,Employed full-time,7,97,Yes,Yes,Yes,Purchased,Yes,Yes
+32,Female,White,Never been married,Post-graduate,Employed full-time,6,97,Yes,No,No,Purchased,No,No
+30,Female,White,Married,Some college,Unemployed,7,97,Yes,No,Yes,Purchased,No,Yes
+29,Female,White,Married,Post-graduate,Employed part-time,8,97,Yes,Yes,Yes,Purchased,Yes,No
+28,Male,White,Married,Some college,Employed full-time,6,97,Yes,Yes,Yes,Purchased,Yes,Yes
+28,Male,White,Married,Some high school,Employed full-time,5,97,Yes,No,No,Purchased,Yes,Yes
+27,Male,White,Married,Some college,Retired,5,97,Yes,No,No,Purchased,Yes,Yes
+26,Male,White,Never been married,Some college,Employed part-time,2,97,Yes,No,No,Purchased,No,No
+25,Male,White,Never been married,Post-graduate,Employed part-time,8,97,Yes,No,No,Purchased,No,Yes
+24,Female,White,Never been married,High school,Unemployed,8,97,Yes,No,No,Purchased,No,Yes
+24,Female,White,Never been married,College,Employed full-time,3,97,Yes,No,Yes,Purchased,No,No
+23,Female,White,Married,Some college,Unemployed,1,97,Yes,Yes,No,Purchased,No,No
+23,Female,White,Never been married,Some college,Employed full-time,3,97,Yes,No,No,Borrowed from others,No,Yes
+22,Male,White,Married,Trade school,Employed full-time,2,97,Yes,No,Yes,Purchased,Yes,Yes
+22,Male,White,Never been married,Post-graduate,Employed part-time,2,97,Yes,Yes,Yes,Other sources,Yes,Yes
+21,Male,White,Living with a partner,Some college,Employed part-time,1,97,Yes,No,Yes,Borrowed from library,Yes,Yes
+20,Female,White,Living with a partner,High school,Employed part-time,3,97,Yes,No,Yes,Purchased,Yes,Yes
+19,Female,White,Never been married,Some college,Unemployed,8,97,Yes,No,Yes,Purchased,No,No
+18,Female,White,Never been married,Some college,Unemployed,8,97,Yes,No,No,Purchased,Yes,No
+18,Female,White,Living with a partner,Some college,Unemployed,4,97,Yes,No,No,Other sources,Yes,No
+17,Female,White,Never been married,Some high school,Unemployed,8,97,Yes,No,No,Borrowed from others,No,No
+17,Female,White,Never been married,Some high school,Employed part-time,8,97,Yes,No,No,Borrowed from others,No,No
+16,Female,White,Never been married,Some high school,Unemployed,8,97,Yes,No,No,Purchased,Yes,Yes
+16,Female,White,Never been married,Some high school,Unemployed,8,97,Yes,No,No,Borrowed from library,No,No
+64,Female,Native American,Divorced,Some college,Retired,6,96,Yes,No,No,Purchased,Yes,Yes
+40,Male,Black/African-American,Divorced,High school,Retired,1,96,Yes,No,No,Purchased,Yes,Yes
+67,Male,White,Married,Post-graduate,Employed full-time,8,96,Yes,Yes,Yes,Purchased,Yes,Yes
+66,Male,White,Married,Post-graduate,Retired,8,96,Yes,Yes,No,Borrowed from others,No,Yes
+65,Female,White,Divorced,Post-graduate,Employed full-time,6,96,Yes,No,No,Borrowed from library,No,Yes
+57,Female,White,Divorced,Trade school,Employed full-time,3,96,Yes,No,No,Purchased,No,Yes
+57,Female,White,Married,High school,Retired,8,96,Yes,No,Yes,Purchased,No,No
+56,Female,White,Married,Some college,Employed full-time,7,96,Yes,Yes,Yes,Borrowed from library,No,Yes
+53,Female,White,Married,Post-graduate,Employed full-time,7,96,Yes,No,No,Purchased,No,Yes
+52,Female,White,Never been married,Post-graduate,Employed part-time,8,96,Yes,Yes,No,Purchased,No,Yes
+52,Male,White,Married,Post-graduate,Employed full-time,8,96,Yes,Yes,Yes,Purchased,Yes,Yes
+48,Female,White,Married,Some college,Employed full-time,7,96,Yes,No,Yes,Purchased,Yes,Yes
+47,Female,White,Married,Some college,Employed part-time,6,96,Yes,No,Yes,Purchased,Yes,Yes
+28,Female,White,Single,Some college,Employed full-time,2,96,Yes,Yes,Yes,Purchased,No,Yes
+33,Male,White,Married,Post-graduate,Employed full-time,7,90,Yes,Yes,No,Borrowed from library,Yes,No
+47,Female,White,Married,Some college,Employed full-time,6,84,Yes,No,No,Purchased,Yes,Yes
+53,Female,Black/African-American,Married,Post-graduate,Employed full-time,8,80,Yes,Yes,Yes,Purchased,Yes,Yes
+69,Female,White,Never been married,Post-graduate,Retired,6,80,Yes,Yes,No,Other sources,No,Yes
+54,Female,White,Living with a partner,Some college,Disabled,4,80,Yes,No,No,Other sources,Yes,No
+18,Male,White,Single,High school,Employed full-time,1,80,Yes,No,Yes,Purchased,No,No
+24,Male,Mixed race,Never been married,Post-graduate,Unemployed,6,75,Yes,No,Yes,Purchased,Yes,No
+54,Female,Black/African-American,Married,High school,Employed full-time,4,75,Yes,No,No,Borrowed from others,Yes,No
+81,Female,White,Widowed,College,Unemployed,7,75,Yes,Yes,No,Borrowed from library,Yes,Yes
+78,Female,White,Widowed,High school,Retired,8,75,Yes,No,No,Other sources,Yes,No
+73,Female,White,Married,College,Employed part-time,4,75,Yes,No,No,Purchased,Yes,Yes
+68,Female,White,Widowed,Some college,Retired,2,75,Yes,No,No,Borrowed from others,Yes,No
+65,Female,White,Divorced,High school,Retired,4,75,Yes,No,No,Borrowed from library,Yes,No
+62,Female,White,Married,Some college,Employed full-time,8,75,Yes,No,No,Purchased,Yes,Yes
+61,Female,White,Married,High school,Retired,8,75,Yes,Yes,No,Purchased,Yes,Yes
+55,Female,White,Widowed,College,Employed full-time,5,75,Yes,No,No,Other sources,Yes,No
+48,Female,White,Married,College,Unemployed,8,75,Yes,Yes,No,Borrowed from others,Yes,Yes
+48,Male,White,Never been married,Post-graduate,Employed full-time,6,75,Yes,No,Yes,Purchased,Yes,Yes
+39,Male,White,Married,College,Employed full-time,8,75,Yes,No,Yes,Borrowed from others,No,No
+55,Male,Black/African-American,Separated,High school,Retired,2,70,Yes,No,No,Other sources,No,Yes
+84,Female,White,Married,Trade school,Retired,8,70,Yes,Yes,No,Other sources,Yes,No
+64,Female,White,Divorced,High school,Employed full-time,4,70,Yes,No,No,Purchased,Yes,Yes
+58,Female,White,Married,Post-graduate,Unemployed,8,70,Yes,Yes,Yes,Purchased,No,Yes
+53,Female,White,Married,High school,Employed full-time,7,70,Yes,No,Yes,Other sources,No,No
+31,Female,White,Never been married,Post-graduate,Employed full-time,6,70,Yes,No,Yes,Purchased,No,Yes
+22,Female,White,Married,High school,Employed part-time,1,70,Yes,No,No,Purchased,No,No
+21,Female,White,Never been married,Some college,Unemployed,1,70,Yes,No,No,Borrowed from others,No,No
+16,Female,White,Single,Some high school,Unemployed,8,70,Yes,No,No,Borrowed from library,Yes,Yes
+61,Female,White,Married,Post-graduate,Employed full-time,8,67,Yes,Yes,Yes,Borrowed from library,Yes,Yes
+40,Male,White,Married,High school,Unemployed,1,65,Yes,No,No,Purchased,No,Yes
+27,Male,White,Never been married,Post-graduate,Employed full-time,6,65,No,No,Yes,Purchased,Yes,Yes
+35,Male,Native American,Never been married,High school,Employed full-time,8,60,Yes,No,No,Purchased,Yes,Yes
+50,Female,Black/African-American,Never been married,Some college,Unemployed,6,60,Yes,No,Yes,Purchased,No,Yes
+45,Female,Black/African-American,Married,College,Employed full-time,8,60,Yes,Yes,Yes,Other sources,No,Yes
+16,Male,Black/African-American,Never been married,Some high school,Employed full-time,1,60,Yes,Yes,No,Purchased,Yes,Yes
+66,Female,White,Married,Post-graduate,Retired,6,60,Yes,Yes,No,Borrowed from library,Yes,Yes
+65,Female,White,Married,College,Retired,6,60,Yes,Yes,No,Purchased,Yes,Yes
+62,Female,White,Widowed,College,Retired,5,60,Yes,No,No,Borrowed from others,Yes,Yes
+61,Male,White,Married,Post-graduate,Employed full-time,6,60,Yes,No,Yes,Purchased,No,Yes
+60,Male,White,Married,College,Employed full-time,8,60,Yes,Yes,No,Purchased,Yes,No
+58,Female,White,Widowed,High school,Employed full-time,4,60,Yes,No,No,Borrowed from others,Yes,Yes
+53,Male,White,Married,College,Employed full-time,7,60,Yes,Yes,Yes,Purchased,Yes,Yes
+51,Female,White,Married,Post-graduate,Employed full-time,8,60,Yes,No,Yes,Purchased,Yes,Yes
+39,Female,White,Married,Post-graduate,Employed part-time,8,60,Yes,No,No,Borrowed from library,Yes,Yes
+38,Male,White,Divorced,College,Employed full-time,5,60,Yes,No,No,Purchased,Yes,Yes
+23,Female,White,Never been married,College,Employed part-time,8,60,Yes,Yes,No,Borrowed from others,Yes,Yes
+22,Male,White,Never been married,Some college,Unemployed,8,60,Yes,Yes,No,Purchased,Yes,Yes
+21,Female,White,Never been married,Some college,Unemployed,8,60,Yes,No,Yes,Purchased,No,No
+66,Female,White,Living with a partner,High school,Retired,5,55,Yes,No,Yes,Purchased,Yes,No
+47,Female,White,Divorced,High school,Employed part-time,3,54,Yes,No,Yes,Borrowed from library,No,No
+29,Female,White,Married,Post-graduate,Employed full-time,7,52,Yes,No,Yes,Purchased,No,No
+21,Male,White,Married,Some high school,Employed full-time,4,51,Yes,No,No,Other sources,No,Yes
+37,Male,Other,Single,High school,Retired,1,50,Yes,No,No,Purchased,Yes,Yes
+16,Male,Other,Never been married,Some high school,Employed part-time,4,50,Yes,No,No,Purchased,No,Yes
+32,Female,Native American,Living with a partner,Some college,Unemployed,6,50,Yes,No,No,Borrowed from others,Yes,Yes
+41,Female,Mixed race,Married,Post-graduate,Disabled,4,50,Yes,No,No,Other sources,No,No
+26,Male,Asian/Pacific Islander,Living with a partner,Some college,Employed full-time,3,50,Yes,No,Yes,Purchased,Yes,No
+61,Female,Black/African-American,Married,Post-graduate,Employed full-time,5,50,Yes,Yes,Yes,Other sources,No,No
+59,Female,Black/African-American,Married,College,Employed full-time,8,50,Yes,No,No,Purchased,Yes,Yes
+47,Female,Black/African-American,Married,College,Unemployed,8,50,Yes,No,Yes,Borrowed from library,Yes,Yes
+32,Female,Black/African-American,Living with a partner,Post-graduate,Employed full-time,6,50,Yes,No,No,Purchased,No,No
+17,Male,Black/African-American,Never been married,Some high school,Employed part-time,2,50,Yes,No,Yes,Borrowed from library,No,No
+90,Female,White,Widowed,Post-graduate,Retired,4,50,Yes,No,No,Purchased,No,Yes
+83,Female,White,Widowed,College,Retired,3,50,Yes,No,No,Purchased,Yes,Yes
+80,Female,White,Widowed,High school,Employed full-time,2,50,Yes,No,No,Borrowed from library,Yes,Yes
+80,Female,White,Married,Post-graduate,Retired,8,50,Yes,Yes,Yes,Borrowed from library,Yes,Yes
+78,Female,White,Married,Some college,Retired,6,50,Yes,No,No,Purchased,No,Yes
+78,Female,White,Widowed,Post-graduate,Retired,3,50,Yes,No,No,Purchased,Yes,Yes
+78,Female,White,Married,High school,Retired,4,50,Yes,No,No,Purchased,No,Yes
+77,Male,White,Married,Post-graduate,Retired,3,50,Yes,Yes,No,Purchased,Yes,Yes
+77,Female,White,Widowed,High school,Retired,5,50,Yes,No,Yes,Borrowed from library,Yes,No
+76,Female,White,Widowed,College,Retired,8,50,Yes,No,No,Purchased,Yes,Yes
+75,Female,White,Widowed,Post-graduate,Employed part-time,6,50,Yes,Yes,No,Borrowed from library,Yes,Yes
+74,Female,White,Married,College,Retired,5,50,Yes,Yes,Yes,Purchased,Yes,Yes
+72,Female,White,Married,Some college,Retired,4,50,Yes,Yes,No,Purchased,Yes,Yes
+70,Male,White,Married,College,Retired,7,50,Yes,No,No,Borrowed from library,Yes,Yes
+70,Female,White,Married,Some college,Retired,5,50,Yes,No,No,Purchased,Yes,Yes
+70,Female,White,Married,College,Retired,2,50,Yes,No,No,Borrowed from others,Yes,No
+69,Male,White,Married,Trade school,Employed part-time,6,50,Yes,No,No,Purchased,No,Yes
+68,Female,White,Married,Some college,Retired,6,50,Yes,No,No,Borrowed from library,Yes,No
+68,Male,White,Married,College,Employed part-time,6,50,Yes,No,Yes,Purchased,No,Yes
+66,Female,White,Single,Post-graduate,Retired,4,50,Yes,No,No,Purchased,Yes,Yes
+66,Female,White,Married,Some college,Retired,7,50,Yes,No,Yes,Borrowed from library,Yes,No
+66,Male,White,Married,College,Retired,8,50,Yes,Yes,Yes,Purchased,Yes,Yes
+65,Male,White,Married,Some college,Retired,8,50,Yes,No,No,Other sources,Yes,Yes
+65,Male,White,Married,College,Retired,4,50,Yes,No,No,Borrowed from library,No,No
+65,Male,White,Married,High school,Retired,6,50,Yes,No,Yes,Borrowed from library,No,Yes
+65,Male,White,Married,Post-graduate,Retired,7,50,Yes,No,Yes,Borrowed from others,Yes,Yes
+64,Male,White,Married,Post-graduate,Retired,8,50,Yes,No,Yes,Purchased,Yes,No
+64,Male,White,Married,Some college,Employed full-time,6,50,Yes,Yes,Yes,Purchased,Yes,Yes
+60,Female,White,Married,Some college,Retired,7,50,Yes,No,Yes,Borrowed from others,Yes,No
+60,Male,White,Married,Post-graduate,Employed full-time,8,50,Yes,No,Yes,Purchased,Yes,Yes
+60,Female,White,Widowed,Some high school,Unemployed,2,50,Yes,No,No,Borrowed from library,Yes,Yes
+59,Female,White,Married,Trade school,Employed full-time,6,50,Yes,No,No,Borrowed from others,Yes,Yes
+59,Female,White,Married,Some college,Retired,5,50,Yes,No,No,Purchased,No,Yes
+59,Male,White,Never been married,College,Employed full-time,8,50,Yes,No,No,Purchased,Yes,No
+58,Female,White,Married,High school,Employed full-time,5,50,Yes,No,No,Purchased,Yes,Yes
+58,Female,White,Married,Some college,Disabled,8,50,Yes,Yes,No,Other sources,Yes,Yes
+58,Male,White,Married,Post-graduate,Retired,8,50,Yes,No,Yes,Purchased,No,No
+55,Female,White,Never been married,Some college,Employed full-time,5,50,Yes,No,No,Purchased,Yes,No
+55,Female,White,Divorced,Post-graduate,Retired,6,50,Yes,No,No,Purchased,No,No
+54,Male,White,Married,High school,Employed full-time,8,50,Yes,No,Yes,Purchased,Yes,No
+53,Female,White,Separated,High school,Disabled,1,50,Yes,No,No,Borrowed from others,Yes,Yes
+53,Female,White,Married,Post-graduate,Unemployed,8,50,Yes,Yes,Yes,Purchased,Yes,Yes
+53,Female,White,Never been married,Some college,Employed full-time,5,50,Yes,Yes,Yes,Purchased,No,Yes
+53,Female,White,Married,College,Employed full-time,7,50,Yes,No,Yes,Purchased,Yes,Yes
+53,Female,White,Married,Some college,Unemployed,8,50,Yes,No,No,Purchased,Yes,Yes
+52,Female,White,Married,College,Employed full-time,5,50,Yes,No,Yes,Purchased,No,Yes
+51,Male,White,Married,Post-graduate,Employed full-time,4,50,Yes,No,Yes,Purchased,No,No
+50,Male,White,Married,College,Employed full-time,8,50,No,No,Yes,Purchased,Yes,No
+50,Female,White,Married,College,Employed full-time,6,50,Yes,No,No,Borrowed from library,Yes,Yes
+50,Male,White,Married,College,Employed full-time,8,50,Yes,No,No,Purchased,Yes,Yes
+49,Female,White,Married,College,Employed full-time,4,50,No,No,Yes,Purchased,No,Yes
+47,Female,White,Married,High school,Employed full-time,7,50,Yes,No,Yes,Borrowed from others,No,Yes
+46,Female,White,Separated,College,Unemployed,3,50,Yes,Yes,No,Borrowed from library,Yes,No
+45,Male,White,Divorced,College,Employed full-time,7,50,Yes,No,Yes,Purchased,Yes,Yes
+45,Male,White,Married,Some college,Retired,6,50,Yes,Yes,No,Borrowed from library,Yes,No
+45,Male,White,Married,Post-graduate,Employed full-time,8,50,Yes,Yes,Yes,Purchased,Yes,No
+44,Female,White,Married,Some college,Unemployed,6,50,Yes,No,Yes,Other sources,No,No
+44,Female,White,Never been married,College,Employed full-time,3,50,Yes,No,No,Purchased,No,No
+42,Male,White,Married,Post-graduate,Employed full-time,8,50,Yes,No,No,Purchased,Yes,No
+42,Female,White,Never been married,College,Self-employed,8,50,Yes,No,Yes,Purchased,Yes,No
+41,Female,White,Married,High school,Disabled,2,50,Yes,No,No,Purchased,No,No
+41,Female,White,Separated,Post-graduate,Unemployed,1,50,Yes,No,Yes,Purchased,Yes,Yes
+38,Male,White,Living with a partner,High school,Unemployed,7,50,Yes,No,No,Borrowed from others,Yes,Yes
+37,Male,White,Divorced,Some high school,Employed full-time,7,50,Yes,Yes,Yes,Purchased,No,No
+37,Female,White,Married,Trade school,Employed part-time,4,50,Yes,Yes,Yes,Other sources,No,Yes
+35,Female,White,Living with a partner,College,Employed full-time,3,50,Yes,No,No,Purchased,Yes,Yes
+34,Female,White,Married,Post-graduate,Unemployed,4,50,No,No,Yes,Borrowed from library,Yes,No
+33,Male,White,Married,Post-graduate,Employed full-time,8,50,Yes,Yes,Yes,Borrowed from library,Yes,Yes
+32,Female,White,Never been married,High school,Employed full-time,3,50,Yes,No,No,Borrowed from library,Yes,No
+30,Male,White,Never been married,Some high school,Disabled,8,50,Yes,No,No,Borrowed from others,Yes,No
+29,Male,White,Married,High school,Employed part-time,2,50,Yes,Yes,Yes,Purchased,No,Yes
+27,Female,White,Married,Some college,Employed full-time,8,50,Yes,Yes,Yes,Other sources,Yes,No
+27,Female,White,Married,Some college,Unemployed,6,50,Yes,No,Yes,Purchased,No,No
+26,Female,White,Married,Some college,Self-employed,8,50,Yes,No,No,Purchased,Yes,No
+25,Female,White,Married,Some college,Employed full-time,6,50,Yes,No,Yes,Borrowed from others,Yes,No
+23,Male,White,Never been married,College,Employed full-time,5,50,Yes,No,Yes,Purchased,Yes,Yes
+22,Female,White,Never been married,College,Employed full-time,8,50,Yes,Yes,No,Borrowed from others,No,No
+20,Female,White,Never been married,Some college,Employed part-time,8,50,Yes,No,Yes,Purchased,Yes,Yes
+19,Female,White,Never been married,Some college,Employed part-time,6,50,Yes,No,No,Borrowed from library,No,Yes
+19,Female,White,Living with a partner,High school,Employed part-time,8,50,Yes,No,Yes,Borrowed from others,Yes,Yes
+19,Male,White,Never been married,Some high school,Unemployed,8,50,Yes,No,Yes,Other sources,Yes,No
+17,Male,White,Never been married,Some high school,Employed part-time,6,50,Yes,No,No,Purchased,No,Yes
+16,Male,White,Never been married,Some high school,Unemployed,2,50,Yes,No,No,Other sources,No,No
+67,Female,White,Divorced,Some college,Retired,5,48,Yes,Yes,No,Purchased,Yes,No
+55,Female,White,Married,Some college,Employed full-time,8,48,Yes,Yes,Yes,Purchased,Yes,No
+47,Female,White,Living with a partner,High school,Self-employed,5,48,Yes,No,No,Purchased,No,No
+23,Male,Other,Never been married,Some college,Unemployed,3,47,Yes,No,Yes,Other sources,No,Yes
+46,Male,White,Married,College,Employed full-time,8,47,Yes,No,Yes,Other sources,Yes,Yes
+27,Female,Black/African-American,Never been married,High school,Employed full-time,1,45,Yes,No,No,Purchased,Yes,Yes
+22,Female,Black/African-American,Never been married,Some college,Employed full-time,2,45,Yes,No,Yes,Purchased,No,Yes
+70,Male,White,Widowed,High school,Retired,3,45,Yes,Yes,No,Purchased,Yes,Yes
+67,Male,White,Married,College,Employed part-time,5,45,Yes,Yes,No,Borrowed from others,Yes,Yes
+38,Male,White,Married,College,Employed full-time,8,45,Yes,No,Yes,Borrowed from library,Yes,Yes
+18,Female,White,Never been married,Some high school,Employed part-time,2,45,Yes,No,No,Purchased,Yes,Yes
+17,Male,White,Never been married,Some high school,Unemployed,6,45,Yes,Yes,Yes,Other sources,Yes,Yes
+59,Male,White,Married,High school,Employed full-time,4,43,Yes,No,No,Purchased,Yes,No
+27,Male,White,Married,College,Employed full-time,6,42,Yes,Yes,No,Purchased,Yes,Yes
+21,Male,Asian/Pacific Islander,Never been married,Some college,Employed full-time,1,40,Yes,No,No,Purchased,No,No
+23,Female,Black/African-American,Living with a partner,High school,Unemployed,3,40,No,No,No,Purchased,Yes,Yes
+19,Male,Black/African-American,Never been married,Some college,Employed part-time,6,40,Yes,No,No,Borrowed from others,No,Yes
+83,Male,White,Married,Some high school,Retired,6,40,Yes,No,No,Borrowed from others,Yes,Yes
+74,Female,White,Married,Some college,Employed part-time,4,40,Yes,No,Yes,Other sources,Yes,Yes
+69,Male,White,Widowed,Post-graduate,Retired,6,40,Yes,Yes,Yes,Other sources,Yes,Yes
+68,Male,White,Married,Post-graduate,Retired,8,40,No,Yes,No,Purchased,No,No
+68,Female,White,Married,Some college,Retired,5,40,Yes,No,No,Borrowed from others,Yes,No
+66,Male,White,Married,Post-graduate,Retired,8,40,Yes,No,Yes,Purchased,Yes,Yes
+63,Female,White,Married,High school,Retired,4,40,Yes,No,Yes,Borrowed from library,No,No
+63,Female,White,Widowed,Some college,Employed full-time,6,40,Yes,No,Yes,Purchased,Yes,No
+63,Female,White,Married,Some college,Employed full-time,6,40,Yes,No,Yes,Borrowed from others,Yes,Yes
+63,Male,White,Married,Some college,Employed full-time,8,40,Yes,No,No,Purchased,No,No
+62,Male,White,Married,College,Retired,7,40,Yes,Yes,Yes,Purchased,Yes,Yes
+60,Female,White,Married,Post-graduate,Employed full-time,8,40,Yes,Yes,Yes,Purchased,Yes,No
+58,Female,White,Married,Post-graduate,Retired,8,40,Yes,No,No,Purchased,Yes,Yes
+57,Male,White,Single,High school,Unemployed,8,40,No,No,No,Purchased,No,Yes
+55,Female,White,Married,Post-graduate,Employed full-time,6,40,Yes,Yes,Yes,Borrowed from library,Yes,Yes
+54,Female,White,Married,Some college,Unemployed,8,40,Yes,Yes,Yes,Borrowed from others,Yes,Yes
+54,Male,White,Married,High school,Employed full-time,8,40,Yes,No,Yes,Borrowed from others,No,Yes
+54,Female,White,Married,Some college,Employed part-time,7,40,Yes,No,Yes,Purchased,Yes,Yes
+54,Female,White,Married,College,Employed full-time,8,40,Yes,No,Yes,Borrowed from others,Yes,Yes
+53,Female,White,Married,College,Employed full-time,8,40,Yes,No,Yes,Other sources,Yes,Yes
+52,Female,White,Divorced,High school,Unemployed,1,40,No,No,No,Purchased,Yes,No
+50,Male,White,Separated,Some college,Employed full-time,7,40,Yes,No,Yes,Borrowed from library,Yes,Yes
+49,Male,White,Married,Some college,Employed full-time,7,40,Yes,No,Yes,Purchased,Yes,No
+47,Female,White,Married,Some college,Employed full-time,4,40,Yes,No,No,Other sources,Yes,No
+46,Male,White,Living with a partner,College,Employed full-time,8,40,Yes,Yes,Yes,Purchased,Yes,Yes
+45,Male,White,Married,Some college,Employed full-time,6,40,No,No,Yes,Purchased,Yes,No
+41,Male,White,Married,Some college,Employed full-time,6,40,Yes,No,No,Borrowed from library,Yes,No
+39,Male,White,Married,College,Employed full-time,8,40,Yes,No,Yes,Other sources,Yes,Yes
+37,Male,White,Married,Some college,Employed full-time,6,40,Yes,No,Yes,Other sources,No,Yes
+35,Male,White,Married,College,Unemployed,3,40,Yes,No,Yes,Purchased,Yes,No
+35,Male,White,Married,Some college,Employed full-time,8,40,Yes,No,Yes,Borrowed from others,No,Yes
+34,Female,White,Living with a partner,Post-graduate,Employed full-time,7,40,Yes,No,No,Other sources,Yes,Yes
+33,Female,White,Married,College,Unemployed,7,40,Yes,No,Yes,Borrowed from library,No,Yes
+32,Male,White,Never been married,Some college,Employed full-time,6,40,Yes,Yes,Yes,Borrowed from others,No,No
+29,Male,White,Married,High school,Employed full-time,6,40,Yes,No,No,Other sources,Yes,Yes
+23,Male,White,Never been married,Post-graduate,Employed full-time,6,40,Yes,No,Yes,Purchased,No,Yes
+22,Male,White,Never been married,Some college,Employed full-time,7,40,Yes,No,No,Other sources,Yes,Yes
+20,Male,White,Never been married,Some college,Employed part-time,2,40,Yes,No,No,Borrowed from others,Yes,Yes
+19,Female,White,Never been married,Some college,Employed part-time,6,40,Yes,No,No,Purchased,Yes,No
+16,Female,White,Never been married,Some high school,Unemployed,7,40,Yes,Yes,No,Purchased,Yes,No
+16,Male,White,Never been married,Some high school,Employed part-time,5,40,Yes,No,Yes,Purchased,No,Yes
+22,Male,Mixed race,Living with a partner,High school,Employed part-time,5,38,Yes,Yes,Yes,Purchased,Yes,Yes
+62,Female,White,Married,College,Other,6,37,Yes,Yes,Yes,Purchased,No,No
+20,Female,Black/African-American,Never been married,Some high school,Unemployed,2,36,Yes,No,No,Other sources,No,No
+86,Female,White,Married,High school,Retired,8,36,Yes,No,No,Borrowed from library,Yes,Yes
+77,Female,White,Widowed,Some college,Retired,4,36,Yes,No,No,Borrowed from library,Yes,Yes
+72,Female,White,Widowed,Some college,Retired,6,36,Yes,No,No,Purchased,Yes,Yes
+64,Female,White,Married,Some college,Employed full-time,7,36,Yes,No,No,Borrowed from others,No,No
+55,Female,White,Married,Some college,Disabled,2,36,Yes,No,Yes,Purchased,No,Yes
+52,Male,White,Divorced,Post-graduate,Retired,3,36,Yes,No,No,Borrowed from library,Yes,Yes
+42,Female,White,Married,Post-graduate,Employed full-time,8,36,No,No,Yes,Purchased,Yes,No
+36,Female,White,Never been married,College,Unemployed,6,36,Yes,Yes,Yes,Purchased,Yes,Yes
+36,Female,White,Married,College,Unemployed,8,36,Yes,Yes,Yes,Other sources,Yes,Yes
+30,Male,White,Married,Some college,Employed full-time,6,36,Yes,No,No,Purchased,No,No
+29,Female,White,Never been married,Post-graduate,Unemployed,4,36,Yes,Yes,No,Borrowed from others,Yes,No
+17,Female,White,Never been married,Some high school,Unemployed,6,36,Yes,No,No,Purchased,Yes,Yes
+22,Male,Black/African-American,Never been married,Some college,Employed part-time,1,35,Yes,No,No,Purchased,Yes,Yes
+79,Male,White,Widowed,High school,Retired,2,35,Yes,No,No,Borrowed from others,No,Yes
+72,Female,White,Widowed,Post-graduate,Employed part-time,7,35,Yes,Yes,No,Borrowed from library,Yes,Yes
+71,Female,White,Divorced,Post-graduate,Employed part-time,6,35,Yes,No,No,Borrowed from others,No,Yes
+65,Female,White,Married,High school,Retired,3,35,No,No,Yes,Purchased,No,No
+62,Female,White,Married,College,Retired,4,35,Yes,No,No,Purchased,No,Yes
+58,Female,White,Married,College,Employed full-time,8,35,Yes,No,Yes,Purchased,Yes,Yes
+51,Female,White,Divorced,College,Employed full-time,3,35,Yes,No,No,Borrowed from others,Yes,Yes
+51,Male,White,Married,College,Employed full-time,6,35,Yes,No,Yes,Borrowed from library,Yes,Yes
+43,Female,White,Married,Some college,Employed full-time,7,35,Yes,Yes,Yes,Purchased,Yes,Yes
+42,Female,White,Married,College,Employed full-time,8,35,Yes,No,Yes,Borrowed from others,Yes,No
+39,Female,White,Married,Post-graduate,Unemployed,5,35,Yes,No,Yes,Other sources,Yes,Yes
+33,Male,White,Married,Post-graduate,Employed full-time,7,35,Yes,Yes,No,Purchased,Yes,Yes
+24,Male,White,Never been married,Post-graduate,Employed full-time,3,35,Yes,No,No,Borrowed from others,No,No
+57,Female,White,Divorced,Some college,Disabled,8,32,Yes,No,No,Borrowed from others,Yes,Yes
+39,Female,White,Married,Post-graduate,Employed full-time,8,32,Yes,No,No,Purchased,Yes,Yes
+28,Female,White,Married,Some college,Employed part-time,2,32,Yes,No,No,Purchased,No,No
+36,Female,Other,Never been married,Post-graduate,Employed full-time,7,30,Yes,Yes,Yes,Purchased,No,No
+25,Female,Other,Never been married,Some college,Employed full-time,8,30,Yes,No,Yes,Purchased,Yes,Yes
+20,Male,Other,Never been married,College,Student,3,30,Yes,No,Yes,Purchased,No,No
+18,Female,Native American,Never been married,High school,Unemployed,6,30,Yes,No,No,Purchased,Yes,No
+72,Male,Mixed race,Divorced,Some college,Retired,3,30,Yes,No,No,Purchased,Yes,No
+54,Male,Mixed race,Married,Some college,Employed full-time,8,30,Yes,Yes,Yes,Purchased,No,Yes
+50,Female,Asian/Pacific Islander,Married,Some college,Unemployed,8,30,Yes,No,No,Purchased,Yes,Yes
+63,Female,Black/African-American,Widowed,Post-graduate,Retired,6,30,Yes,Yes,Yes,Purchased,Yes,Yes
+57,Female,Black/African-American,Never been married,High school,Employed full-time,2,30,Yes,No,No,Borrowed from others,Yes,Yes
+56,Female,Black/African-American,Divorced,Post-graduate,Employed full-time,7,30,Yes,No,Yes,Purchased,Yes,Yes
+52,Female,Black/African-American,Never been married,College,Unemployed,5,30,Yes,No,No,Borrowed from library,No,Yes
+42,Female,Black/African-American,Never been married,Post-graduate,Employed full-time,8,30,Yes,No,Yes,Purchased,Yes,Yes
+29,Male,Black/African-American,Never been married,College,Employed full-time,5,30,Yes,No,Yes,Purchased,No,No
+29,Male,Black/African-American,Never been married,College,Employed part-time,3,30,Yes,Yes,No,Purchased,Yes,Yes
+23,Male,Black/African-American,Living with a partner,Some college,Unemployed,3,30,Yes,No,No,Other sources,Yes,No
+22,Male,Black/African-American,Never been married,High school,Employed part-time,6,30,Yes,No,Yes,Other sources,No,No
+20,Female,Black/African-American,Never been married,Some college,Unemployed,3,30,Yes,Yes,No,Borrowed from library,Yes,No
+20,Male,Black/African-American,Never been married,High school,Employed part-time,3,30,Yes,No,Yes,Purchased,Yes,Yes
+16,Female,Black/African-American,Never been married,Some high school,Student,8,30,Yes,No,No,Borrowed from others,No,Yes
+16,Male,Black/African-American,Never been married,Some high school,Employed part-time,7,30,Yes,No,No,Borrowed from library,Yes,No
+82,Male,White,Married,College,Retired,7,30,Yes,No,Yes,Borrowed from others,Yes,Yes
+77,Female,White,Married,High school,Retired,2,30,Yes,No,Yes,Borrowed from others,Yes,Yes
+72,Female,White,Widowed,Trade school,Retired,3,30,Yes,No,No,Borrowed from others,Yes,No
+71,Male,White,Married,College,Retired,6,30,Yes,No,Yes,Purchased,Yes,Yes
+71,Female,White,Married,Some college,Disabled,2,30,Yes,No,No,Purchased,Yes,No
+71,Female,White,Widowed,Some college,Retired,3,30,Yes,Yes,No,Borrowed from library,Yes,Yes
+70,Female,White,Married,Some college,Employed full-time,4,30,Yes,No,No,Borrowed from library,Yes,Yes
+67,Female,White,Married,Some high school,Retired,4,30,Yes,No,No,Purchased,No,Yes
+67,Female,White,Married,College,Retired,7,30,Yes,No,No,Purchased,Yes,Yes
+66,Female,White,Married,Some college,Retired,7,30,Yes,Yes,Yes,Purchased,No,Yes
+65,Female,White,Married,High school,Retired,5,30,Yes,No,Yes,Purchased,Yes,Yes
+63,Male,White,Divorced,Post-graduate,Retired,7,30,Yes,Yes,No,Borrowed from others,Yes,Yes
+62,Female,White,Divorced,Post-graduate,Retired,6,30,Yes,No,No,Purchased,No,Yes
+62,Male,White,Married,College,Employed full-time,3,30,Yes,No,No,Purchased,No,Yes
+61,Female,White,Married,Post-graduate,Retired,6,30,Yes,No,Yes,Purchased,Yes,Yes
+60,Male,White,Married,High school,Retired,6,30,Yes,No,Yes,Purchased,Yes,No
+60,Female,White,Married,Post-graduate,Employed part-time,8,30,Yes,No,No,Borrowed from others,Yes,Yes
+59,Male,White,Married,College,Retired,8,30,Yes,No,No,Purchased,Yes,Yes
+58,Male,White,Married,Post-graduate,Employed full-time,8,30,Yes,No,Yes,Purchased,Yes,No
+57,Male,White,Married,Post-graduate,Retired,8,30,Yes,No,No,Purchased,No,Yes
+57,Female,White,Married,College,Employed full-time,7,30,Yes,Yes,Yes,Purchased,Yes,Yes
+57,Male,White,Married,Post-graduate,Employed full-time,8,30,Yes,No,No,Purchased,Yes,Yes
+56,Female,White,Married,Post-graduate,Employed full-time,8,30,Yes,Yes,Yes,Borrowed from library,Yes,Yes
+55,Female,White,Married,Post-graduate,Employed full-time,8,30,Yes,Yes,Yes,Purchased,Yes,Yes
+55,Male,White,Divorced,Some college,Retired,6,30,Yes,Yes,Yes,Purchased,No,No
+54,Female,White,Married,College,Employed full-time,8,30,Yes,No,Yes,Purchased,Yes,Yes
+54,Female,White,Married,Post-graduate,Retired,8,30,Yes,No,No,Purchased,Yes,Yes
+54,Female,White,Separated,None,Disabled,1,30,No,No,No,Purchased,Yes,No
+54,Male,White,Married,Post-graduate,Employed full-time,8,30,Yes,No,No,Purchased,No,Yes
+53,Female,White,Divorced,Trade school,Disabled,1,30,Yes,No,No,Borrowed from others,No,No
+52,Female,White,Divorced,Post-graduate,Employed full-time,8,30,Yes,No,Yes,Other sources,No,No
+51,Female,White,Married,High school,Employed full-time,7,30,Yes,No,Yes,Purchased,No,No
+51,Female,White,Separated,College,Employed full-time,8,30,Yes,No,Yes,Other sources,No,Yes
+51,Female,White,Married,Some college,Employed full-time,5,30,Yes,No,Yes,Purchased,No,No
+51,Male,White,Married,College,Employed part-time,8,30,Yes,Yes,No,Borrowed from library,Yes,Yes
+50,Female,White,Never been married,College,Employed full-time,5,30,Yes,No,No,Borrowed from library,Yes,No
+50,Male,White,Never been married,Post-graduate,Unemployed,8,30,Yes,Yes,Yes,Purchased,No,No
+50,Male,White,Married,College,Employed full-time,3,30,Yes,No,No,Purchased,No,Yes
+50,Male,White,Married,Post-graduate,Employed full-time,7,30,Yes,No,Yes,Borrowed from library,Yes,Yes
+49,Male,White,Never been married,Trade school,Employed part-time,2,30,Yes,No,Yes,Purchased,No,Yes
+49,Male,White,Widowed,Some college,Employed full-time,8,30,Yes,No,No,Purchased,Yes,Yes
+46,Male,White,Married,Post-graduate,Employed full-time,8,30,Yes,No,Yes,Purchased,Yes,No
+44,Female,White,Married,High school,Self-employed,7,30,Yes,Yes,Yes,Purchased,Yes,No
+44,Male,White,Married,Some college,Employed full-time,8,30,Yes,No,No,Purchased,Yes,Yes
+42,Female,White,Married,Post-graduate,Employed part-time,8,30,Yes,No,No,Purchased,Yes,No
+42,Female,White,Divorced,Post-graduate,Employed full-time,7,30,Yes,No,No,Other sources,Yes,No
+41,Male,White,Divorced,Some college,Employed full-time,5,30,Yes,No,No,Borrowed from others,No,No
+40,Male,White,Divorced,Some college,Retired,3,30,Yes,No,Yes,Other sources,Yes,No
+39,Female,White,Divorced,College,Unemployed,8,30,Yes,No,No,Borrowed from library,Yes,No
+39,Female,White,Never been married,College,Unemployed,4,30,Yes,No,Yes,Purchased,Yes,Yes
+36,Female,White,Married,College,Employed part-time,6,30,Yes,No,Yes,Borrowed from others,Yes,Yes
+34,Male,White,Married,College,Employed full-time,8,30,Yes,No,Yes,Purchased,Yes,Yes
+33,Male,White,Living with a partner,Some college,Employed full-time,3,30,Yes,No,No,Purchased,No,No
+33,Male,White,Never been married,Some college,Employed part-time,4,30,Yes,No,No,Other sources,No,Yes
+32,Male,White,Married,Post-graduate,Employed full-time,8,30,Yes,Yes,Yes,Purchased,Yes,Yes
+31,Female,White,Married,High school,Employed part-time,8,30,Yes,No,Yes,Borrowed from library,No,No
+29,Female,White,Married,College,Unemployed,3,30,Yes,No,Yes,Purchased,No,No
+29,Male,White,Never been married,Post-graduate,Employed full-time,8,30,Yes,No,Yes,Purchased,Yes,Yes
+29,Female,White,Married,Post-graduate,Employed full-time,8,30,Yes,No,Yes,Purchased,Yes,Yes
+28,Male,White,Never been married,Some college,Unemployed,2,30,Yes,No,No,Purchased,Yes,No
+27,Male,White,Married,College,Employed full-time,3,30,Yes,No,No,Purchased,No,Yes
+23,Female,White,Never been married,High school,Employed full-time,7,30,Yes,Yes,Yes,Purchased,Yes,No
+23,Female,White,Never been married,Some college,Unemployed,7,30,Yes,No,Yes,Purchased,Yes,No
+22,Female,White,Never been married,Post-graduate,Employed full-time,8,30,Yes,No,Yes,Borrowed from library,Yes,Yes
+22,Male,White,Never been married,Some college,Unemployed,7,30,Yes,No,Yes,Purchased,No,No
+22,Male,White,Never been married,Some college,Employed part-time,8,30,Yes,No,Yes,Purchased,No,No
+22,Female,White,Married,High school,Employed full-time,4,30,No,No,No,Borrowed from others,Yes,Yes
+21,Male,White,Never been married,Some college,Employed part-time,6,30,Yes,No,No,Purchased,No,Yes
+20,Male,White,Never been married,Some college,Employed part-time,5,30,Yes,No,No,Borrowed from library,No,No
+20,Female,White,Married,Some college,Employed part-time,3,30,Yes,No,No,Borrowed from others,No,No
+19,Male,White,Single,High school,Employed full-time,5,30,Yes,No,Yes,Borrowed from library,No,Yes
+19,Male,White,Never been married,High school,Unemployed,6,30,Yes,No,Yes,Purchased,Yes,Yes
+18,Male,White,Never been married,High school,Unemployed,8,30,Yes,No,No,Borrowed from library,No,Yes
+18,Female,White,Never been married,High school,Employed part-time,8,30,Yes,No,No,Purchased,Yes,No
+17,Female,White,Never been married,Some high school,Unemployed,8,30,Yes,No,No,Purchased,No,No
+16,Female,White,Never been married,Some high school,Unemployed,5,30,Yes,No,No,Purchased,Yes,Yes
+74,Male,White,Married,Post-graduate,Employed part-time,6,26,Yes,Yes,Yes,Purchased,Yes,Yes
+67,Female,White,Married,Some college,Self-employed,8,26,Yes,No,No,Purchased,No,Yes
+29,Male,Other,Living with a partner,High school,Unemployed,3,25,Yes,No,Yes,Borrowed from library,No,No
+26,Female,Other,Never been married,College,Unemployed,3,25,Yes,No,No,Purchased,No,No
+51,Male,Native American,Divorced,Some college,Employed full-time,7,25,Yes,No,No,Other sources,Yes,Yes
+42,Male,Native American,Married,Some high school,Disabled,1,25,Yes,Yes,Yes,Borrowed from library,No,Yes
+31,Female,Native American,Never been married,Some college,Employed full-time,4,25,Yes,No,Yes,Purchased,Yes,Yes
+55,Male,Black/African-American,Divorced,Post-graduate,Employed full-time,8,25,Yes,No,No,Other sources,No,No
+49,Female,Black/African-American,Never been married,Some high school,Unemployed,8,25,Yes,No,No,Borrowed from library,No,Yes
+17,Female,Black/African-American,Never been married,High school,Employed part-time,3,25,Yes,No,No,Borrowed from library,No,Yes
+83,Female,White,Widowed,Some college,Retired,3,25,Yes,No,No,Purchased,Yes,No
+82,Male,White,Married,Post-graduate,Retired,6,25,Yes,No,No,Purchased,Yes,Yes
+79,Female,White,Widowed,High school,Retired,4,25,Yes,Yes,No,Borrowed from others,Yes,Yes
+78,Male,White,Married,Post-graduate,Retired,6,25,Yes,Yes,No,Purchased,Yes,No
+76,Female,White,Living with a partner,College,Retired,3,25,Yes,Yes,No,Purchased,Yes,Yes
+75,Female,White,Widowed,College,Retired,4,25,Yes,Yes,No,Purchased,Yes,Yes
+74,Male,White,Married,Post-graduate,Unemployed,8,25,Yes,No,Yes,Purchased,Yes,Yes
+74,Female,White,Widowed,Trade school,Retired,6,25,Yes,Yes,Yes,Purchased,Yes,No
+72,Male,White,Married,High school,Retired,6,25,Yes,No,No,Purchased,Yes,No
+72,Female,White,Married,Post-graduate,Employed full-time,5,25,Yes,No,No,Purchased,No,Yes
+69,Female,White,Married,Some college,Employed part-time,6,25,Yes,Yes,No,Borrowed from others,No,No
+67,Male,White,Married,College,Employed full-time,8,25,No,Yes,Yes,Purchased,Yes,Yes
+66,Male,White,Married,College,Employed part-time,7,25,Yes,No,No,Purchased,Yes,No
+65,Female,White,Divorced,High school,Employed part-time,2,25,Yes,No,No,Purchased,Yes,Yes
+63,Female,White,Living with a partner,High school,Retired,7,25,Yes,No,Yes,Borrowed from library,Yes,No
+63,Male,White,Married,Post-graduate,Retired,8,25,Yes,No,No,Purchased,Yes,Yes
+63,Female,White,Married,Post-graduate,Employed part-time,6,25,Yes,No,No,Borrowed from others,Yes,Yes
+60,Male,White,Married,College,Retired,7,25,Yes,No,Yes,Purchased,Yes,No
+58,Female,White,Divorced,Post-graduate,Employed full-time,6,25,Yes,No,Yes,Other sources,Yes,Yes
+56,Male,White,Married,Some college,Retired,7,25,Yes,Yes,Yes,Purchased,Yes,Yes
+55,Female,White,Married,College,Retired,7,25,Yes,No,Yes,Purchased,Yes,Yes
+52,Female,White,Never been married,Some college,Employed full-time,5,25,Yes,No,Yes,Purchased,No,Yes
+52,Female,White,Living with a partner,Post-graduate,Employed full-time,8,25,Yes,Yes,Yes,Borrowed from others,Yes,Yes
+49,Female,White,Married,College,Employed full-time,7,25,Yes,No,Yes,Purchased,Yes,Yes
+49,Female,White,Married,Post-graduate,Employed part-time,8,25,Yes,No,No,Purchased,No,Yes
+48,Male,White,Married,Post-graduate,Employed full-time,8,25,Yes,Yes,Yes,Purchased,No,Yes
+47,Female,White,Separated,Post-graduate,Employed full-time,8,25,Yes,No,Yes,Purchased,Yes,No
+47,Male,White,Married,College,Unemployed,4,25,Yes,No,No,Other sources,Yes,Yes
+47,Male,White,Married,Post-graduate,Employed full-time,6,25,Yes,No,Yes,Purchased,Yes,No
+47,Female,White,Married,None,Unemployed,4,25,Yes,No,No,Borrowed from library,No,No
+47,Male,White,Married,Post-graduate,Employed full-time,8,25,Yes,No,No,Borrowed from library,Yes,Yes
+46,Male,White,Single,Some college,Employed full-time,5,25,Yes,No,No,Borrowed from library,Yes,Yes
+45,Female,White,Married,Post-graduate,Employed full-time,7,25,Yes,No,Yes,Purchased,Yes,Yes
+44,Female,White,Married,Post-graduate,Employed full-time,8,25,Yes,No,Yes,Purchased,Yes,Yes
+44,Female,White,Never been married,Some college,Unemployed,6,25,Yes,Yes,Yes,Purchased,Yes,No
+43,Male,White,Married,Post-graduate,Employed full-time,8,25,Yes,No,No,Purchased,No,Yes
+42,Female,White,Married,High school,Employed full-time,6,25,Yes,No,No,Purchased,No,No
+42,Male,White,Married,Trade school,Employed full-time,5,25,No,No,No,Purchased,Yes,Yes
+40,Male,White,Married,College,Employed full-time,8,25,Yes,No,Yes,Purchased,Yes,Yes
+39,Male,White,Married,High school,Employed full-time,7,25,Yes,No,No,Purchased,Yes,Yes
+39,Male,White,Married,College,Self-employed,5,25,Yes,No,No,Other sources,No,Yes
+38,Female,White,Married,College,Unemployed,8,25,Yes,Yes,Yes,Borrowed from others,Yes,Yes
+35,Male,White,Married,Some college,Employed full-time,6,25,Yes,No,No,Purchased,No,Yes
+35,Male,White,Widowed,Post-graduate,Employed full-time,8,25,Yes,No,Yes,Borrowed from library,Yes,Yes
+34,Female,White,Married,Post-graduate,Employed full-time,7,25,Yes,No,Yes,Borrowed from library,Yes,No
+32,Female,White,Married,Some college,Disabled,2,25,Yes,No,No,Borrowed from others,No,Yes
+27,Male,White,Never been married,College,Employed part-time,6,25,Yes,Yes,Yes,Borrowed from library,Yes,Yes
+27,Female,White,Married,Post-graduate,Employed full-time,4,25,Yes,No,No,Purchased,Yes,No
+25,Male,White,Never been married,College,Employed full-time,4,25,Yes,No,Yes,Borrowed from others,Yes,No
+25,Male,White,Married,Some college,Employed full-time,7,25,Yes,No,Yes,Other sources,Yes,Yes
+24,Female,White,Never been married,High school,Employed full-time,3,25,Yes,No,No,Purchased,No,No
+23,Male,White,Married,College,Employed full-time,3,25,Yes,Yes,No,Borrowed from library,No,No
+21,Male,White,Never been married,High school,Employed full-time,1,25,Yes,No,No,Borrowed from others,Yes,Yes
+21,Male,White,Never been married,Some college,Unemployed,1,25,No,No,Yes,Other sources,No,No
+19,Male,White,Never been married,High school,Unemployed,2,25,Yes,No,No,Borrowed from library,Yes,No
+17,Male,White,Never been married,Some high school,Employed part-time,4,25,Yes,No,No,Borrowed from library,No,No
+17,Male,White,Never been married,Some high school,Employed part-time,6,25,No,No,Yes,Purchased,Yes,Yes
+17,Female,White,Never been married,Some high school,Unemployed,8,25,Yes,No,No,Other sources,No,Yes
+16,Female,White,Never been married,Some high school,Unemployed,8,25,Yes,No,No,Purchased,Yes,No
+16,Male,Mixed race,Single,None,Unemployed,8,24,Yes,No,No,Other sources,No,No
+55,Male,Black/African-American,Divorced,High school,Disabled,3,24,Yes,No,No,Other sources,No,No
+51,Male,Black/African-American,Separated,High school,Disabled,3,24,Yes,No,No,Other sources,Yes,No
+30,Male,Black/African-American,Never been married,Some college,Employed full-time,4,24,Yes,No,Yes,Purchased,Yes,Yes
+85,Female,White,Married,High school,Retired,5,24,Yes,No,No,Borrowed from library,Yes,Yes
+85,Male,White,Married,College,Employed part-time,6,24,Yes,No,No,Borrowed from library,Yes,Yes
+84,Female,White,Widowed,High school,Unemployed,2,24,Yes,No,No,Purchased,Yes,No
+83,Female,White,Widowed,Some college,Retired,3,24,Yes,No,No,Borrowed from others,Yes,No
+75,Female,White,Married,College,Retired,6,24,Yes,Yes,Yes,Other sources,No,Yes
+69,Male,White,Never been married,High school,Retired,3,24,Yes,No,No,Purchased,Yes,Yes
+67,Female,White,Divorced,Post-graduate,Employed part-time,7,24,Yes,Yes,Yes,Other sources,No,No
+65,Male,White,Married,Some college,Employed part-time,7,24,Yes,Yes,No,Purchased,Yes,Yes
+64,Female,White,Married,College,Retired,5,24,Yes,No,No,Borrowed from library,Yes,No
+63,Female,White,Married,Some college,Employed full-time,5,24,Yes,No,No,Borrowed from others,Yes,No
+62,Male,White,Divorced,Post-graduate,Retired,5,24,Yes,No,Yes,Purchased,Yes,Yes
+60,Female,White,Married,High school,Employed full-time,6,24,No,No,Yes,Purchased,No,No
+60,Female,White,Widowed,High school,Employed part-time,3,24,Yes,No,No,Purchased,Yes,No
+60,Female,White,Married,High school,Employed part-time,4,24,Yes,No,No,Borrowed from library,Yes,Yes
+60,Male,White,Married,College,Employed full-time,7,24,Yes,No,Yes,Other sources,Yes,Yes
+59,Female,White,Married,Post-graduate,Unemployed,7,24,Yes,Yes,No,Borrowed from library,Yes,Yes
+57,Female,White,Married,High school,Employed full-time,5,24,Yes,No,No,Purchased,Yes,No
+54,Female,White,Married,College,Employed part-time,8,24,Yes,No,Yes,Purchased,Yes,Yes
+51,Female,White,Married,Trade school,Retired,6,24,Yes,No,Yes,Other sources,No,Yes
+50,Male,White,Married,Some college,Unemployed,6,24,Yes,No,No,Borrowed from others,Yes,Yes
+50,Female,White,Married,Some college,Employed full-time,7,24,Yes,No,No,Purchased,Yes,No
+50,Male,White,Married,Post-graduate,Employed full-time,8,24,Yes,No,Yes,Purchased,Yes,No
+47,Female,White,Married,Some college,Employed part-time,8,24,Yes,No,No,Borrowed from library,Yes,Yes
+47,Female,White,Never been married,Post-graduate,Unemployed,8,24,Yes,No,Yes,Purchased,No,No
+41,Male,White,Married,College,Retired,8,24,Yes,No,Yes,Purchased,Yes,Yes
+33,Female,White,Married,Post-graduate,Unemployed,4,24,Yes,No,No,Purchased,No,Yes
+17,Female,White,Never been married,Some high school,Unemployed,7,24,Yes,No,No,Borrowed from others,Yes,Yes
+21,Female,White,Never been married,College,Employed full-time,8,23,Yes,No,Yes,Purchased,Yes,Yes
+58,Female,White,Married,Some college,Employed part-time,8,22,Yes,Yes,Yes,Purchased,Yes,No
+21,Male,Other,Living with a partner,Some high school,Employed part-time,5,20,Yes,No,No,Purchased,No,Yes
+40,Female,Native American,Divorced,Post-graduate,Employed full-time,8,20,Yes,No,Yes,Purchased,Yes,Yes
+39,Male,Mixed race,Never been married,College,Employed full-time,5,20,Yes,No,No,Purchased,No,No
+27,Female,Mixed race,Married,Some college,Employed full-time,8,20,No,Yes,No,Purchased,Yes,Yes
+24,Male,Mixed race,Never been married,Post-graduate,Employed full-time,8,20,Yes,No,Yes,Borrowed from others,No,No
+17,Female,Mixed race,Never been married,Some high school,Employed full-time,1,20,Yes,Yes,Yes,Other sources,Yes,No
+17,Female,Mixed race,Never been married,Some high school,Unemployed,8,20,Yes,No,No,Borrowed from others,No,No
+16,Male,Mixed race,Never been married,Some high school,Student,8,20,Yes,No,Yes,Purchased,No,Yes
+47,Male,Asian/Pacific Islander,Married,Trade school,Student,8,20,Yes,No,No,Purchased,No,Yes
+34,Female,Asian/Pacific Islander,Married,Post-graduate,Employed full-time,8,20,Yes,No,Yes,Other sources,No,Yes
+78,Female,Black/African-American,Widowed,High school,Retired,8,20,No,No,Yes,Purchased,No,Yes
+60,Male,Black/African-American,Married,Post-graduate,Employed full-time,5,20,Yes,Yes,No,Purchased,Yes,Yes
+56,Female,Black/African-American,Divorced,High school,Employed full-time,3,20,Yes,No,No,Borrowed from others,Yes,No
+47,Male,Black/African-American,Married,Some college,Employed full-time,4,20,Yes,No,No,Borrowed from library,Yes,Yes
+47,Male,Black/African-American,Married,High school,Employed full-time,5,20,Yes,Yes,Yes,Borrowed from others,Yes,No
+37,Male,Black/African-American,Married,College,Employed full-time,7,20,Yes,No,No,Purchased,Yes,Yes
+37,Male,Black/African-American,Living with a partner,Some college,Employed full-time,2,20,Yes,No,No,Other sources,Yes,No
+31,Female,Black/African-American,Living with a partner,High school,Employed full-time,4,20,Yes,No,No,Other sources,Yes,Yes
+22,Female,Black/African-American,Never been married,Some college,Unemployed,5,20,Yes,No,Yes,Purchased,No,Yes
+17,Female,Black/African-American,Never been married,Some high school,Unemployed,8,20,Yes,No,No,Borrowed from library,No,Yes
+83,Female,White,Widowed,Post-graduate,Retired,7,20,Yes,No,Yes,Purchased,No,No
+80,Female,White,Divorced,Some college,Retired,2,20,Yes,No,No,Borrowed from others,Yes,No
+73,Female,White,Divorced,College,Employed full-time,6,20,Yes,No,Yes,Other sources,Yes,Yes
+72,Male,White,Divorced,College,Retired,8,20,Yes,Yes,Yes,Purchased,Yes,Yes
+72,Female,White,Married,High school,Retired,8,20,Yes,No,No,Borrowed from library,No,Yes
+70,Male,White,Divorced,College,Retired,7,20,Yes,No,No,Purchased,Yes,No
+70,Female,White,Married,Post-graduate,Employed part-time,6,20,Yes,No,Yes,Borrowed from library,Yes,No
+70,Female,White,Married,High school,Employed part-time,4,20,Yes,No,Yes,Borrowed from library,Yes,Yes
+70,Male,White,Married,Post-graduate,Retired,6,20,Yes,No,Yes,Purchased,Yes,Yes
+70,Female,White,Married,Post-graduate,Retired,8,20,Yes,No,No,Borrowed from others,Yes,Yes
+69,Female,White,Widowed,Some college,Retired,3,20,Yes,No,No,Borrowed from library,No,No
+69,Female,White,Married,College,Retired,5,20,Yes,Yes,Yes,Purchased,No,Yes
+69,Male,White,Married,College,Retired,7,20,Yes,No,No,Purchased,Yes,Yes
+68,Male,White,Married,College,Retired,4,20,Yes,No,Yes,Purchased,Yes,Yes
+68,Female,White,Married,Post-graduate,Retired,6,20,Yes,Yes,Yes,Purchased,No,Yes
+68,Female,White,Married,College,Retired,8,20,Yes,No,Yes,Purchased,Yes,Yes
+68,Female,White,Married,High school,Retired,4,20,Yes,No,No,Purchased,Yes,No
+67,Male,White,Married,College,Retired,8,20,No,No,Yes,Purchased,Yes,No
+66,Female,White,Never been married,Post-graduate,Employed full-time,8,20,Yes,Yes,Yes,Purchased,Yes,Yes
+65,Female,White,Married,Post-graduate,Retired,7,20,Yes,No,Yes,Purchased,Yes,Yes
+65,Female,White,Married,Some college,Retired,8,20,Yes,No,Yes,Purchased,No,No
+64,Male,White,Married,Post-graduate,Retired,7,20,Yes,No,Yes,Purchased,Yes,Yes
+64,Female,White,Single,Post-graduate,Employed part-time,6,20,Yes,No,No,Purchased,Yes,Yes
+63,Female,White,Married,High school,Retired,7,20,Yes,No,No,Borrowed from library,Yes,Yes
+63,Female,White,Married,College,Retired,8,20,Yes,No,No,Purchased,Yes,Yes
+62,Female,White,Divorced,Post-graduate,Employed full-time,5,20,Yes,No,No,Purchased,Yes,Yes
+62,Female,White,Married,Some college,Employed full-time,4,20,Yes,No,No,Purchased,No,No
+62,Female,White,Married,Post-graduate,Employed part-time,8,20,No,Yes,Yes,Purchased,No,No
+62,Male,White,Married,Post-graduate,Employed full-time,7,20,Yes,No,No,Borrowed from others,Yes,Yes
+62,Female,White,Married,Some college,Retired,8,20,Yes,No,No,Borrowed from library,Yes,No
+61,Female,White,Divorced,Post-graduate,Employed part-time,4,20,Yes,Yes,Yes,Purchased,Yes,No
+60,Male,White,Married,Some college,Employed full-time,6,20,Yes,No,No,Borrowed from others,Yes,No
+60,Male,White,Married,Some college,Retired,8,20,Yes,No,No,Purchased,Yes,No
+60,Female,White,Married,Some college,Employed part-time,8,20,Yes,No,Yes,Borrowed from others,Yes,Yes
+60,Male,White,Married,High school,Retired,6,20,Yes,No,No,Purchased,Yes,Yes
+60,Male,White,Divorced,Post-graduate,Employed full-time,8,20,Yes,No,Yes,Purchased,Yes,Yes
+59,Female,White,Married,College,Unemployed,8,20,No,No,Yes,Purchased,Yes,No
+59,Female,White,Married,College,Disabled,5,20,Yes,No,No,Other sources,Yes,Yes
+58,Male,White,Married,College,Employed full-time,8,20,Yes,No,Yes,Purchased,Yes,Yes
+57,Female,White,Married,Post-graduate,Employed full-time,7,20,Yes,No,No,Purchased,Yes,Yes
+56,Female,White,Married,Post-graduate,Employed full-time,7,20,Yes,No,No,Other sources,Yes,Yes
+56,Female,White,Married,College,Employed full-time,6,20,Yes,No,No,Purchased,Yes,Yes
+56,Male,White,Married,College,Employed full-time,8,20,Yes,No,Yes,Purchased,Yes,Yes
+55,Male,White,Married,Some college,Employed full-time,6,20,No,Yes,No,Purchased,No,No
+55,Female,White,Divorced,High school,Employed full-time,1,20,Yes,No,No,Purchased,Yes,No
+55,Male,White,Married,College,Employed full-time,8,20,Yes,No,Yes,Purchased,Yes,Yes
+54,Male,White,Living with a partner,Some college,Employed full-time,5,20,Yes,No,No,Other sources,No,No
+54,Male,White,Married,College,Employed full-time,7,20,Yes,No,No,Purchased,Yes,Yes
+54,Male,White,Divorced,College,Employed full-time,8,20,Yes,No,No,Purchased,Yes,Yes
+54,Male,White,Married,High school,Employed part-time,4,20,Yes,No,Yes,Other sources,Yes,No
+54,Male,White,Never been married,Post-graduate,Retired,5,20,Yes,No,Yes,Purchased,Yes,Yes
+53,Female,White,Divorced,High school,Employed part-time,2,20,No,No,Yes,Purchased,Yes,No
+52,Female,White,Never been married,Some college,Employed full-time,4,20,Yes,No,No,Purchased,Yes,Yes
+52,Female,White,Divorced,Some college,Employed full-time,3,20,Yes,No,No,Borrowed from others,Yes,Yes
+50,Male,White,Never been married,College,Employed full-time,8,20,Yes,Yes,Yes,Purchased,No,Yes
+49,Female,White,Living with a partner,High school,Employed full-time,4,20,Yes,No,No,Borrowed from others,Yes,No
+48,Male,White,Married,Post-graduate,Employed full-time,6,20,Yes,Yes,No,Purchased,Yes,Yes
+48,Female,White,Living with a partner,College,Employed full-time,8,20,Yes,No,Yes,Purchased,Yes,Yes
+48,Female,White,Married,Some college,Employed part-time,6,20,Yes,Yes,No,Borrowed from others,Yes,Yes
+48,Female,White,Married,Post-graduate,Employed full-time,8,20,Yes,No,Yes,Other sources,No,Yes
+47,Female,White,Married,Post-graduate,Employed part-time,8,20,Yes,Yes,No,Borrowed from library,Yes,Yes
+47,Female,White,Married,College,Employed full-time,8,20,Yes,No,Yes,Purchased,No,Yes
+45,Female,White,Married,Post-graduate,Employed full-time,6,20,Yes,Yes,Yes,Purchased,No,Yes
+44,Male,White,Married,Post-graduate,Employed full-time,7,20,Yes,No,No,Borrowed from others,Yes,Yes
+44,Female,White,Married,Post-graduate,Employed full-time,8,20,Yes,No,Yes,Purchased,Yes,Yes
+44,Male,White,Married,Some college,Retired,6,20,Yes,Yes,Yes,Other sources,Yes,Yes
+44,Male,White,Married,College,Unemployed,6,20,Yes,No,No,Other sources,No,No
+43,Female,White,Married,College,Employed full-time,7,20,Yes,No,Yes,Purchased,No,Yes
+43,Female,White,Never been married,Post-graduate,Employed full-time,8,20,Yes,No,Yes,Purchased,No,Yes
+42,Female,White,Married,High school,Employed full-time,5,20,No,Yes,No,Borrowed from library,Yes,No
+42,Male,White,Married,College,Employed full-time,8,20,Yes,Yes,No,Borrowed from library,No,No
+42,Female,White,Married,High school,Employed full-time,6,20,Yes,No,No,Borrowed from others,No,No
+40,Female,White,Married,Post-graduate,Employed full-time,8,20,Yes,No,Yes,Purchased,Yes,Yes
+40,Male,White,Married,Post-graduate,Employed full-time,7,20,Yes,Yes,Yes,Borrowed from library,Yes,Yes
+40,Male,White,Married,College,Employed full-time,7,20,Yes,Yes,No,Purchased,Yes,Yes
+39,Male,White,Married,College,Employed full-time,8,20,Yes,No,No,Purchased,Yes,Yes
+38,Female,White,Married,Some college,Employed part-time,4,20,Yes,No,No,Borrowed from others,Yes,Yes
+38,Female,White,Living with a partner,Post-graduate,Employed full-time,6,20,Yes,No,Yes,Purchased,Yes,No
+38,Male,White,Married,Some college,Employed full-time,7,20,Yes,Yes,No,Purchased,Yes,No
+37,Female,White,Married,College,Unemployed,6,20,Yes,No,Yes,Borrowed from others,Yes,No
+34,Male,White,Never been married,Some college,Student,6,20,Yes,No,Yes,Purchased,Yes,No
+34,Female,White,Married,Some college,Employed full-time,4,20,Yes,No,Yes,Other sources,Yes,No
+33,Female,White,Married,Post-graduate,Employed full-time,4,20,Yes,No,No,Other sources,Yes,Yes
+33,Male,White,Married,Some college,Employed full-time,7,20,Yes,Yes,Yes,Purchased,Yes,Yes
+33,Male,White,Married,Post-graduate,Employed full-time,6,20,Yes,Yes,Yes,Purchased,Yes,Yes
+33,Male,White,Married,College,Employed full-time,7,20,Yes,No,No,Purchased,No,Yes
+33,Female,White,Married,Some college,Unemployed,6,20,Yes,No,Yes,Purchased,No,Yes
+33,Male,White,Married,Post-graduate,Employed full-time,8,20,Yes,No,Yes,Purchased,Yes,No
+32,Male,White,Married,Post-graduate,Employed full-time,8,20,Yes,Yes,No,Other sources,Yes,Yes
+32,Female,White,Married,Some college,Employed full-time,7,20,Yes,No,Yes,Purchased,Yes,No
+31,Female,White,Married,Post-graduate,Employed full-time,8,20,Yes,Yes,No,Borrowed from others,Yes,No
+31,Female,White,Married,Some college,Other,7,20,No,No,Yes,Purchased,Yes,Yes
+30,Male,White,Never been married,College,Employed full-time,8,20,No,No,No,Purchased,No,No
+26,Female,White,Married,College,Employed full-time,5,20,Yes,No,Yes,Purchased,No,No
+26,Female,White,Married,College,Employed full-time,7,20,Yes,No,Yes,Purchased,No,Yes
+26,Female,White,Married,High school,Employed full-time,4,20,Yes,No,Yes,Other sources,Yes,No
+26,Male,White,Living with a partner,High school,Unemployed,4,20,Yes,No,Yes,Purchased,Yes,Yes
+25,Male,White,Never been married,College,Employed full-time,6,20,Yes,Yes,Yes,Borrowed from others,Yes,Yes
+24,Female,White,Married,College,Unemployed,5,20,Yes,No,No,Purchased,No,Yes
+24,Male,White,Never been married,College,Employed full-time,7,20,Yes,No,No,Other sources,Yes,Yes
+24,Female,White,Married,Some college,Employed full-time,5,20,Yes,Yes,No,Purchased,No,No
+24,Female,White,Never been married,Some college,Employed full-time,8,20,Yes,No,No,Purchased,No,Yes
+23,Male,White,Never been married,Some college,Employed full-time,2,20,Yes,No,No,Purchased,Yes,No
+23,Female,White,Never been married,Some college,Unemployed,8,20,Yes,No,Yes,Purchased,No,No
+23,Female,White,Never been married,Post-graduate,Student,5,20,Yes,Yes,Yes,Borrowed from others,No,No
+22,Female,White,Single,Post-graduate,Employed part-time,7,20,Yes,No,No,Purchased,No,No
+21,Female,White,Single,Some college,Unemployed,8,20,Yes,No,No,Purchased,No,Yes
+21,Male,White,Never been married,College,Employed full-time,7,20,Yes,No,Yes,Purchased,Yes,Yes
+20,Female,White,Never been married,Some college,Employed part-time,6,20,Yes,No,Yes,Borrowed from others,Yes,Yes
+19,Female,White,Never been married,Some college,Employed part-time,4,20,Yes,No,Yes,Borrowed from library,No,No
+18,Female,White,Never been married,High school,Employed full-time,2,20,Yes,No,No,Purchased,No,No
+17,Female,White,Never been married,Some high school,Unemployed,2,20,Yes,No,No,Borrowed from library,No,No
+17,Male,White,Never been married,Some high school,Unemployed,4,20,Yes,No,Yes,Borrowed from library,No,Yes
+17,Female,White,Never been married,Some high school,Unemployed,8,20,Yes,No,No,Borrowed from others,No,Yes
+16,Male,White,Never been married,Some high school,Unemployed,8,20,Yes,No,No,Borrowed from library,Yes,No
+16,Female,White,Never been married,Some high school,Student,3,20,Yes,No,No,Borrowed from library,Yes,Yes
+16,Male,White,Never been married,Some high school,Employed part-time,3,20,Yes,No,No,Purchased,No,No
+16,Female,White,Never been married,Some high school,Unemployed,8,20,Yes,No,No,Purchased,No,No
+16,Male,White,Never been married,Some high school,Employed part-time,2,20,Yes,No,Yes,Borrowed from others,Yes,No
+16,Female,White,Never been married,Some high school,Unemployed,6,20,Yes,Yes,No,Purchased,No,Yes
+16,Male,White,Never been married,Some high school,Unemployed,8,20,Yes,No,Yes,Other sources,Yes,Yes
+18,Female,White,Never been married,High school,Employed part-time,8,19,Yes,No,No,Purchased,Yes,No
+76,Male,White,Married,Some college,Employed part-time,7,18,Yes,Yes,Yes,Purchased,Yes,No
+72,Female,White,Widowed,College,Retired,4,18,Yes,Yes,No,Borrowed from library,Yes,Yes
+68,Female,White,Married,Post-graduate,Unemployed,8,18,Yes,No,No,Purchased,Yes,Yes
+64,Female,White,Married,Post-graduate,Retired,5,18,Yes,Yes,Yes,Borrowed from library,No,Yes
+61,Female,White,Married,College,Employed part-time,8,18,Yes,No,No,Purchased,Yes,Yes
+53,Male,White,Married,Post-graduate,Employed full-time,8,18,No,Yes,Yes,Purchased,Yes,No
+53,Female,White,Never been married,Trade school,Disabled,1,18,Yes,No,No,Purchased,No,No
+51,Male,White,Married,Some college,Employed full-time,7,18,Yes,Yes,Yes,Purchased,Yes,Yes
+50,Male,White,Married,High school,Employed full-time,6,18,Yes,No,Yes,Purchased,Yes,Yes
+31,Female,White,Married,High school,Unemployed,1,18,Yes,No,No,Purchased,No,Yes
+60,Male,White,Married,College,Employed full-time,8,17,Yes,Yes,No,Borrowed from others,No,No
+43,Female,White,Widowed,College,Employed full-time,5,17,Yes,No,Yes,Borrowed from others,Yes,Yes
+30,Female,White,Married,Post-graduate,Employed full-time,8,17,Yes,No,Yes,Purchased,Yes,No
+25,Male,White,Never been married,College,Employed full-time,6,17,Yes,No,Yes,Other sources,No,Yes
+17,Male,White,Never been married,High school,Unemployed,3,17,Yes,No,Yes,Borrowed from library,No,No
+35,Male,Asian/Pacific Islander,Married,Post-graduate,Employed full-time,8,16,Yes,No,Yes,Purchased,No,No
+50,Male,Black/African-American,Single,High school,Unemployed,1,16,Yes,No,No,Purchased,Yes,Yes
+79,Female,White,Divorced,Post-graduate,Retired,6,16,Yes,No,No,Purchased,Yes,Yes
+79,Female,White,Widowed,Some high school,Unemployed,4,16,Yes,No,No,Purchased,Yes,Yes
+78,Female,White,Widowed,High school,Retired,3,16,Yes,No,No,Other sources,No,Yes
+67,Male,White,Single,Some college,Retired,2,16,Yes,No,No,Purchased,Yes,No
+65,Male,White,Married,Post-graduate,Retired,8,16,Yes,No,No,Borrowed from others,Yes,Yes
+40,Female,White,Married,Post-graduate,Employed full-time,7,16,No,No,Yes,Purchased,Yes,Yes
+22,Male,White,Never been married,Some high school,Employed full-time,1,16,Yes,No,No,Borrowed from others,Yes,No
+37,Female,Other,Married,Post-graduate,Unemployed,8,15,Yes,No,No,Purchased,Yes,Yes
+36,Female,Other,Married,College,Employed full-time,8,15,Yes,Yes,Yes,Purchased,Yes,No
+69,Male,Mixed race,Married,College,Retired,1,15,Yes,No,No,Purchased,Yes,No
+38,Female,Mixed race,Married,College,Unemployed,8,15,Yes,No,No,Purchased,No,Yes
+57,Male,Asian/Pacific Islander,Married,College,Unemployed,8,15,Yes,No,No,Purchased,No,Yes
+50,Male,Asian/Pacific Islander,Married,Post-graduate,Employed full-time,8,15,Yes,No,Yes,Purchased,Yes,Yes
+33,Female,Asian/Pacific Islander,Never been married,Post-graduate,Employed full-time,7,15,Yes,Yes,Yes,Borrowed from library,Yes,Yes
+30,Female,Asian/Pacific Islander,Never been married,Some college,Employed full-time,8,15,Yes,No,No,Other sources,No,Yes
+26,Female,Asian/Pacific Islander,Married,Some college,Student,4,15,Yes,No,Yes,Purchased,Yes,No
+59,Male,Black/African-American,Married,High school,Retired,3,15,Yes,No,No,Borrowed from others,No,Yes
+51,Female,Black/African-American,Widowed,High school,Employed part-time,3,15,Yes,No,Yes,Purchased,Yes,Yes
+40,Male,Black/African-American,Married,College,Employed full-time,8,15,Yes,No,Yes,Purchased,Yes,Yes
+37,Male,Black/African-American,Living with a partner,College,Employed full-time,7,15,Yes,No,Yes,Purchased,Yes,Yes
+32,Female,Black/African-American,Never been married,College,Employed part-time,2,15,Yes,No,Yes,Purchased,No,Yes
+29,Female,Black/African-American,Widowed,Some college,Unemployed,3,15,Yes,No,No,Borrowed from library,No,Yes
+24,Female,Black/African-American,Single,College,Employed full-time,1,15,Yes,No,No,Borrowed from library,Yes,Yes
+81,Female,White,Widowed,Some college,Retired,3,15,Yes,No,No,Borrowed from library,Yes,Yes
+81,Male,White,Married,College,Retired,3,15,Yes,No,No,Borrowed from others,Yes,No
+78,Male,White,Divorced,Post-graduate,Retired,4,15,Yes,No,No,Purchased,No,Yes
+78,Male,White,Widowed,Some college,Self-employed,4,15,Yes,Yes,Yes,Other sources,Yes,Yes
+77,Female,White,Never been married,High school,Employed part-time,4,15,Yes,No,No,Other sources,Yes,Yes
+75,Male,White,Married,High school,Retired,2,15,Yes,No,No,Borrowed from library,Yes,Yes
+71,Male,White,Widowed,Some high school,Retired,1,15,Yes,No,No,Borrowed from others,Yes,No
+70,Female,White,Married,Post-graduate,Retired,5,15,Yes,No,Yes,Purchased,No,Yes
+69,Female,White,Divorced,Post-graduate,Retired,4,15,Yes,No,No,Purchased,No,No
+68,Female,White,Married,College,Retired,6,15,Yes,Yes,No,Borrowed from others,No,Yes
+68,Female,White,Widowed,Post-graduate,Retired,8,15,No,No,Yes,Borrowed from library,Yes,Yes
+67,Female,White,Married,Post-graduate,Retired,8,15,Yes,No,No,Purchased,Yes,Yes
+66,Male,White,Married,Some college,Retired,5,15,Yes,No,Yes,Other sources,Yes,No
+65,Female,White,Married,College,Employed part-time,3,15,Yes,No,No,Purchased,Yes,Yes
+65,Male,White,Married,High school,Retired,3,15,Yes,No,No,Purchased,No,Yes
+65,Female,White,Married,Post-graduate,Retired,7,15,Yes,No,Yes,Purchased,Yes,Yes
+65,Male,White,Married,College,Employed full-time,8,15,Yes,Yes,No,Purchased,Yes,Yes
+64,Male,White,Married,College,Retired,8,15,Yes,No,Yes,Purchased,Yes,No
+64,Male,White,Divorced,High school,Retired,3,15,Yes,No,No,Borrowed from others,No,Yes
+63,Female,White,Married,College,Disabled,5,15,Yes,No,No,Purchased,Yes,No
+62,Female,White,Never been married,Some college,Retired,4,15,Yes,No,No,Purchased,Yes,Yes
+62,Male,White,Married,Post-graduate,Retired,8,15,Yes,No,Yes,Purchased,Yes,Yes
+61,Male,White,Married,College,Employed full-time,8,15,Yes,No,No,Purchased,Yes,No
+60,Female,White,Married,College,Employed full-time,6,15,Yes,Yes,No,Purchased,No,Yes
+60,Female,White,Married,College,Employed part-time,8,15,Yes,Yes,No,Purchased,Yes,Yes
+59,Female,White,Divorced,Post-graduate,Employed full-time,8,15,Yes,Yes,Yes,Purchased,Yes,Yes
+57,Female,White,Married,Trade school,Employed full-time,8,15,Yes,No,No,Borrowed from others,Yes,Yes
+56,Female,White,Married,Some college,Employed full-time,6,15,Yes,No,Yes,Purchased,Yes,No
+56,Female,White,Married,College,Retired,8,15,Yes,No,No,Purchased,Yes,Yes
+55,Male,White,Married,High school,Retired,2,15,No,Yes,Yes,Other sources,Yes,No
+55,Female,White,Married,High school,Employed full-time,8,15,Yes,No,Yes,Purchased,Yes,Yes
+54,Male,White,Never been married,College,Employed full-time,4,15,Yes,No,No,Purchased,Yes,Yes
+54,Male,White,Married,Post-graduate,Employed full-time,8,15,Yes,No,Yes,Purchased,No,Yes
+54,Female,White,Married,College,Employed full-time,7,15,Yes,No,Yes,Purchased,No,Yes
+52,Male,White,Married,College,Employed full-time,8,15,Yes,No,Yes,Purchased,Yes,Yes
+51,Female,White,Married,Some college,Employed full-time,7,15,Yes,No,Yes,Other sources,No,Yes
+51,Male,White,Divorced,Some college,Employed full-time,8,15,Yes,No,No,Borrowed from others,Yes,No
+50,Male,White,Living with a partner,High school,Employed full-time,6,15,Yes,No,No,Purchased,No,No
+50,Female,White,Married,College,Employed full-time,7,15,Yes,Yes,No,Borrowed from others,No,Yes
+50,Male,White,Married,Post-graduate,Employed part-time,8,15,Yes,No,No,Purchased,Yes,Yes
+50,Male,White,Married,Some college,Self-employed,8,15,Yes,No,Yes,Purchased,Yes,Yes
+49,Male,White,Married,High school,Employed full-time,8,15,Yes,No,No,Purchased,Yes,No
+48,Female,White,Married,College,Retired,7,15,Yes,No,Yes,Borrowed from others,Yes,Yes
+47,Female,White,Married,College,Employed full-time,5,15,Yes,No,No,Other sources,No,Yes
+47,Male,White,Divorced,College,Self-employed,4,15,Yes,No,No,Other sources,Yes,No
+45,Female,White,Married,Post-graduate,Self-employed,8,15,Yes,No,No,Purchased,No,Yes
+44,Female,White,Married,College,Employed full-time,8,15,Yes,No,Yes,Purchased,No,No
+43,Male,White,Married,College,Employed full-time,7,15,Yes,No,No,Purchased,Yes,Yes
+43,Female,White,Married,College,Employed full-time,8,15,Yes,No,Yes,Purchased,No,No
+42,Female,White,Married,Post-graduate,Employed part-time,8,15,No,Yes,Yes,Purchased,No,No
+42,Female,White,Married,College,Employed part-time,4,15,No,No,No,Other sources,No,No
+40,Male,White,Married,High school,Unemployed,5,15,Yes,No,No,Purchased,Yes,No
+39,Female,White,Divorced,Post-graduate,Employed full-time,7,15,Yes,No,No,Borrowed from library,No,Yes
+39,Male,White,Married,College,Self-employed,4,15,Yes,Yes,Yes,Purchased,No,No
+39,Male,White,Married,Some college,Employed full-time,8,15,Yes,Yes,Yes,Borrowed from library,No,Yes
+39,Male,White,Divorced,Some college,Employed full-time,7,15,Yes,No,No,Other sources,Yes,Yes
+37,Male,White,Married,Post-graduate,Employed full-time,7,15,Yes,No,Yes,Purchased,No,Yes
+36,Male,White,Married,Trade school,Employed full-time,5,15,Yes,Yes,Yes,Borrowed from others,Yes,Yes
+35,Female,White,Married,College,Employed full-time,6,15,Yes,No,Yes,Borrowed from others,Yes,No
+33,Male,White,Married,Post-graduate,Employed full-time,6,15,No,No,Yes,Purchased,Yes,No
+32,Male,White,Married,College,Employed full-time,8,15,Yes,No,Yes,Purchased,Yes,Yes
+32,Male,White,Married,High school,Employed full-time,7,15,Yes,Yes,Yes,Purchased,No,Yes
+31,Female,White,Married,College,Employed full-time,6,15,Yes,No,Yes,Purchased,Yes,No
+30,Male,White,Married,Post-graduate,Employed full-time,7,15,Yes,No,Yes,Borrowed from library,No,No
+30,Female,White,Married,College,Unemployed,6,15,Yes,No,No,Purchased,Yes,No
+27,Female,White,Never been married,College,Employed full-time,3,15,Yes,No,No,Borrowed from others,No,No
+24,Male,White,Never been married,College,Employed full-time,6,15,Yes,No,No,Borrowed from others,Yes,No
+23,Male,White,Married,Some college,Employed full-time,6,15,Yes,No,Yes,Purchased,Yes,Yes
+23,Female,White,Never been married,College,Unemployed,4,15,Yes,No,No,Purchased,No,No
+22,Female,White,Married,Some college,Unemployed,3,15,Yes,No,No,Borrowed from others,No,No
+22,Male,White,Single,Some college,Employed full-time,8,15,Yes,Yes,Yes,Purchased,Yes,Yes
+18,Female,White,Never been married,Some high school,Unemployed,4,15,Yes,No,No,Borrowed from library,No,No
+17,Female,White,Never been married,Some high school,Employed part-time,8,15,Yes,No,No,Purchased,No,Yes
+17,Male,White,Never been married,Some high school,Employed part-time,8,15,Yes,No,No,Borrowed from library,No,Yes
+17,Male,White,Never been married,Some high school,Unemployed,4,15,Yes,No,No,Borrowed from others,No,No
+17,Male,White,Never been married,Some high school,Unemployed,3,15,Yes,No,No,Borrowed from library,Yes,Yes
+16,Female,White,Never been married,Some high school,Unemployed,7,15,Yes,No,No,Other sources,No,Yes
+16,Male,Asian/Pacific Islander,Never been married,Some high school,Unemployed,8,14,Yes,No,Yes,Borrowed from library,Yes,No
+80,Male,White,Married,Post-graduate,Retired,6,14,Yes,No,No,Borrowed from library,Yes,Yes
+77,Male,White,Married,Post-graduate,Retired,8,14,Yes,No,Yes,Purchased,Yes,No
+53,Male,White,Married,Some college,Retired,8,14,Yes,No,No,Other sources,No,Yes
+52,Male,White,Never been married,College,Unemployed,5,14,Yes,No,No,Borrowed from others,Yes,Yes
+52,Female,White,Married,Some college,Unemployed,3,14,Yes,No,Yes,Purchased,Yes,Yes
+16,Female,White,Never been married,Some high school,Unemployed,8,14,Yes,No,No,Borrowed from library,No,Yes
+47,Female,Black/African-American,Living with a partner,High school,Employed full-time,5,13,Yes,No,No,Purchased,No,Yes
+24,Male,Black/African-American,Single,High school,Employed full-time,2,13,No,Yes,No,Borrowed from others,No,Yes
+21,Female,Black/African-American,Never been married,Some college,Unemployed,4,13,Yes,No,No,Purchased,No,Yes
+52,Male,White,Married,Some college,Employed full-time,8,13,Yes,Yes,No,Purchased,Yes,Yes
+50,Female,White,Widowed,College,Retired,7,13,Yes,No,No,Purchased,No,Yes
+42,Female,White,Separated,College,Employed full-time,5,13,Yes,No,Yes,Purchased,No,Yes
+34,Female,White,Divorced,High school,Employed full-time,4,13,Yes,No,Yes,Purchased,Yes,No
+30,Female,White,Married,Post-graduate,Employed part-time,7,13,Yes,No,No,Purchased,Yes,Yes
+22,Female,White,Married,Some college,Employed full-time,2,13,Yes,No,No,Purchased,Yes,No
+17,Male,White,Never been married,Some high school,Employed part-time,8,13,Yes,No,No,Borrowed from library,No,Yes
+16,Female,White,Never been married,Some high school,Unemployed,3,13,Yes,No,Yes,Purchased,No,Yes
+63,Male,Other,Married,College,Employed full-time,8,12,Yes,No,No,Purchased,Yes,Yes
+23,Male,Other,Married,High school,Employed full-time,6,12,Yes,No,Yes,Borrowed from others,No,Yes
+17,Female,Other,Never been married,Some high school,Employed part-time,8,12,Yes,No,Yes,Purchased,Yes,Yes
+52,Male,Native American,Married,Some college,Employed full-time,2,12,Yes,No,No,Borrowed from others,No,No
+41,Male,Native American,Divorced,High school,Unemployed,2,12,Yes,No,No,Purchased,Yes,No
+47,Female,Mixed race,Married,Some college,Employed full-time,5,12,Yes,Yes,No,Purchased,Yes,Yes
+44,Female,Mixed race,Divorced,College,Employed full-time,7,12,Yes,No,No,Purchased,No,Yes
+39,Male,Mixed race,Married,High school,Employed full-time,6,12,No,Yes,Yes,Purchased,No,Yes
+27,Male,Mixed race,Married,Some college,Unemployed,2,12,Yes,No,No,Purchased,No,No
+17,Male,Mixed race,Never been married,Some high school,Unemployed,6,12,Yes,No,No,Other sources,No,No
+18,Female,Asian/Pacific Islander,Never been married,Some high school,Unemployed,7,12,Yes,No,No,Borrowed from others,Yes,Yes
+78,Female,Black/African-American,Widowed,College,Retired,5,12,Yes,No,No,Borrowed from library,Yes,No
+75,Male,Black/African-American,Widowed,Some college,Retired,4,12,Yes,Yes,Yes,Borrowed from library,Yes,No
+62,Female,Black/African-American,Single,Post-graduate,Retired,3,12,Yes,No,No,Other sources,No,No
+59,Female,Black/African-American,Divorced,High school,Retired,1,12,Yes,No,No,Purchased,Yes,Yes
+58,Female,Black/African-American,Divorced,High school,Retired,4,12,Yes,No,No,Purchased,Yes,Yes
+56,Female,Black/African-American,Divorced,High school,Employed full-time,5,12,Yes,Yes,No,Borrowed from others,Yes,Yes
+49,Female,Black/African-American,Separated,College,Employed full-time,8,12,Yes,No,No,Purchased,Yes,Yes
+43,Male,Black/African-American,Divorced,College,Employed full-time,7,12,Yes,No,No,Purchased,No,Yes
+42,Female,Black/African-American,Separated,High school,Employed full-time,2,12,Yes,No,No,Borrowed from library,Yes,No
+41,Male,Black/African-American,Never been married,Some high school,Unemployed,1,12,No,No,No,Borrowed from library,No,No
+35,Female,Black/African-American,Never been married,College,Employed full-time,4,12,Yes,No,No,Purchased,Yes,No
+35,Female,Black/African-American,Married,Post-graduate,Employed full-time,8,12,Yes,Yes,Yes,Borrowed from library,No,Yes
+31,Female,Black/African-American,Married,Trade school,Unemployed,2,12,Yes,No,No,Borrowed from others,Yes,No
+18,Female,Black/African-American,Never been married,High school,Unemployed,7,12,Yes,No,Yes,Purchased,Yes,No
+91,Male,White,Widowed,Post-graduate,Retired,7,12,Yes,No,No,Borrowed from others,Yes,Yes
+86,Male,White,Married,High school,Retired,2,12,Yes,Yes,No,Borrowed from library,Yes,No
+83,Male,White,Married,Post-graduate,Employed part-time,6,12,Yes,No,Yes,Purchased,No,Yes
+80,Female,White,Widowed,Post-graduate,Retired,4,12,Yes,No,No,Borrowed from others,Yes,Yes
+79,Female,White,Married,Trade school,Retired,8,12,Yes,Yes,No,Purchased,Yes,Yes
+78,Female,White,Never been married,Post-graduate,Employed full-time,2,12,Yes,No,No,Other sources,Yes,Yes
+78,Male,White,Married,Post-graduate,Retired,7,12,Yes,No,Yes,Purchased,Yes,Yes
+77,Female,White,Widowed,Some college,Unemployed,8,12,No,Yes,No,Borrowed from library,No,Yes
+75,Male,White,Married,High school,Retired,6,12,Yes,No,Yes,Purchased,Yes,Yes
+75,Male,White,Living with a partner,High school,Employed part-time,6,12,Yes,No,No,Borrowed from library,Yes,Yes
+74,Male,White,Married,High school,Employed part-time,7,12,Yes,No,Yes,Purchased,Yes,Yes
+73,Female,White,Married,Post-graduate,Retired,7,12,Yes,No,No,Purchased,Yes,Yes
+72,Female,White,Widowed,Some college,Employed part-time,4,12,Yes,No,No,Purchased,Yes,Yes
+70,Female,White,Never been married,College,Retired,5,12,Yes,No,No,Purchased,Yes,Yes
+70,Male,White,Married,Some college,Retired,6,12,Yes,No,No,Purchased,Yes,Yes
+68,Female,White,Married,Some college,Retired,6,12,Yes,No,No,Purchased,Yes,Yes
+68,Male,White,Married,Post-graduate,Employed part-time,8,12,Yes,No,Yes,Purchased,Yes,Yes
+68,Female,White,Married,Post-graduate,Retired,5,12,Yes,No,No,Borrowed from library,Yes,Yes
+67,Male,White,Married,College,Retired,5,12,Yes,No,No,Purchased,Yes,Yes
+67,Male,White,Divorced,Post-graduate,Retired,4,12,Yes,No,No,Borrowed from others,Yes,No
+67,Male,White,Married,Post-graduate,Employed part-time,4,12,Yes,Yes,No,Borrowed from others,Yes,Yes
+66,Female,White,Widowed,Some college,Retired,5,12,Yes,No,Yes,Purchased,Yes,Yes
+66,Female,White,Married,College,Employed part-time,8,12,Yes,No,No,Purchased,Yes,Yes
+65,Male,White,Married,Some high school,Retired,3,12,Yes,No,No,Purchased,No,Yes
+65,Male,White,Married,College,Retired,7,12,Yes,No,Yes,Purchased,Yes,Yes
+64,Female,White,Married,Some college,Retired,5,12,Yes,No,No,Purchased,Yes,Yes
+64,Male,White,Living with a partner,Post-graduate,Employed full-time,8,12,Yes,Yes,Yes,Purchased,Yes,Yes
+64,Male,White,Married,High school,Employed full-time,6,12,Yes,No,Yes,Purchased,Yes,Yes
+63,Female,White,Divorced,Post-graduate,Employed full-time,6,12,Yes,No,Yes,Borrowed from library,Yes,Yes
+62,Female,White,Married,Post-graduate,Employed part-time,8,12,Yes,No,No,Purchased,Yes,Yes
+62,Female,White,Married,Some college,Retired,6,12,Yes,No,Yes,Purchased,Yes,Yes
+61,Male,White,Never been married,College,Employed full-time,6,12,Yes,No,No,Purchased,No,Yes
+61,Male,White,Married,Some college,Employed full-time,8,12,Yes,No,No,Other sources,No,No
+60,Female,White,Married,College,Retired,7,12,Yes,No,No,Borrowed from library,Yes,Yes
+60,Female,White,Widowed,Some college,Employed full-time,5,12,Yes,Yes,No,Borrowed from library,Yes,Yes
+60,Male,White,Married,Post-graduate,Employed part-time,8,12,Yes,No,Yes,Purchased,Yes,Yes
+60,Female,White,Divorced,College,Employed full-time,7,12,Yes,No,No,Borrowed from others,Yes,Yes
+59,Female,White,Married,Post-graduate,Employed part-time,4,12,Yes,No,No,Purchased,Yes,Yes
+59,Female,White,Married,Post-graduate,Employed full-time,7,12,Yes,No,No,Purchased,No,No
+59,Female,White,Married,College,Employed full-time,6,12,Yes,No,No,Borrowed from others,Yes,Yes
+58,Female,White,Divorced,Some college,Unemployed,2,12,Yes,No,No,Purchased,Yes,Yes
+58,Female,White,Married,College,Employed full-time,7,12,Yes,No,Yes,Purchased,Yes,Yes
+58,Male,White,Married,High school,Employed full-time,8,12,Yes,No,Yes,Purchased,Yes,Yes
+57,Female,White,Married,Some college,Employed full-time,6,12,Yes,No,No,Borrowed from others,Yes,Yes
+56,Female,White,Living with a partner,High school,Employed full-time,6,12,Yes,No,No,Borrowed from others,Yes,No
+55,Female,White,Married,Some college,Unemployed,6,12,Yes,No,No,Purchased,Yes,No
+54,Male,White,Married,Some high school,Disabled,3,12,Yes,No,No,Purchased,Yes,Yes
+53,Male,White,Married,High school,Employed full-time,5,12,Yes,No,Yes,Purchased,No,Yes
+53,Female,White,Married,High school,Employed full-time,3,12,Yes,No,No,Other sources,Yes,Yes
+52,Male,White,Married,Some college,Employed full-time,8,12,Yes,Yes,No,Borrowed from others,Yes,Yes
+52,Female,White,Married,Post-graduate,Unemployed,8,12,Yes,No,No,Purchased,Yes,No
+51,Female,White,Married,Some college,Unemployed,8,12,Yes,No,No,Borrowed from library,Yes,Yes
+51,Female,White,Married,Post-graduate,Employed full-time,7,12,Yes,Yes,No,Borrowed from library,Yes,No
+50,Female,White,Never been married,Some college,Employed part-time,3,12,Yes,Yes,Yes,Borrowed from others,Yes,No
+49,Female,White,Never been married,Some college,Unemployed,3,12,Yes,No,No,Borrowed from library,No,Yes
+49,Male,White,Married,College,Employed full-time,8,12,Yes,No,Yes,Other sources,Yes,Yes
+49,Female,White,Married,College,Unemployed,8,12,Yes,No,No,Purchased,No,No
+49,Male,White,Married,Some college,Employed full-time,7,12,Yes,No,No,Purchased,No,No
+49,Male,White,Married,College,Employed full-time,8,12,No,No,Yes,Purchased,Yes,Yes
+48,Male,White,Married,Some college,Employed full-time,8,12,Yes,No,Yes,Purchased,Yes,No
+48,Male,White,Married,High school,Employed full-time,8,12,Yes,No,No,Borrowed from others,No,Yes
+44,Male,White,Married,Some college,Employed full-time,6,12,Yes,No,No,Borrowed from others,Yes,Yes
+43,Male,White,Married,High school,Employed full-time,5,12,Yes,No,No,Other sources,Yes,No
+43,Female,White,Married,Some college,Employed full-time,7,12,Yes,No,Yes,Purchased,Yes,No
+43,Female,White,Married,Some high school,Unemployed,4,12,Yes,Yes,Yes,Borrowed from others,Yes,Yes
+42,Male,White,Married,Some high school,Employed part-time,5,12,Yes,Yes,No,Borrowed from others,Yes,Yes
+42,Male,White,Divorced,High school,Employed full-time,4,12,Yes,No,No,Borrowed from library,No,No
+41,Female,White,Married,College,Unemployed,8,12,Yes,No,Yes,Purchased,Yes,Yes
+40,Female,White,Married,Post-graduate,Employed full-time,8,12,Yes,No,No,Purchased,No,Yes
+40,Male,White,Married,College,Employed full-time,8,12,Yes,No,Yes,Purchased,Yes,Yes
+40,Female,White,Married,Post-graduate,Employed full-time,8,12,Yes,No,No,Borrowed from others,Yes,Yes
+39,Male,White,Married,Post-graduate,Employed full-time,8,12,Yes,No,No,Other sources,Yes,No
+37,Male,White,Never been married,High school,Employed full-time,8,12,No,No,No,Other sources,No,No
+37,Female,White,Never been married,College,Employed full-time,8,12,Yes,No,No,Purchased,No,Yes
+36,Male,White,Married,Some college,Employed full-time,7,12,Yes,No,Yes,Purchased,Yes,Yes
+36,Female,White,Married,High school,Employed full-time,6,12,Yes,No,No,Other sources,No,Yes
+36,Male,White,Married,High school,Employed full-time,5,12,Yes,No,No,Purchased,Yes,No
+35,Female,White,Married,Post-graduate,Employed full-time,7,12,Yes,No,No,Purchased,Yes,Yes
+35,Male,White,Married,None,Employed full-time,8,12,Yes,No,No,Purchased,Yes,Yes
+35,Female,White,Married,College,Unemployed,7,12,Yes,No,No,Borrowed from others,No,No
+33,Male,White,Married,Some college,Employed full-time,6,12,Yes,No,Yes,Purchased,Yes,No
+32,Male,White,Married,Post-graduate,Employed full-time,8,12,Yes,No,Yes,Borrowed from others,No,No
+32,Female,White,Married,High school,Employed part-time,5,12,Yes,No,Yes,Borrowed from others,No,Yes
+32,Female,White,Married,College,Employed full-time,7,12,Yes,No,No,Purchased,No,Yes
+32,Female,White,Married,College,Employed full-time,5,12,Yes,No,No,Borrowed from others,No,No
+31,Male,White,Married,Some college,Employed full-time,6,12,Yes,No,No,Other sources,Yes,No
+30,Female,White,Never been married,College,Employed full-time,6,12,Yes,No,No,Purchased,Yes,Yes
+30,Female,White,Living with a partner,Some college,Employed full-time,6,12,Yes,No,No,Purchased,No,Yes
+29,Female,White,Never been married,College,Unemployed,2,12,Yes,Yes,Yes,Purchased,Yes,No
+23,Female,White,Married,High school,Employed full-time,4,12,Yes,No,No,Purchased,Yes,Yes
+22,Female,White,Single,College,Employed full-time,3,12,Yes,No,No,Purchased,No,No
+21,Female,White,Never been married,Some college,Employed part-time,4,12,Yes,No,No,Borrowed from library,Yes,Yes
+21,Female,White,Living with a partner,Some college,Employed part-time,1,12,Yes,No,No,Other sources,No,No
+20,Male,White,Single,Some college,Unemployed,8,12,Yes,No,No,Purchased,Yes,Yes
+19,Female,White,Never been married,Some college,Employed part-time,3,12,Yes,No,No,Purchased,Yes,Yes
+19,Female,White,Never been married,Some college,Employed part-time,8,12,Yes,No,No,Purchased,Yes,No
+18,Male,White,Never been married,High school,Unemployed,5,12,Yes,No,Yes,Purchased,Yes,No
+17,Female,White,Never been married,Some high school,Unemployed,8,12,Yes,No,Yes,Purchased,No,No
+17,Male,White,Never been married,Some high school,Employed part-time,2,12,Yes,No,No,Purchased,Yes,No
+17,Female,White,Never been married,Some high school,Student,8,12,Yes,No,No,Other sources,No,No
+16,Male,White,Never been married,Some high school,Unemployed,3,12,Yes,No,No,Borrowed from library,No,Yes
+16,Male,White,Never been married,None,Unemployed,8,12,No,No,No,Borrowed from library,No,Yes
+16,Female,White,Never been married,None,Unemployed,8,12,Yes,No,No,Other sources,No,Yes
+16,Female,White,Never been married,Some high school,Employed part-time,8,12,Yes,No,No,Purchased,No,No
+50,Male,Black/African-American,Living with a partner,Some college,Retired,6,11,Yes,No,No,Purchased,Yes,No
+52,Female,White,Married,College,Unemployed,8,11,Yes,Yes,Yes,Borrowed from library,Yes,Yes
+33,Female,White,Married,College,Employed full-time,7,11,No,No,Yes,Purchased,No,No
+18,Female,White,Never been married,Some college,Employed part-time,8,11,Yes,No,No,Borrowed from others,Yes,Yes
+33,Female,Other,Married,Trade school,Unemployed,3,10,Yes,No,No,Purchased,No,Yes
+18,Female,Other,Never been married,High school,Employed part-time,4,10,Yes,No,No,Borrowed from library,No,Yes
+30,Female,Mixed race,Married,Some college,Employed full-time,5,10,Yes,Yes,Yes,Purchased,Yes,Yes
+25,Female,Mixed race,Married,College,Self-employed,6,10,Yes,No,Yes,Purchased,Yes,Yes
+22,Female,Mixed race,Living with a partner,None,Unemployed,2,10,No,No,Yes,Other sources,Yes,Yes
+43,Male,Asian/Pacific Islander,Married,Post-graduate,Employed full-time,8,10,Yes,No,Yes,Purchased,Yes,Yes
+43,Male,Asian/Pacific Islander,Married,College,Employed full-time,7,10,Yes,No,Yes,Borrowed from library,No,Yes
+37,Female,Asian/Pacific Islander,Married,Post-graduate,Employed full-time,8,10,Yes,No,Yes,Borrowed from library,Yes,No
+29,Female,Asian/Pacific Islander,Married,College,Employed full-time,6,10,No,No,No,Borrowed from others,No,No
+17,Female,Asian/Pacific Islander,Never been married,High school,Unemployed,7,10,Yes,No,No,Purchased,Yes,Yes
+17,Male,Asian/Pacific Islander,Never been married,Some high school,Unemployed,8,10,Yes,No,No,Purchased,No,No
+70,Male,Black/African-American,Married,Some college,Retired,3,10,Yes,No,No,Purchased,Yes,Yes
+65,Female,Black/African-American,Divorced,Some college,Retired,6,10,Yes,Yes,Yes,Purchased,No,Yes
+48,Female,Black/African-American,Never been married,College,Employed full-time,4,10,Yes,No,Yes,Borrowed from others,Yes,Yes
+43,Male,Black/African-American,Single,Some college,Unemployed,1,10,Yes,No,No,Borrowed from library,Yes,Yes
+40,Male,Black/African-American,Divorced,Some college,Employed full-time,8,10,Yes,Yes,Yes,Other sources,Yes,Yes
+40,Female,Black/African-American,Married,College,Employed full-time,6,10,Yes,No,Yes,Borrowed from others,Yes,Yes
+40,Female,Black/African-American,Never been married,Post-graduate,Employed full-time,6,10,Yes,No,Yes,Purchased,No,Yes
+31,Female,Black/African-American,Married,Post-graduate,Employed full-time,8,10,Yes,No,No,Purchased,No,Yes
+25,Female,Black/African-American,Never been married,College,Employed full-time,2,10,Yes,No,No,Borrowed from others,No,No
+20,Male,Black/African-American,Never been married,Some college,Unemployed,8,10,Yes,No,Yes,Other sources,No,No
+18,Female,Black/African-American,Never been married,Some high school,Unemployed,8,10,Yes,No,No,Borrowed from others,No,No
+17,Female,Black/African-American,Never been married,Some high school,Employed part-time,3,10,Yes,No,No,Borrowed from others,No,No
+16,Male,Black/African-American,Never been married,Some high school,Unemployed,8,10,Yes,Yes,Yes,Borrowed from others,No,No
+16,Male,Black/African-American,Never been married,Some high school,Unemployed,3,10,Yes,No,No,Other sources,No,Yes
+16,Female,Black/African-American,Never been married,Some high school,Unemployed,8,10,Yes,No,No,Borrowed from others,No,No
+88,Female,White,Widowed,Some college,Retired,3,10,Yes,No,No,Borrowed from library,Yes,Yes
+87,Female,White,Divorced,High school,Retired,2,10,Yes,No,No,Purchased,Yes,Yes
+80,Female,White,Widowed,Post-graduate,Retired,8,10,Yes,No,No,Other sources,Yes,Yes
+80,Male,White,Married,Post-graduate,Retired,7,10,Yes,No,No,Other sources,Yes,Yes
+79,Male,White,Married,College,Retired,4,10,Yes,No,No,Borrowed from others,Yes,Yes
+76,Female,White,Widowed,High school,Unemployed,1,10,Yes,No,No,Purchased,Yes,Yes
+73,Female,White,Married,Post-graduate,Retired,6,10,Yes,No,No,Purchased,Yes,Yes
+71,Female,White,Widowed,College,Retired,6,10,Yes,No,Yes,Borrowed from others,Yes,No
+70,Female,White,Married,Post-graduate,Employed part-time,6,10,Yes,No,No,Purchased,Yes,Yes
+70,Female,White,Married,Post-graduate,Retired,6,10,Yes,No,Yes,Purchased,Yes,Yes
+69,Female,White,Married,College,Retired,5,10,Yes,No,No,Purchased,Yes,Yes
+69,Male,White,Married,Post-graduate,Employed full-time,8,10,Yes,No,Yes,Purchased,Yes,Yes
+68,Male,White,Married,Some college,Retired,4,10,Yes,No,No,Other sources,Yes,No
+67,Male,White,Married,Some college,Retired,4,10,Yes,Yes,Yes,Purchased,Yes,No
+66,Female,White,Married,Post-graduate,Employed full-time,7,10,Yes,Yes,Yes,Purchased,Yes,No
+66,Female,White,Married,Post-graduate,Retired,8,10,Yes,Yes,No,Purchased,Yes,Yes
+66,Female,White,Married,College,Retired,6,10,No,No,Yes,Purchased,Yes,Yes
+65,Male,White,Married,Some college,Retired,2,10,Yes,No,Yes,Borrowed from library,No,Yes
+65,Female,White,Married,College,Employed part-time,8,10,Yes,No,No,Purchased,Yes,No
+65,Male,White,Married,Post-graduate,Employed full-time,8,10,Yes,No,Yes,Purchased,Yes,Yes
+63,Female,White,Married,Post-graduate,Other,8,10,Yes,No,Yes,Purchased,Yes,Yes
+62,Female,White,Married,Post-graduate,Employed full-time,7,10,Yes,Yes,No,Borrowed from others,Yes,Yes
+62,Female,White,Divorced,College,Employed full-time,5,10,Yes,No,Yes,Purchased,Yes,No
+62,Male,White,Married,Post-graduate,Employed full-time,8,10,Yes,No,Yes,Purchased,Yes,Yes
+62,Male,White,Married,High school,Retired,8,10,Yes,No,No,Purchased,Yes,Yes
+60,Female,White,Married,College,Employed full-time,8,10,Yes,Yes,Yes,Purchased,Yes,Yes
+60,Female,White,Married,Post-graduate,Employed full-time,8,10,Yes,No,Yes,Purchased,Yes,Yes
+60,Female,White,Married,High school,Employed full-time,6,10,Yes,No,No,Borrowed from others,No,Yes
+59,Female,White,Married,High school,Employed part-time,5,10,Yes,No,No,Purchased,Yes,Yes
+58,Male,White,Married,College,Employed full-time,7,10,Yes,No,No,Purchased,Yes,Yes
+57,Male,White,Married,Post-graduate,Employed full-time,8,10,Yes,Yes,No,Other sources,Yes,Yes
+57,Female,White,Married,High school,Retired,6,10,Yes,No,No,Borrowed from library,No,No
+56,Male,White,Married,College,Employed full-time,7,10,Yes,No,No,Purchased,Yes,Yes
+54,Female,White,Married,College,Unemployed,2,10,Yes,Yes,Yes,Borrowed from library,No,Yes
+54,Female,White,Never been married,Trade school,Employed full-time,6,10,Yes,No,No,Other sources,Yes,No
+53,Female,White,Married,College,Employed part-time,8,10,Yes,No,Yes,Borrowed from library,Yes,Yes
+52,Female,White,Married,Some college,Employed full-time,8,10,Yes,No,Yes,Other sources,Yes,Yes
+51,Male,White,Divorced,Some college,Employed full-time,4,10,Yes,No,No,Other sources,Yes,No
+51,Male,White,Married,Some college,Self-employed,6,10,Yes,Yes,Yes,Purchased,Yes,Yes
+51,Male,White,Married,Post-graduate,Employed full-time,7,10,Yes,No,Yes,Purchased,No,Yes
+51,Female,White,Married,High school,Employed full-time,8,10,Yes,Yes,Yes,Borrowed from others,No,No
+50,Male,White,Married,Post-graduate,Employed full-time,8,10,Yes,Yes,No,Borrowed from library,Yes,Yes
+50,Female,White,Married,High school,Unemployed,4,10,Yes,No,No,Other sources,No,Yes
+50,Female,White,Married,College,Employed full-time,7,10,No,No,Yes,Purchased,Yes,No
+50,Male,White,Married,College,Employed full-time,8,10,Yes,Yes,No,Purchased,Yes,Yes
+50,Male,White,Married,High school,Employed full-time,2,10,No,No,No,Other sources,No,No
+50,Female,White,Divorced,High school,Employed full-time,4,10,Yes,No,Yes,Borrowed from others,Yes,Yes
+49,Male,White,Married,Post-graduate,Employed full-time,8,10,Yes,No,No,Purchased,Yes,Yes
+49,Male,White,Never been married,Post-graduate,Employed full-time,4,10,Yes,No,No,Borrowed from others,No,No
+49,Male,White,Married,Post-graduate,Employed full-time,8,10,Yes,Yes,No,Borrowed from others,Yes,Yes
+48,Female,White,Living with a partner,College,Employed full-time,8,10,Yes,Yes,No,Other sources,Yes,Yes
+47,Female,White,Married,High school,Employed full-time,6,10,Yes,Yes,No,Borrowed from others,Yes,Yes
+47,Female,White,Married,Some college,Employed full-time,8,10,Yes,No,No,Purchased,Yes,Yes
+47,Female,White,Divorced,Some college,Disabled,8,10,No,No,No,Borrowed from others,No,Yes
+47,Male,White,Married,Post-graduate,Employed full-time,8,10,Yes,No,Yes,Purchased,Yes,Yes
+46,Male,White,Married,Post-graduate,Employed full-time,8,10,Yes,No,Yes,Purchased,Yes,Yes
+46,Female,White,Married,High school,Employed full-time,6,10,Yes,No,Yes,Borrowed from others,Yes,Yes
+45,Male,White,Living with a partner,Post-graduate,Employed full-time,8,10,Yes,No,No,Purchased,Yes,Yes
+42,Male,White,Married,Trade school,Retired,3,10,Yes,No,No,Purchased,No,No
+42,Female,White,Divorced,Post-graduate,Employed full-time,7,10,Yes,No,No,Purchased,No,No
+42,Female,White,Married,High school,Unemployed,8,10,Yes,No,No,Borrowed from library,Yes,Yes
+41,Male,White,Married,Post-graduate,Employed full-time,8,10,No,Yes,Yes,Purchased,No,Yes
+41,Female,White,Married,Trade school,Unemployed,6,10,Yes,No,Yes,Purchased,Yes,No
+40,Female,White,Never been married,Trade school,Employed full-time,6,10,Yes,Yes,No,Purchased,Yes,Yes
+40,Male,White,Married,Post-graduate,Employed full-time,8,10,Yes,Yes,No,Borrowed from others,Yes,Yes
+40,Female,White,Married,High school,Employed full-time,7,10,Yes,No,Yes,Purchased,No,No
+40,Male,White,Separated,High school,Employed full-time,4,10,Yes,No,No,Other sources,Yes,No
+40,Male,White,Married,College,Employed full-time,8,10,No,No,Yes,Purchased,Yes,Yes
+39,Female,White,Married,Post-graduate,Unemployed,7,10,Yes,No,No,Purchased,No,No
+39,Female,White,Married,College,Employed part-time,7,10,Yes,No,No,Borrowed from others,No,Yes
+39,Male,White,Married,College,Employed full-time,8,10,Yes,No,Yes,Purchased,Yes,Yes
+38,Female,White,Never been married,High school,Employed full-time,8,10,No,No,No,Purchased,Yes,Yes
+38,Female,White,Married,College,Employed part-time,8,10,Yes,No,No,Borrowed from others,Yes,Yes
+38,Male,White,Married,Some college,Employed full-time,8,10,Yes,No,No,Purchased,Yes,Yes
+37,Female,White,Married,College,Unemployed,5,10,Yes,No,No,Purchased,No,No
+37,Female,White,Married,Some college,Employed full-time,8,10,Yes,Yes,Yes,Purchased,Yes,No
+37,Female,White,Married,College,Unemployed,7,10,Yes,Yes,No,Borrowed from library,No,No
+37,Male,White,Married,College,Employed full-time,8,10,Yes,Yes,No,Purchased,Yes,Yes
+36,Male,White,Married,Post-graduate,Employed full-time,8,10,No,No,Yes,Purchased,Yes,Yes
+36,Male,White,Married,Post-graduate,Employed full-time,8,10,No,No,Yes,Purchased,No,No
+35,Female,White,Married,Post-graduate,Employed full-time,8,10,Yes,No,No,Other sources,No,Yes
+35,Female,White,Married,Some college,Employed full-time,6,10,Yes,No,Yes,Borrowed from others,No,Yes
+34,Female,White,Married,Some college,Unemployed,8,10,Yes,No,No,Purchased,Yes,Yes
+34,Female,White,Living with a partner,Some college,Employed full-time,3,10,Yes,No,No,Borrowed from others,Yes,Yes
+33,Male,White,Married,Post-graduate,Employed full-time,7,10,Yes,No,Yes,Purchased,Yes,No
+33,Male,White,Married,Some college,Employed full-time,7,10,Yes,No,No,Borrowed from others,Yes,Yes
+33,Male,White,Never been married,College,Employed full-time,6,10,Yes,Yes,Yes,Other sources,Yes,Yes
+32,Female,White,Married,College,Employed part-time,8,10,Yes,No,No,Purchased,No,Yes
+32,Female,White,Never been married,Post-graduate,Employed full-time,3,10,Yes,Yes,Yes,Purchased,Yes,No
+31,Male,White,Married,High school,Employed full-time,7,10,No,No,Yes,Other sources,Yes,Yes
+31,Male,White,Never been married,High school,Employed part-time,2,10,Yes,No,No,Purchased,No,No
+30,Male,White,Married,Post-graduate,Employed part-time,5,10,Yes,No,No,Other sources,Yes,Yes
+30,Male,White,Never been married,Post-graduate,Employed full-time,5,10,Yes,No,No,Purchased,Yes,Yes
+29,Female,White,Married,College,Employed full-time,7,10,Yes,No,Yes,Purchased,Yes,Yes
+29,Female,White,Never been married,College,Employed full-time,5,10,Yes,No,No,Purchased,Yes,Yes
+28,Male,White,Married,High school,Employed part-time,3,10,Yes,No,No,Purchased,Yes,Yes
+27,Male,White,Never been married,Some college,Employed part-time,4,10,Yes,No,No,Purchased,Yes,Yes
+27,Female,White,Never been married,College,Employed full-time,6,10,Yes,No,No,Borrowed from others,No,No
+27,Male,White,Never been married,High school,Employed full-time,3,10,Yes,No,No,Purchased,No,Yes
+26,Male,White,Never been married,High school,Self-employed,5,10,Yes,No,Yes,Purchased,Yes,Yes
+26,Female,White,Living with a partner,College,Unemployed,8,10,Yes,No,Yes,Borrowed from others,No,No
+25,Male,White,Never been married,High school,Employed full-time,2,10,Yes,No,No,Purchased,Yes,No
+24,Female,White,Never been married,Post-graduate,Employed full-time,4,10,Yes,No,Yes,Purchased,Yes,No
+24,Female,White,Married,College,Unemployed,6,10,Yes,No,Yes,Purchased,Yes,No
+23,Male,White,Never been married,College,Employed full-time,4,10,Yes,Yes,Yes,Purchased,Yes,Yes
+23,Male,White,Living with a partner,Some college,Unemployed,7,10,Yes,No,Yes,Borrowed from library,Yes,No
+22,Male,White,Married,Some college,Employed full-time,3,10,Yes,Yes,No,Purchased,Yes,Yes
+22,Female,White,Never been married,Some college,Employed full-time,1,10,Yes,Yes,No,Borrowed from others,Yes,No
+22,Female,White,Married,College,Employed full-time,3,10,Yes,No,No,Borrowed from others,No,No
+21,Female,White,Living with a partner,Some college,Employed part-time,2,10,Yes,No,No,Borrowed from others,No,Yes
+21,Male,White,Never been married,Some college,Employed part-time,7,10,Yes,No,No,Borrowed from others,No,No
+20,Female,White,Never been married,Some college,Employed part-time,6,10,Yes,No,No,Purchased,No,Yes
+19,Male,White,Never been married,High school,Employed full-time,3,10,Yes,No,Yes,Purchased,Yes,Yes
+19,Female,White,Never been married,Some college,Unemployed,6,10,Yes,No,No,Borrowed from library,No,Yes
+19,Female,White,Never been married,High school,Unemployed,8,10,Yes,No,No,Purchased,No,No
+19,Female,White,Married,High school,Unemployed,2,10,Yes,No,No,Purchased,No,No
+18,Male,White,Never been married,High school,Employed full-time,4,10,Yes,Yes,No,Borrowed from others,No,No
+17,Male,White,Never been married,Some high school,Employed part-time,8,10,Yes,No,Yes,Borrowed from others,Yes,No
+17,Female,White,Never been married,Some high school,Unemployed,8,10,Yes,No,No,Other sources,No,No
+17,Female,White,Single,Some high school,Employed part-time,5,10,Yes,No,Yes,Other sources,No,No
+17,Male,White,Never been married,Some high school,Unemployed,6,10,Yes,No,No,Borrowed from others,No,No
+16,Female,White,Never been married,Some high school,Student,8,10,Yes,No,Yes,Borrowed from others,No,Yes
+16,Female,White,Never been married,Some high school,Unemployed,8,10,No,Yes,No,Purchased,No,No
+16,Female,Other,Never been married,Some high school,Unemployed,8,9,Yes,No,No,Purchased,Yes,No
+28,Male,Black/African-American,Married,High school,Employed full-time,8,9,Yes,No,No,Borrowed from others,Yes,Yes
+78,Female,White,Never been married,Post-graduate,Employed part-time,3,9,Yes,No,No,Purchased,Yes,No
+78,Female,White,Widowed,Some high school,Retired,8,9,Yes,No,No,Other sources,Yes,No
+56,Male,White,Married,College,Employed full-time,8,9,No,No,No,Borrowed from others,Yes,Yes
+52,Male,White,Married,Post-graduate,Self-employed,8,9,Yes,No,No,Purchased,No,No
+44,Male,White,Married,College,Employed full-time,8,9,Yes,No,No,Purchased,Yes,Yes
+33,Male,White,Never been married,College,Employed full-time,5,9,Yes,No,No,Purchased,No,No
+21,Male,White,Never been married,Some college,Employed part-time,5,9,Yes,No,Yes,Purchased,Yes,Yes
+19,Female,White,Never been married,Some college,Employed full-time,1,9,Yes,No,No,Purchased,No,No
+20,Male,Mixed race,Never been married,Some college,Employed part-time,6,8,Yes,No,Yes,Purchased,No,No
+31,Male,Asian/Pacific Islander,Never been married,Post-graduate,Employed full-time,4,8,Yes,No,No,Borrowed from library,Yes,Yes
+26,Male,Asian/Pacific Islander,Never been married,College,Employed full-time,8,8,Yes,No,Yes,Borrowed from others,No,Yes
+50,Male,Black/African-American,Married,Some high school,Self-employed,1,8,Yes,No,No,Purchased,Yes,Yes
+35,Female,Black/African-American,Never been married,High school,Employed part-time,2,8,No,No,Yes,Borrowed from others,No,Yes
+23,Male,Black/African-American,Never been married,Some college,Employed full-time,6,8,Yes,No,No,Purchased,No,Yes
+18,Male,Black/African-American,Never been married,High school,Unemployed,8,8,No,No,No,Other sources,No,No
+87,Female,White,Widowed,College,Retired,5,8,No,No,Yes,Borrowed from others,Yes,Yes
+81,Male,White,Married,College,Retired,8,8,Yes,No,No,Purchased,Yes,No
+75,Male,White,Widowed,Some college,Retired,7,8,Yes,No,No,Purchased,Yes,Yes
+71,Male,White,Married,Post-graduate,Retired,7,8,Yes,No,No,Borrowed from others,Yes,Yes
+65,Female,White,Married,Post-graduate,Employed full-time,8,8,Yes,Yes,Yes,Borrowed from library,Yes,Yes
+63,Male,White,Never been married,High school,Retired,3,8,Yes,No,No,Purchased,Yes,Yes
+63,Male,White,Married,Post-graduate,Employed full-time,8,8,No,No,Yes,Other sources,Yes,Yes
+62,Female,White,Widowed,Some high school,Employed full-time,4,8,Yes,No,No,Borrowed from others,Yes,Yes
+61,Female,White,Divorced,Some college,Employed full-time,6,8,Yes,No,No,Purchased,Yes,No
+60,Female,White,Married,Post-graduate,Retired,6,8,Yes,Yes,No,Borrowed from others,Yes,No
+60,Male,White,Married,Post-graduate,Employed full-time,8,8,Yes,No,Yes,Other sources,Yes,Yes
+58,Female,White,Married,Some college,Retired,8,8,Yes,No,Yes,Purchased,Yes,Yes
+57,Female,White,Married,High school,Employed part-time,8,8,Yes,No,Yes,Other sources,Yes,Yes
+56,Male,White,Married,High school,Employed full-time,7,8,Yes,No,No,Purchased,Yes,Yes
+55,Female,White,Married,College,Employed part-time,6,8,Yes,No,No,Borrowed from others,Yes,Yes
+55,Male,White,Married,Post-graduate,Employed full-time,8,8,Yes,No,Yes,Other sources,Yes,Yes
+55,Female,White,Married,High school,Retired,8,8,Yes,Yes,No,Purchased,Yes,Yes
+53,Female,White,Married,Post-graduate,Employed full-time,8,8,Yes,No,No,Purchased,Yes,Yes
+50,Male,White,Never been married,Some college,Employed full-time,6,8,Yes,No,No,Borrowed from others,Yes,No
+47,Female,White,Divorced,Some college,Employed full-time,8,8,Yes,No,No,Purchased,Yes,No
+47,Female,White,Married,High school,Employed full-time,4,8,Yes,No,Yes,Purchased,No,No
+47,Male,White,Married,Post-graduate,Employed full-time,8,8,Yes,No,No,Purchased,Yes,Yes
+46,Male,White,Never been married,Some college,Employed full-time,6,8,Yes,Yes,No,Purchased,Yes,Yes
+45,Female,White,Married,Some college,Employed full-time,8,8,Yes,No,Yes,Borrowed from others,Yes,No
+44,Female,White,Separated,Post-graduate,Employed full-time,8,8,Yes,No,Yes,Purchased,Yes,Yes
+42,Male,White,Married,College,Employed full-time,8,8,Yes,No,Yes,Purchased,No,Yes
+41,Male,White,Never been married,Post-graduate,Employed full-time,8,8,Yes,Yes,Yes,Purchased,Yes,Yes
+37,Female,White,Married,College,Employed part-time,6,8,Yes,No,No,Purchased,No,No
+36,Female,White,Married,Post-graduate,Employed full-time,8,8,Yes,No,No,Purchased,Yes,Yes
+35,Female,White,Married,Post-graduate,Unemployed,8,8,Yes,No,Yes,Purchased,Yes,Yes
+35,Male,White,Married,College,Employed full-time,7,8,Yes,No,Yes,Purchased,Yes,No
+35,Male,White,Married,Post-graduate,Employed full-time,8,8,Yes,No,No,Purchased,Yes,No
+34,Female,White,Living with a partner,Some college,Unemployed,6,8,Yes,No,No,Purchased,Yes,No
+34,Female,White,Married,Post-graduate,Employed full-time,8,8,Yes,No,Yes,Purchased,No,Yes
+32,Female,White,Married,College,Employed full-time,8,8,Yes,No,No,Borrowed from others,Yes,Yes
+32,Female,White,Married,High school,Employed full-time,8,8,Yes,No,No,Purchased,Yes,Yes
+32,Female,White,Married,Post-graduate,Student,4,8,Yes,Yes,No,Other sources,Yes,Yes
+31,Female,White,Never been married,High school,Unemployed,3,8,Yes,No,No,Purchased,No,No
+30,Female,White,Separated,Some high school,Unemployed,1,8,Yes,No,No,Other sources,No,No
+30,Male,White,Married,Post-graduate,Employed full-time,5,8,Yes,No,No,Other sources,No,Yes
+28,Female,White,Married,Some college,Employed full-time,4,8,Yes,No,No,Purchased,No,No
+27,Male,White,Married,High school,Employed full-time,6,8,Yes,Yes,Yes,Purchased,No,No
+27,Male,White,Living with a partner,Post-graduate,Employed full-time,6,8,Yes,Yes,No,Other sources,Yes,Yes
+22,Female,White,Never been married,Post-graduate,Employed full-time,6,8,Yes,No,Yes,Purchased,No,No
+22,Female,White,Never been married,College,Employed part-time,8,8,Yes,No,No,Purchased,Yes,No
+21,Male,White,Never been married,Some college,Employed part-time,2,8,Yes,No,No,Borrowed from others,No,No
+21,Male,White,Never been married,High school,Employed full-time,2,8,Yes,No,No,Borrowed from others,No,No
+21,Male,White,Never been married,Some college,Employed part-time,8,8,Yes,No,No,Borrowed from others,No,No
+21,Male,White,Never been married,Some college,Employed part-time,6,8,Yes,No,Yes,Purchased,Yes,No
+18,Male,White,Never been married,High school,Unemployed,6,8,Yes,No,Yes,Borrowed from others,No,No
+17,Female,White,Never been married,Some high school,Unemployed,8,8,Yes,No,No,Purchased,No,Yes
+17,Male,White,Never been married,High school,Employed part-time,5,8,Yes,No,No,Purchased,Yes,No
+16,Male,White,Never been married,Some high school,Unemployed,8,8,Yes,No,No,Other sources,Yes,No
+21,Male,Other,Never been married,High school,Employed full-time,4,7,Yes,No,Yes,Purchased,No,No
+27,Male,Mixed race,Never been married,College,Employed full-time,6,7,Yes,No,No,Purchased,No,No
+60,Female,Asian/Pacific Islander,Married,College,Employed full-time,6,7,No,No,Yes,Purchased,Yes,No
+48,Female,Asian/Pacific Islander,Married,College,Employed full-time,7,7,Yes,No,Yes,Borrowed from library,No,No
+27,Female,Asian/Pacific Islander,Married,Some college,Student,7,7,Yes,No,No,Purchased,No,No
+20,Female,Asian/Pacific Islander,Never been married,Some college,Student,4,7,Yes,No,Yes,Borrowed from library,No,No
+19,Male,Asian/Pacific Islander,Never been married,High school,Unemployed,8,7,Yes,Yes,Yes,Purchased,No,Yes
+47,Female,Black/African-American,Widowed,Some college,Retired,8,7,Yes,No,No,Purchased,Yes,Yes
+39,Female,Black/African-American,Married,Post-graduate,Employed full-time,8,7,Yes,Yes,Yes,Purchased,No,No
+38,Male,Black/African-American,Married,College,Employed full-time,3,7,Yes,Yes,No,Borrowed from others,Yes,Yes
+36,Female,Black/African-American,Married,College,Employed full-time,6,7,Yes,No,No,Borrowed from others,No,Yes
+22,Male,Black/African-American,Never been married,Some college,Employed part-time,8,7,Yes,Yes,No,Purchased,No,No
+22,Male,Black/African-American,Never been married,College,Employed full-time,8,7,No,No,Yes,Other sources,No,No
+22,Male,Black/African-American,Never been married,High school,Employed part-time,8,7,Yes,No,No,Borrowed from others,Yes,No
+17,Male,Black/African-American,Never been married,Some high school,Employed part-time,8,7,Yes,No,No,Other sources,No,No
+74,Female,White,Married,High school,Retired,5,7,Yes,No,Yes,Purchased,No,No
+69,Female,White,Widowed,College,Retired,6,7,Yes,No,Yes,Borrowed from others,No,No
+65,Female,White,Married,Some college,Retired,7,7,Yes,No,No,Purchased,No,No
+64,Male,White,Divorced,Some high school,Disabled,2,7,Yes,No,No,Borrowed from others,Yes,Yes
+58,Male,White,Married,Post-graduate,Employed full-time,8,7,Yes,No,Yes,Purchased,No,Yes
+57,Female,White,Divorced,College,Employed full-time,6,7,Yes,No,Yes,Borrowed from others,No,Yes
+52,Female,White,Divorced,High school,Employed full-time,6,7,Yes,No,No,Borrowed from others,Yes,Yes
+47,Male,White,Living with a partner,Some college,Employed full-time,8,7,Yes,No,No,Purchased,Yes,Yes
+47,Male,White,Married,College,Employed full-time,4,7,Yes,No,No,Borrowed from library,Yes,No
+41,Female,White,Divorced,Some college,Unemployed,1,7,Yes,No,No,Purchased,No,No
+40,Female,White,Married,College,Self-employed,8,7,Yes,No,No,Borrowed from others,No,Yes
+32,Female,White,Married,High school,Unemployed,8,7,Yes,No,No,Purchased,Yes,No
+31,Male,White,Married,College,Employed full-time,8,7,Yes,No,Yes,Purchased,Yes,No
+29,Female,White,Married,College,Employed full-time,8,7,Yes,No,Yes,Purchased,No,No
+25,Female,White,Living with a partner,High school,Employed full-time,3,7,Yes,No,No,Borrowed from others,No,No
+25,Male,White,Never been married,High school,Unemployed,2,7,Yes,No,No,Purchased,Yes,Yes
+24,Female,White,Never been married,College,Unemployed,8,7,Yes,Yes,Yes,Purchased,No,No
+24,Female,White,Married,Post-graduate,Employed full-time,5,7,Yes,No,Yes,Borrowed from others,No,No
+22,Female,White,Never been married,College,Student,8,7,Yes,No,No,Borrowed from library,No,Yes
+21,Female,White,Never been married,Some college,Unemployed,6,7,Yes,No,Yes,Borrowed from others,Yes,Yes
+21,Female,White,Single,Some college,Unemployed,8,7,Yes,No,No,Purchased,No,No
+21,Male,White,Never been married,Trade school,Employed part-time,5,7,Yes,No,No,Purchased,No,Yes
+20,Male,White,Never been married,High school,Employed part-time,6,7,Yes,No,No,Purchased,No,No
+20,Male,White,Never been married,Some college,Unemployed,8,7,Yes,No,Yes,Borrowed from others,Yes,No
+18,Male,White,Never been married,Some high school,Unemployed,8,7,Yes,No,Yes,Other sources,No,No
+18,Female,White,Never been married,High school,Employed part-time,7,7,Yes,No,No,Purchased,Yes,Yes
+17,Male,White,Never been married,High school,Unemployed,8,7,Yes,No,No,Purchased,No,No
+17,Male,White,Never been married,Some high school,Employed part-time,8,7,Yes,No,No,Other sources,Yes,No
+16,Male,White,Never been married,Some high school,Employed part-time,8,7,Yes,No,Yes,Borrowed from others,Yes,No
+67,Male,Other,Divorced,High school,Retired,1,6,Yes,No,No,Purchased,Yes,No
+27,Female,Other,Never been married,College,Employed part-time,6,6,No,No,Yes,Other sources,No,No
+18,Male,Other,Never been married,Some high school,Unemployed,4,6,Yes,Yes,Yes,Other sources,Yes,Yes
+37,Female,Native American,Divorced,College,Unemployed,1,6,Yes,No,Yes,Other sources,Yes,Yes
+48,Female,Mixed race,Living with a partner,Some college,Employed full-time,7,6,Yes,Yes,Yes,Other sources,Yes,Yes
+35,Male,Mixed race,Living with a partner,Some college,Unemployed,3,6,Yes,No,Yes,Other sources,No,Yes
+30,Male,Mixed race,Never been married,College,Employed full-time,6,6,Yes,No,No,Borrowed from others,No,No
+39,Female,Asian/Pacific Islander,Married,College,Employed full-time,7,6,No,No,Yes,Purchased,No,Yes
+57,Female,Black/African-American,Married,College,Employed full-time,8,6,No,No,Yes,Purchased,Yes,Yes
+56,Female,Black/African-American,Divorced,Post-graduate,Employed full-time,6,6,Yes,No,Yes,Borrowed from others,Yes,Yes
+50,Female,Black/African-American,Never been married,College,Employed full-time,5,6,Yes,No,No,Other sources,No,Yes
+49,Male,Black/African-American,Never been married,College,Employed full-time,6,6,Yes,No,No,Borrowed from others,Yes,No
+49,Female,Black/African-American,Never been married,High school,Unemployed,1,6,Yes,No,No,Purchased,No,No
+48,Female,Black/African-American,Married,Some college,Employed full-time,2,6,Yes,No,No,Purchased,No,Yes
+47,Male,Black/African-American,Married,Post-graduate,Employed full-time,8,6,Yes,No,Yes,Purchased,Yes,Yes
+33,Male,Black/African-American,Never been married,High school,Retired,8,6,Yes,No,No,Borrowed from library,Yes,No
+30,Male,Black/African-American,Married,Trade school,Employed full-time,7,6,Yes,No,No,Purchased,Yes,Yes
+29,Male,Black/African-American,Separated,High school,Employed full-time,5,6,Yes,No,Yes,Other sources,Yes,Yes
+28,Male,Black/African-American,Living with a partner,High school,Unemployed,4,6,Yes,No,No,Purchased,Yes,Yes
+21,Male,Black/African-American,Never been married,High school,Employed full-time,2,6,Yes,No,No,Borrowed from others,Yes,Yes
+19,Female,Black/African-American,Never been married,High school,Unemployed,8,6,Yes,No,No,Borrowed from others,No,No
+18,Male,Black/African-American,Never been married,High school,Unemployed,8,6,Yes,No,No,Other sources,Yes,Yes
+16,Female,Black/African-American,Never been married,None,Unemployed,2,6,Yes,No,No,Purchased,Yes,No
+79,Female,White,Married,Post-graduate,Retired,7,6,Yes,No,No,Borrowed from library,Yes,Yes
+77,Male,White,Widowed,High school,Retired,2,6,Yes,No,No,Purchased,Yes,No
+76,Female,White,Widowed,High school,Retired,3,6,Yes,No,No,Purchased,No,Yes
+75,Female,White,Married,College,Retired,8,6,Yes,No,No,Borrowed from others,Yes,Yes
+73,Female,White,Divorced,High school,Retired,2,6,Yes,No,No,Purchased,Yes,Yes
+73,Male,White,Married,College,Retired,4,6,Yes,Yes,No,Borrowed from library,Yes,Yes
+72,Female,White,Married,High school,Retired,6,6,Yes,No,No,Borrowed from others,Yes,No
+72,Male,White,Married,High school,Retired,8,6,Yes,No,Yes,Purchased,Yes,Yes
+70,Male,White,Married,High school,Retired,2,6,Yes,No,No,Borrowed from others,No,No
+70,Male,White,Living with a partner,College,Employed full-time,8,6,Yes,No,Yes,Purchased,Yes,Yes
+69,Male,White,Married,College,Retired,7,6,Yes,No,Yes,Purchased,Yes,Yes
+68,Male,White,Married,High school,Retired,5,6,No,No,No,Borrowed from others,Yes,Yes
+68,Female,White,Married,Some college,Retired,5,6,Yes,No,Yes,Purchased,No,No
+67,Male,White,Never been married,Post-graduate,Retired,3,6,Yes,No,Yes,Purchased,No,Yes
+67,Male,White,Married,High school,Retired,6,6,Yes,No,No,Borrowed from others,Yes,No
+67,Female,White,Married,College,Unemployed,6,6,Yes,No,No,Borrowed from library,Yes,Yes
+67,Male,White,Married,High school,Employed full-time,8,6,Yes,No,Yes,Purchased,Yes,Yes
+66,Male,White,Divorced,Some college,Retired,3,6,No,Yes,Yes,Purchased,Yes,Yes
+65,Male,White,Married,High school,Retired,8,6,Yes,No,No,Purchased,Yes,Yes
+65,Female,White,Married,Some college,Retired,6,6,Yes,No,No,Purchased,Yes,Yes
+64,Female,White,Widowed,High school,Employed full-time,7,6,Yes,No,No,Borrowed from others,Yes,No
+64,Male,White,Married,Some college,Employed part-time,6,6,Yes,No,No,Purchased,No,No
+63,Female,White,Married,Post-graduate,Employed full-time,7,6,Yes,No,No,Purchased,Yes,Yes
+63,Male,White,Married,Post-graduate,Retired,7,6,Yes,No,No,Purchased,Yes,No
+63,Male,White,Divorced,Some college,Disabled,4,6,Yes,No,No,Borrowed from others,Yes,No
+62,Female,White,Married,Some college,Employed full-time,6,6,Yes,No,No,Purchased,Yes,Yes
+60,Male,White,Never been married,Some college,Employed part-time,6,6,No,No,Yes,Other sources,Yes,Yes
+60,Male,White,Divorced,Some high school,Disabled,2,6,Yes,No,No,Purchased,Yes,No
+60,Male,White,Married,Post-graduate,Employed full-time,8,6,Yes,No,No,Purchased,No,No
+60,Female,White,Married,College,Employed full-time,7,6,Yes,No,Yes,Purchased,Yes,No
+59,Male,White,Separated,Some college,Unemployed,1,6,Yes,No,No,Borrowed from library,No,No
+59,Male,White,Married,College,Employed full-time,8,6,Yes,No,No,Purchased,Yes,Yes
+59,Male,White,Married,Trade school,Employed full-time,7,6,Yes,No,No,Other sources,Yes,Yes
+58,Male,White,Married,Some college,Employed part-time,5,6,Yes,Yes,No,Borrowed from others,No,Yes
+58,Male,White,Living with a partner,Post-graduate,Employed full-time,8,6,Yes,Yes,Yes,Other sources,Yes,Yes
+58,Male,White,Married,College,Employed full-time,8,6,Yes,No,No,Purchased,Yes,Yes
+56,Female,White,Married,High school,Self-employed,6,6,Yes,No,No,Borrowed from others,No,No
+56,Male,White,Married,College,Employed full-time,6,6,Yes,No,No,Borrowed from others,Yes,No
+56,Female,White,Divorced,High school,Employed full-time,5,6,Yes,No,Yes,Borrowed from others,Yes,Yes
+56,Male,White,Married,Post-graduate,Employed full-time,4,6,Yes,No,No,Purchased,Yes,No
+56,Male,White,Living with a partner,College,Employed full-time,7,6,Yes,No,No,Borrowed from others,Yes,No
+56,Female,White,Living with a partner,High school,Unemployed,6,6,Yes,No,No,Purchased,Yes,Yes
+55,Female,White,Married,Post-graduate,Employed full-time,7,6,Yes,No,Yes,Purchased,Yes,Yes
+55,Male,White,Married,Post-graduate,Retired,8,6,Yes,No,Yes,Borrowed from others,Yes,Yes
+54,Female,White,Married,College,Employed full-time,8,6,Yes,No,No,Purchased,Yes,Yes
+54,Female,White,Married,None,Employed full-time,2,6,Yes,No,No,Purchased,Yes,Yes
+54,Male,White,Divorced,Some college,Retired,4,6,Yes,No,No,Borrowed from others,Yes,No
+53,Male,White,Single,High school,Employed full-time,6,6,Yes,No,No,Borrowed from others,Yes,Yes
+53,Female,White,Married,College,Retired,7,6,Yes,No,No,Purchased,No,Yes
+53,Female,White,Married,High school,Employed part-time,7,6,Yes,No,Yes,Purchased,Yes,Yes
+53,Female,White,Married,High school,Employed full-time,7,6,Yes,No,Yes,Purchased,No,No
+53,Male,White,Never been married,Some college,Retired,8,6,Yes,No,No,Borrowed from library,Yes,No
+52,Male,White,Married,Post-graduate,Employed full-time,8,6,Yes,No,No,Purchased,Yes,Yes
+52,Female,White,Never been married,High school,Employed full-time,3,6,Yes,No,No,Other sources,No,Yes
+52,Male,White,Married,Some college,Employed full-time,8,6,Yes,No,No,Other sources,Yes,Yes
+51,Female,White,Married,Some high school,Unemployed,3,6,Yes,No,No,Borrowed from others,Yes,Yes
+51,Female,White,Married,Post-graduate,Employed full-time,8,6,Yes,No,Yes,Purchased,No,Yes
+51,Male,White,Never been married,College,Employed full-time,2,6,No,Yes,No,Purchased,No,Yes
+51,Female,White,Divorced,College,Retired,6,6,Yes,Yes,No,Purchased,Yes,Yes
+51,Female,White,Widowed,High school,Employed full-time,3,6,Yes,No,No,Purchased,Yes,Yes
+50,Male,White,Married,College,Employed full-time,8,6,Yes,No,No,Purchased,Yes,Yes
+50,Male,White,Living with a partner,College,Unemployed,3,6,Yes,No,No,Other sources,Yes,Yes
+50,Female,White,Married,Some college,Employed full-time,8,6,Yes,No,No,Purchased,Yes,No
+49,Female,White,Married,College,Employed full-time,6,6,Yes,No,No,Borrowed from others,Yes,Yes
+49,Female,White,Married,College,Employed part-time,8,6,Yes,No,No,Purchased,Yes,No
+48,Male,White,Married,College,Employed full-time,7,6,Yes,Yes,No,Purchased,No,Yes
+48,Female,White,Widowed,High school,Employed full-time,6,6,Yes,No,No,Purchased,Yes,Yes
+47,Female,White,Married,Some college,Employed full-time,8,6,Yes,No,No,Purchased,Yes,Yes
+47,Female,White,Married,High school,Employed full-time,6,6,Yes,No,No,Purchased,Yes,Yes
+47,Male,White,Married,High school,Employed full-time,8,6,Yes,No,No,Borrowed from others,Yes,Yes
+47,Female,White,Married,Post-graduate,Employed full-time,8,6,Yes,No,No,Purchased,No,No
+47,Male,White,Married,Trade school,Disabled,4,6,Yes,No,No,Other sources,Yes,Yes
+47,Male,White,Married,High school,Employed full-time,8,6,Yes,No,Yes,Other sources,No,No
+46,Male,White,Single,Trade school,Retired,2,6,No,No,Yes,Purchased,No,No
+46,Female,White,Married,Some college,Employed full-time,7,6,Yes,No,Yes,Purchased,No,Yes
+45,Female,White,Married,Post-graduate,Employed full-time,8,6,Yes,Yes,Yes,Purchased,No,Yes
+44,Male,White,Married,High school,Employed full-time,5,6,Yes,No,No,Purchased,Yes,No
+43,Female,White,Married,High school,Employed full-time,7,6,Yes,No,No,Borrowed from others,Yes,Yes
+43,Male,White,Never been married,Some college,Employed part-time,8,6,Yes,No,No,Borrowed from others,No,Yes
+42,Male,White,Married,Post-graduate,Employed part-time,8,6,Yes,No,No,Borrowed from others,Yes,No
+42,Male,White,Married,College,Employed full-time,7,6,Yes,No,No,Borrowed from library,Yes,Yes
+42,Male,White,Married,Some college,Employed full-time,7,6,Yes,No,Yes,Purchased,No,Yes
+41,Female,White,Living with a partner,Some high school,Unemployed,3,6,Yes,No,No,Purchased,No,No
+41,Male,White,Married,College,Unemployed,8,6,Yes,Yes,No,Purchased,No,Yes
+40,Male,White,Divorced,Some college,Self-employed,8,6,Yes,No,No,Purchased,No,Yes
+39,Male,White,Married,Some college,Employed full-time,8,6,Yes,No,Yes,Purchased,No,No
+39,Female,White,Married,College,Employed full-time,8,6,Yes,Yes,Yes,Purchased,Yes,No
+39,Male,White,Married,College,Employed full-time,8,6,Yes,No,No,Purchased,No,Yes
+38,Male,White,Married,Post-graduate,Employed full-time,8,6,Yes,No,No,Purchased,Yes,No
+38,Female,White,Married,High school,Employed full-time,4,6,Yes,No,No,Borrowed from others,No,No
+38,Female,White,Married,College,Employed part-time,8,6,Yes,No,No,Purchased,Yes,Yes
+38,Female,White,Married,Some college,Employed full-time,4,6,Yes,Yes,Yes,Purchased,Yes,Yes
+38,Female,White,Divorced,Post-graduate,Employed full-time,7,6,Yes,No,Yes,Borrowed from others,Yes,No
+36,Female,White,Never been married,Some high school,Unemployed,1,6,Yes,No,No,Purchased,Yes,No
+34,Male,White,Married,Some college,Employed full-time,6,6,Yes,No,No,Purchased,Yes,No
+34,Male,White,Married,College,Employed full-time,7,6,Yes,No,No,Borrowed from others,Yes,No
+34,Male,White,Married,College,Employed full-time,7,6,Yes,No,Yes,Purchased,Yes,No
+33,Male,White,Married,High school,Employed full-time,5,6,Yes,No,No,Borrowed from others,No,Yes
+32,Female,White,Married,Post-graduate,Unemployed,4,6,Yes,Yes,No,Purchased,Yes,Yes
+31,Male,White,Married,College,Employed full-time,5,6,Yes,No,Yes,Purchased,Yes,No
+31,Male,White,Married,Trade school,Employed full-time,8,6,Yes,No,No,Other sources,Yes,Yes
+30,Female,White,Married,High school,Employed full-time,3,6,Yes,No,No,Purchased,No,Yes
+30,Male,White,Married,High school,Employed full-time,8,6,Yes,No,No,Purchased,Yes,Yes
+29,Female,White,Living with a partner,High school,Employed full-time,3,6,Yes,Yes,No,Borrowed from library,No,Yes
+28,Female,White,Never been married,College,Employed full-time,5,6,Yes,No,Yes,Purchased,Yes,No
+27,Female,White,Living with a partner,Post-graduate,Employed full-time,6,6,Yes,No,Yes,Purchased,Yes,Yes
+27,Male,White,Never been married,Post-graduate,Employed full-time,6,6,Yes,Yes,No,Purchased,Yes,Yes
+26,Female,White,Married,Some high school,Unemployed,3,6,Yes,Yes,No,Borrowed from library,Yes,Yes
+25,Male,White,Married,High school,Unemployed,4,6,Yes,No,No,Borrowed from others,Yes,Yes
+25,Male,White,Never been married,College,Employed full-time,6,6,Yes,No,No,Purchased,Yes,Yes
+23,Male,White,Never been married,Some college,Employed part-time,5,6,No,No,Yes,Other sources,Yes,Yes
+23,Male,White,Living with a partner,High school,Employed full-time,3,6,Yes,No,No,Purchased,No,Yes
+21,Male,White,Never been married,Some college,Employed part-time,8,6,Yes,No,Yes,Borrowed from others,Yes,Yes
+19,Female,White,Never been married,Some college,Employed part-time,7,6,Yes,No,No,Purchased,No,No
+18,Female,White,Never been married,High school,Student,8,6,Yes,No,No,Other sources,No,No
+18,Female,White,Never been married,High school,Unemployed,7,6,Yes,No,No,Purchased,No,No
+18,Female,White,Never been married,Some college,Employed part-time,8,6,Yes,No,No,Purchased,No,No
+17,Female,White,Never been married,Some high school,Unemployed,3,6,Yes,No,No,Borrowed from others,No,Yes
+17,Male,White,Never been married,Some high school,Unemployed,8,6,Yes,No,No,Borrowed from library,No,No
+17,Male,White,Never been married,Some high school,Unemployed,6,6,Yes,Yes,No,Purchased,No,Yes
+17,Male,White,Never been married,Some high school,Employed part-time,7,6,Yes,Yes,No,Purchased,Yes,Yes
+56,Male,Other,Married,High school,Employed full-time,4,5,Yes,No,No,Borrowed from others,Yes,No
+21,Male,Other,Never been married,High school,Employed full-time,6,5,Yes,No,No,Borrowed from others,Yes,Yes
+20,Male,Other,Living with a partner,High school,Employed part-time,2,5,No,No,No,Borrowed from library,No,No
+20,Female,Other,Never been married,Some college,Unemployed,2,5,Yes,No,No,Purchased,No,No
+18,Female,Other,Living with a partner,High school,Unemployed,1,5,Yes,No,No,Borrowed from others,No,Yes
+16,Male,Other,Never been married,Some high school,Unemployed,6,5,Yes,No,No,Borrowed from library,Yes,No
+63,Female,Mixed race,Married,College,Retired,5,5,Yes,No,No,Purchased,Yes,Yes
+28,Male,Mixed race,Married,High school,Employed full-time,3,5,Yes,No,No,Other sources,Yes,No
+20,Male,Mixed race,Married,Some college,Employed part-time,2,5,Yes,No,Yes,Purchased,No,No
+48,Male,Asian/Pacific Islander,Married,College,Employed full-time,7,5,Yes,No,Yes,Other sources,Yes,Yes
+37,Female,Asian/Pacific Islander,Married,College,Employed full-time,8,5,Yes,Yes,Yes,Borrowed from library,No,Yes
+35,Male,Asian/Pacific Islander,Married,Post-graduate,Employed full-time,7,5,Yes,Yes,Yes,Purchased,Yes,No
+26,Female,Asian/Pacific Islander,Never been married,College,Employed full-time,6,5,Yes,No,Yes,Purchased,Yes,No
+24,Female,Asian/Pacific Islander,Married,College,Unemployed,2,5,Yes,No,Yes,Borrowed from others,Yes,Yes
+19,Female,Asian/Pacific Islander,Never been married,Some college,Unemployed,8,5,Yes,No,No,Purchased,No,Yes
+87,Female,Black/African-American,Widowed,High school,Retired,2,5,Yes,No,No,Borrowed from others,Yes,Yes
+65,Female,Black/African-American,Divorced,High school,Disabled,3,5,Yes,No,No,Borrowed from others,Yes,Yes
+62,Male,Black/African-American,Married,College,Employed full-time,6,5,No,No,Yes,Other sources,Yes,Yes
+60,Male,Black/African-American,Married,Some college,Retired,4,5,Yes,Yes,No,Purchased,Yes,Yes
+54,Female,Black/African-American,Married,Some college,Employed full-time,7,5,Yes,No,No,Purchased,Yes,Yes
+54,Female,Black/African-American,Never been married,Some college,Retired,2,5,Yes,No,No,Borrowed from others,Yes,No
+52,Male,Black/African-American,Living with a partner,Some college,Self-employed,2,5,Yes,No,No,Other sources,Yes,No
+51,Male,Black/African-American,Married,Trade school,Employed full-time,4,5,Yes,No,No,Purchased,Yes,Yes
+49,Female,Black/African-American,Never been married,High school,Retired,1,5,Yes,No,No,Purchased,Yes,No
+46,Male,Black/African-American,Married,None,Employed part-time,8,5,Yes,No,No,Purchased,Yes,Yes
+45,Male,Black/African-American,Married,High school,Employed full-time,4,5,Yes,No,No,Purchased,Yes,Yes
+42,Male,Black/African-American,Divorced,Some college,Employed full-time,4,5,Yes,No,No,Purchased,Yes,Yes
+40,Male,Black/African-American,Married,Some college,Employed part-time,3,5,Yes,Yes,Yes,Purchased,No,Yes
+39,Male,Black/African-American,Married,Some college,Employed full-time,5,5,Yes,No,No,Other sources,No,No
+38,Female,Black/African-American,Married,Some college,Employed full-time,6,5,Yes,Yes,No,Purchased,No,No
+36,Female,Black/African-American,Separated,Some high school,Unemployed,3,5,Yes,No,Yes,Borrowed from library,Yes,Yes
+35,Male,Black/African-American,Married,High school,Employed full-time,4,5,Yes,No,No,Borrowed from others,No,No
+34,Female,Black/African-American,Married,Some college,Employed part-time,4,5,Yes,Yes,Yes,Purchased,Yes,Yes
+33,Female,Black/African-American,Never been married,High school,Disabled,3,5,No,No,No,Borrowed from others,Yes,No
+32,Female,Black/African-American,Never been married,High school,Unemployed,1,5,Yes,No,Yes,Other sources,Yes,Yes
+32,Female,Black/African-American,Married,College,Employed full-time,4,5,Yes,No,Yes,Borrowed from others,Yes,No
+30,Female,Black/African-American,Married,Some college,Employed part-time,6,5,No,No,Yes,Borrowed from others,No,No
+23,Female,Black/African-American,Living with a partner,Some college,Employed full-time,1,5,Yes,No,No,Purchased,Yes,No
+21,Male,Black/African-American,Never been married,High school,Unemployed,5,5,Yes,No,No,Borrowed from others,No,Yes
+18,Female,Black/African-American,Living with a partner,High school,Employed part-time,4,5,Yes,No,No,Borrowed from library,Yes,Yes
+18,Female,Black/African-American,Never been married,Some college,Unemployed,2,5,Yes,No,No,Borrowed from others,No,Yes
+18,Female,Black/African-American,Separated,Some college,Employed part-time,1,5,No,No,No,Purchased,No,No
+17,Female,Black/African-American,Never been married,Some high school,Employed part-time,8,5,Yes,No,No,Purchased,No,No
+17,Male,Black/African-American,Never been married,Some high school,Employed part-time,8,5,Yes,No,No,Borrowed from library,No,No
+89,Female,White,Widowed,College,Retired,4,5,Yes,No,No,Borrowed from others,Yes,Yes
+88,Male,White,Married,Some college,Retired,2,5,Yes,No,No,Other sources,Yes,No
+88,Male,White,Married,Post-graduate,Retired,7,5,Yes,No,No,Other sources,Yes,Yes
+88,Male,White,Married,Some college,Retired,5,5,Yes,No,No,Borrowed from others,No,Yes
+76,Female,White,Widowed,High school,Retired,2,5,Yes,Yes,No,Borrowed from others,No,Yes
+74,Female,White,Married,Some high school,Retired,3,5,Yes,No,No,Other sources,Yes,Yes
+72,Male,White,Married,Post-graduate,Retired,6,5,No,No,Yes,Borrowed from others,Yes,No
+67,Female,White,Divorced,College,Employed part-time,7,5,Yes,No,No,Borrowed from others,No,No
+67,Male,White,Married,Some college,Retired,5,5,Yes,No,No,Borrowed from library,Yes,No
+67,Male,White,Widowed,Some college,Employed part-time,8,5,Yes,Yes,Yes,Purchased,Yes,No
+66,Female,White,Married,High school,Retired,3,5,Yes,No,No,Borrowed from others,Yes,No
+66,Female,White,Married,Some college,Employed full-time,4,5,Yes,Yes,No,Borrowed from library,No,Yes
+66,Male,White,Married,College,Retired,6,5,Yes,No,No,Purchased,Yes,Yes
+65,Male,White,Widowed,Some college,Employed full-time,7,5,Yes,No,No,Purchased,Yes,Yes
+65,Male,White,Married,Some high school,Retired,4,5,Yes,No,No,Borrowed from others,No,Yes
+62,Female,White,Never been married,Some college,Employed full-time,4,5,Yes,No,No,Borrowed from others,No,Yes
+61,Female,White,Living with a partner,College,Retired,5,5,Yes,No,No,Borrowed from others,No,Yes
+61,Female,White,Married,Some college,Self-employed,8,5,Yes,Yes,Yes,Purchased,Yes,Yes
+60,Female,White,Married,High school,Unemployed,2,5,Yes,No,No,Purchased,Yes,Yes
+59,Female,White,Divorced,Post-graduate,Employed full-time,7,5,Yes,No,No,Purchased,Yes,Yes
+58,Female,White,Living with a partner,High school,Other,3,5,Yes,No,No,Borrowed from others,No,Yes
+57,Male,White,Divorced,Some college,Disabled,2,5,Yes,Yes,No,Borrowed from library,No,Yes
+57,Male,White,Married,Post-graduate,Employed full-time,8,5,Yes,No,No,Purchased,Yes,Yes
+57,Female,White,Married,High school,Disabled,2,5,Yes,No,No,Borrowed from others,Yes,No
+57,Female,White,Married,High school,Unemployed,3,5,Yes,No,No,Other sources,Yes,Yes
+55,Male,White,Divorced,College,Retired,2,5,Yes,No,No,Borrowed from others,Yes,Yes
+55,Female,White,Married,Some college,Employed full-time,7,5,No,No,No,Purchased,Yes,No
+55,Female,White,Divorced,College,Employed part-time,4,5,Yes,No,Yes,Other sources,No,No
+54,Male,White,Married,Some college,Retired,6,5,Yes,No,No,Purchased,Yes,Yes
+53,Male,White,Married,College,Employed full-time,8,5,Yes,No,No,Borrowed from others,Yes,No
+52,Male,White,Married,Post-graduate,Employed part-time,8,5,Yes,No,No,Borrowed from library,Yes,No
+51,Female,White,Married,College,Retired,8,5,Yes,Yes,Yes,Purchased,Yes,Yes
+51,Male,White,Married,Post-graduate,Employed full-time,6,5,Yes,No,Yes,Purchased,No,No
+50,Male,White,Divorced,Some college,Employed full-time,7,5,Yes,No,No,Purchased,Yes,No
+50,Female,White,Married,College,Employed full-time,7,5,Yes,No,Yes,Borrowed from others,Yes,Yes
+49,Male,White,Never been married,Some college,Unemployed,3,5,Yes,No,No,Purchased,Yes,Yes
+49,Male,White,Single,Some high school,Employed part-time,8,5,No,No,No,Other sources,Yes,No
+48,Male,White,Married,College,Employed full-time,8,5,Yes,No,No,Borrowed from others,No,No
+48,Female,White,Divorced,Some college,Employed full-time,5,5,Yes,No,No,Purchased,Yes,Yes
+47,Male,White,Never been married,Some college,Retired,3,5,Yes,No,No,Purchased,No,Yes
+47,Female,White,Married,Some college,Employed full-time,7,5,Yes,No,No,Other sources,Yes,Yes
+47,Male,White,Married,High school,Self-employed,4,5,Yes,No,No,Borrowed from others,No,No
+46,Male,White,Divorced,Some college,Employed full-time,7,5,Yes,No,Yes,Borrowed from others,No,Yes
+46,Female,White,Married,Post-graduate,Employed full-time,8,5,Yes,No,No,Purchased,Yes,Yes
+46,Male,White,Married,Post-graduate,Employed full-time,5,5,Yes,No,Yes,Other sources,Yes,Yes
+45,Male,White,Married,College,Employed full-time,8,5,Yes,No,No,Purchased,No,Yes
+44,Female,White,Married,Some college,Unemployed,8,5,Yes,No,No,Purchased,No,Yes
+44,Female,White,Married,High school,Employed full-time,5,5,Yes,No,No,Purchased,Yes,No
+44,Male,White,Married,College,Employed full-time,8,5,Yes,No,No,Purchased,No,No
+43,Female,White,Married,Some college,Employed full-time,8,5,Yes,No,No,Purchased,No,No
+43,Male,White,Married,Post-graduate,Employed full-time,8,5,Yes,Yes,No,Purchased,Yes,Yes
+42,Male,White,Married,College,Employed full-time,8,5,Yes,No,Yes,Purchased,Yes,Yes
+42,Female,White,Married,College,Self-employed,3,5,Yes,No,No,Purchased,No,No
+42,Male,White,Married,Post-graduate,Employed full-time,8,5,Yes,No,No,Purchased,Yes,Yes
+41,Female,White,Married,Some college,Employed full-time,8,5,Yes,No,Yes,Other sources,Yes,Yes
+41,Female,White,Married,Some college,Unemployed,7,5,Yes,Yes,Yes,Purchased,No,Yes
+40,Female,White,Divorced,College,Employed full-time,3,5,Yes,No,No,Purchased,No,No
+39,Male,White,Married,Post-graduate,Employed full-time,8,5,Yes,No,Yes,Borrowed from library,Yes,No
+39,Male,White,Married,College,Employed full-time,8,5,Yes,No,No,Purchased,No,Yes
+38,Female,White,Married,Post-graduate,Employed part-time,8,5,Yes,Yes,Yes,Purchased,Yes,Yes
+37,Male,White,Divorced,High school,Retired,2,5,No,Yes,Yes,Purchased,No,Yes
+37,Male,White,Never been married,Post-graduate,Employed full-time,8,5,Yes,Yes,Yes,Purchased,Yes,Yes
+37,Male,White,Married,Post-graduate,Employed full-time,7,5,Yes,No,Yes,Other sources,Yes,Yes
+36,Female,White,Never been married,Some college,Employed full-time,6,5,Yes,No,No,Purchased,Yes,No
+35,Female,White,Married,College,Unemployed,4,5,Yes,No,No,Borrowed from library,Yes,No
+35,Female,White,Never been married,College,Employed full-time,7,5,Yes,No,Yes,Purchased,Yes,Yes
+35,Male,White,Never been married,Some college,Unemployed,6,5,Yes,No,No,Borrowed from others,No,Yes
+32,Male,White,Married,Some college,Employed full-time,6,5,Yes,No,No,Borrowed from others,No,No
+32,Female,White,Married,College,Employed part-time,7,5,Yes,No,No,Purchased,No,No
+32,Female,White,Married,College,Unemployed,7,5,No,No,Yes,Purchased,No,Yes
+31,Female,White,Married,Some high school,Unemployed,3,5,Yes,No,No,Purchased,No,No
+31,Female,White,Married,Post-graduate,Employed full-time,7,5,Yes,No,No,Borrowed from others,Yes,No
+31,Male,White,Married,College,Employed full-time,7,5,No,No,Yes,Purchased,Yes,Yes
+30,Female,White,Never been married,College,Employed full-time,5,5,Yes,No,No,Purchased,Yes,Yes
+30,Male,White,Married,College,Employed full-time,7,5,Yes,Yes,No,Borrowed from others,Yes,Yes
+29,Male,White,Single,College,Employed full-time,8,5,Yes,Yes,No,Purchased,Yes,Yes
+29,Female,White,Never been married,College,Employed part-time,2,5,Yes,No,No,Purchased,No,Yes
+28,Male,White,Living with a partner,College,Employed full-time,7,5,Yes,Yes,No,Other sources,No,No
+27,Female,White,Never been married,College,Unemployed,6,5,Yes,No,Yes,Other sources,No,Yes
+27,Male,White,Married,College,Employed full-time,8,5,Yes,No,No,Purchased,Yes,Yes
+27,Male,White,Married,College,Employed full-time,6,5,Yes,No,Yes,Purchased,Yes,No
+25,Male,White,Never been married,College,Unemployed,5,5,Yes,Yes,Yes,Purchased,Yes,No
+25,Female,White,Never been married,Post-graduate,Employed full-time,5,5,Yes,No,No,Purchased,Yes,Yes
+25,Female,White,Married,Some college,Unemployed,4,5,Yes,No,No,Purchased,Yes,Yes
+23,Female,White,Single,College,Student,1,5,Yes,No,No,Borrowed from library,Yes,Yes
+22,Male,White,Never been married,Some college,Employed part-time,1,5,Yes,No,No,Purchased,No,No
+21,Female,White,Living with a partner,High school,Employed part-time,3,5,Yes,No,No,Purchased,Yes,No
+21,Male,White,Never been married,Some college,Unemployed,4,5,No,No,Yes,Borrowed from library,Yes,No
+20,Male,White,Never been married,Some college,Employed part-time,6,5,Yes,No,No,Purchased,No,No
+20,Female,White,Never been married,Some college,Employed part-time,4,5,Yes,No,No,Borrowed from others,Yes,No
+20,Male,White,Never been married,High school,Unemployed,8,5,No,No,Yes,Purchased,Yes,No
+19,Female,White,Never been married,High school,Unemployed,1,5,No,No,No,Borrowed from library,Yes,No
+18,Female,White,Never been married,High school,Student,8,5,Yes,No,No,Purchased,No,Yes
+18,Female,White,Never been married,High school,Employed part-time,5,5,Yes,No,No,Purchased,Yes,Yes
+18,Female,White,Never been married,High school,Employed part-time,4,5,Yes,No,Yes,Purchased,Yes,No
+17,Male,White,Never been married,High school,Unemployed,8,5,Yes,No,Yes,Purchased,Yes,No
+17,Male,White,Never been married,Some high school,Unemployed,8,5,Yes,No,No,Borrowed from library,Yes,Yes
+17,Female,White,Never been married,Some high school,Employed part-time,5,5,Yes,No,No,Other sources,No,No
+16,Female,White,Never been married,Some high school,Employed part-time,8,5,Yes,No,No,Other sources,No,No
+16,Female,White,Never been married,Some high school,Unemployed,8,5,Yes,No,No,Purchased,No,No
+60,Female,Other,Never been married,College,Employed full-time,4,4,Yes,No,No,Other sources,Yes,No
+51,Female,Other,Married,High school,Employed full-time,3,4,Yes,No,No,Purchased,No,No
+31,Female,Other,Living with a partner,High school,Unemployed,8,4,Yes,No,No,Borrowed from others,Yes,Yes
+18,Male,Other,Never been married,Some high school,Employed part-time,4,4,Yes,No,No,Purchased,No,Yes
+69,Male,Native American,Married,Some college,Retired,8,4,Yes,No,No,Purchased,Yes,No
+66,Female,Mixed race,Never been married,Some high school,Employed full-time,8,4,Yes,Yes,Yes,Borrowed from library,Yes,Yes
+27,Female,Mixed race,Married,None,Unemployed,1,4,No,Yes,Yes,Borrowed from others,Yes,Yes
+25,Female,Mixed race,Living with a partner,High school,Employed part-time,1,4,Yes,No,No,Borrowed from library,Yes,Yes
+65,Female,Asian/Pacific Islander,Widowed,High school,Unemployed,4,4,Yes,No,No,Borrowed from others,No,Yes
+35,Male,Asian/Pacific Islander,Married,Some college,Employed full-time,8,4,Yes,No,No,Other sources,Yes,Yes
+23,Male,Asian/Pacific Islander,Never been married,College,Employed full-time,7,4,Yes,No,No,Purchased,Yes,Yes
+21,Female,Asian/Pacific Islander,Living with a partner,Some college,Employed full-time,5,4,Yes,No,No,Purchased,No,Yes
+63,Male,Black/African-American,Widowed,Some college,Retired,3,4,Yes,No,No,Borrowed from others,No,No
+55,Female,Black/African-American,Married,High school,Employed full-time,4,4,Yes,No,No,Purchased,Yes,Yes
+51,Male,Black/African-American,Living with a partner,Some college,Employed full-time,6,4,Yes,No,No,Purchased,Yes,No
+50,Male,Black/African-American,Never been married,High school,Unemployed,8,4,Yes,Yes,No,Purchased,Yes,No
+38,Female,Black/African-American,Never been married,Some college,Unemployed,2,4,Yes,No,No,Other sources,Yes,Yes
+37,Male,Black/African-American,Separated,High school,Employed part-time,3,4,Yes,No,No,Borrowed from library,Yes,Yes
+37,Male,Black/African-American,Never been married,High school,Unemployed,3,4,Yes,No,No,Purchased,Yes,No
+30,Male,Black/African-American,Never been married,High school,Unemployed,8,4,Yes,No,No,Borrowed from others,Yes,Yes
+29,Male,Black/African-American,Never been married,Some college,Employed full-time,6,4,Yes,No,No,Purchased,No,Yes
+28,Female,Black/African-American,Divorced,High school,Unemployed,1,4,Yes,No,No,Borrowed from others,No,No
+25,Female,Black/African-American,Living with a partner,Some college,Unemployed,1,4,Yes,No,Yes,Borrowed from library,No,No
+23,Male,Black/African-American,Never been married,Some college,Employed full-time,3,4,Yes,No,No,Borrowed from others,No,No
+20,Female,Black/African-American,Never been married,Some college,Unemployed,8,4,Yes,No,No,Purchased,Yes,Yes
+19,Female,Black/African-American,Never been married,High school,Unemployed,6,4,Yes,No,No,Purchased,No,Yes
+18,Male,Black/African-American,Never been married,Some high school,Unemployed,8,4,Yes,No,No,Borrowed from library,No,Yes
+18,Male,Black/African-American,Living with a partner,Some high school,Employed part-time,8,4,Yes,No,No,Other sources,Yes,Yes
+86,Male,White,Married,Some college,Retired,6,4,Yes,No,No,Purchased,Yes,No
+81,Female,White,Widowed,High school,Unemployed,8,4,No,No,No,Borrowed from others,Yes,Yes
+80,Female,White,Widowed,College,Retired,5,4,Yes,No,No,Borrowed from library,Yes,Yes
+78,Male,White,Married,Post-graduate,Retired,4,4,Yes,No,No,Borrowed from library,Yes,No
+77,Female,White,Married,High school,Retired,4,4,Yes,No,No,Borrowed from others,No,No
+76,Female,White,Married,High school,Retired,4,4,Yes,No,No,Purchased,Yes,No
+75,Male,White,Married,Post-graduate,Retired,8,4,Yes,No,Yes,Borrowed from library,Yes,Yes
+72,Female,White,Widowed,High school,Retired,3,4,Yes,No,No,Other sources,No,No
+72,Male,White,Married,Post-graduate,Retired,6,4,Yes,No,No,Borrowed from others,Yes,Yes
+71,Male,White,Married,Some college,Unemployed,7,4,Yes,No,No,Purchased,No,No
+70,Male,White,Married,Some college,Retired,3,4,Yes,No,No,Borrowed from library,No,No
+69,Female,White,Widowed,Trade school,Retired,3,4,Yes,No,No,Purchased,Yes,No
+69,Female,White,Divorced,College,Retired,3,4,Yes,No,No,Purchased,Yes,No
+68,Female,White,Widowed,Some college,Retired,3,4,Yes,No,No,Purchased,Yes,Yes
+66,Male,White,Married,High school,Retired,6,4,Yes,No,No,Purchased,No,No
+66,Female,White,Widowed,Some high school,Retired,2,4,Yes,No,Yes,Other sources,Yes,No
+65,Female,White,Divorced,Post-graduate,Employed full-time,8,4,Yes,No,No,Purchased,No,No
+65,Male,White,Divorced,High school,Retired,5,4,Yes,No,No,Purchased,Yes,No
+65,Male,White,Married,Post-graduate,Retired,6,4,No,No,No,Purchased,Yes,Yes
+65,Female,White,Married,High school,Retired,8,4,Yes,No,No,Purchased,Yes,Yes
+65,Male,White,Married,High school,Retired,6,4,Yes,No,No,Borrowed from others,Yes,Yes
+65,Female,White,Married,Post-graduate,Employed full-time,8,4,Yes,No,No,Purchased,Yes,No
+64,Male,White,Married,Post-graduate,Employed full-time,6,4,Yes,No,No,Borrowed from others,Yes,Yes
+64,Male,White,Married,Post-graduate,Employed full-time,5,4,Yes,No,No,Purchased,Yes,Yes
+62,Female,White,Married,Post-graduate,Retired,8,4,Yes,No,Yes,Purchased,Yes,Yes
+60,Male,White,Married,High school,Self-employed,2,4,Yes,No,No,Borrowed from library,No,Yes
+60,Male,White,Married,Some college,Employed full-time,4,4,Yes,No,No,Purchased,No,No
+59,Male,White,Married,High school,Employed full-time,3,4,No,No,No,Other sources,No,No
+58,Female,White,Married,Post-graduate,Employed full-time,7,4,Yes,No,No,Purchased,No,Yes
+57,Female,White,Never been married,College,Unemployed,3,4,Yes,No,No,Borrowed from library,Yes,Yes
+57,Male,White,Living with a partner,Some college,Disabled,5,4,Yes,No,No,Purchased,No,No
+57,Female,White,Never been married,Post-graduate,Employed full-time,4,4,Yes,No,No,Purchased,Yes,No
+56,Female,White,Married,College,Retired,8,4,No,No,Yes,Purchased,No,Yes
+55,Female,White,Married,High school,Employed part-time,8,4,Yes,No,No,Other sources,Yes,No
+55,Female,White,Separated,High school,Employed full-time,4,4,Yes,No,No,Purchased,No,No
+55,Female,White,Married,Some college,Employed full-time,6,4,Yes,No,No,Purchased,No,No
+55,Male,White,Widowed,High school,Retired,4,4,Yes,No,No,Purchased,Yes,Yes
+55,Female,White,Married,Post-graduate,Employed full-time,6,4,Yes,No,Yes,Borrowed from library,Yes,Yes
+53,Female,White,Married,Some college,Disabled,1,4,Yes,No,No,Borrowed from library,Yes,Yes
+52,Female,White,Married,Some college,Employed part-time,8,4,No,No,Yes,Purchased,Yes,Yes
+52,Female,White,Divorced,Post-graduate,Employed full-time,6,4,Yes,Yes,No,Purchased,No,Yes
+52,Male,White,Married,College,Employed full-time,7,4,Yes,No,No,Borrowed from others,Yes,Yes
+51,Male,White,Married,High school,Employed full-time,8,4,Yes,No,No,Purchased,No,Yes
+50,Male,White,Divorced,Some high school,Disabled,1,4,No,No,No,Purchased,No,Yes
+50,Male,White,Married,Post-graduate,Employed full-time,8,4,Yes,No,No,Other sources,Yes,Yes
+50,Female,White,Divorced,Some college,Employed part-time,8,4,Yes,No,No,Purchased,Yes,No
+50,Male,White,Married,College,Employed full-time,8,4,Yes,No,Yes,Other sources,Yes,Yes
+49,Female,White,Divorced,Post-graduate,Employed full-time,7,4,Yes,No,No,Purchased,Yes,No
+49,Male,White,Married,Post-graduate,Employed full-time,8,4,Yes,Yes,Yes,Purchased,Yes,Yes
+49,Female,White,Married,Post-graduate,Employed full-time,7,4,Yes,No,No,Purchased,Yes,Yes
+49,Male,White,Married,College,Employed full-time,8,4,Yes,No,No,Borrowed from others,Yes,Yes
+48,Male,White,Married,High school,Employed full-time,8,4,Yes,Yes,Yes,Purchased,No,No
+47,Male,White,Never been married,High school,Employed full-time,5,4,Yes,No,No,Borrowed from others,Yes,No
+47,Female,White,Married,Some college,Employed full-time,7,4,Yes,No,No,Purchased,No,Yes
+47,Male,White,Married,High school,Employed full-time,8,4,Yes,No,No,Borrowed from others,Yes,Yes
+46,Male,White,Living with a partner,High school,Employed full-time,5,4,Yes,No,No,Other sources,Yes,No
+46,Male,White,Married,College,Employed full-time,7,4,Yes,No,No,Borrowed from others,Yes,No
+45,Male,White,Married,High school,Employed full-time,8,4,Yes,No,No,Purchased,Yes,Yes
+45,Female,White,Married,College,Employed full-time,7,4,Yes,Yes,No,Borrowed from library,No,Yes
+44,Male,White,Never been married,Some high school,Unemployed,8,4,Yes,No,No,Borrowed from library,Yes,No
+44,Female,White,Married,Trade school,Employed full-time,6,4,Yes,No,No,Purchased,Yes,No
+44,Female,White,Married,College,Self-employed,8,4,Yes,No,Yes,Purchased,No,Yes
+43,Male,White,Never been married,Post-graduate,Employed full-time,8,4,Yes,No,No,Purchased,Yes,Yes
+42,Female,White,Married,College,Unemployed,8,4,Yes,Yes,Yes,Borrowed from library,No,No
+42,Male,White,Married,College,Employed full-time,7,4,Yes,No,No,Borrowed from others,Yes,Yes
+42,Female,White,Never been married,College,Employed full-time,4,4,Yes,No,No,Borrowed from others,No,No
+42,Male,White,Never been married,College,Self-employed,7,4,Yes,No,No,Borrowed from others,Yes,Yes
+41,Male,White,Married,College,Self-employed,8,4,Yes,No,No,Borrowed from library,No,No
+41,Female,White,Married,College,Employed full-time,7,4,Yes,No,No,Borrowed from others,No,No
+41,Female,White,Married,Post-graduate,Employed full-time,8,4,No,No,Yes,Purchased,No,Yes
+40,Male,White,Married,Post-graduate,Employed full-time,7,4,No,No,Yes,Borrowed from library,Yes,Yes
+40,Female,White,Married,College,Unemployed,2,4,Yes,Yes,Yes,Borrowed from others,Yes,Yes
+39,Female,White,Divorced,College,Employed full-time,6,4,Yes,No,No,Borrowed from others,Yes,Yes
+38,Male,White,Married,Post-graduate,Unemployed,2,4,Yes,No,No,Borrowed from library,No,No
+38,Male,White,Separated,College,Employed full-time,6,4,Yes,No,Yes,Borrowed from library,Yes,No
+37,Female,White,Married,College,Employed full-time,7,4,Yes,Yes,No,Other sources,No,Yes
+36,Male,White,Married,High school,Employed full-time,8,4,Yes,No,No,Purchased,Yes,Yes
+36,Male,White,Married,College,Employed full-time,3,4,Yes,No,No,Borrowed from others,No,Yes
+36,Female,White,Divorced,College,Employed full-time,6,4,Yes,No,No,Purchased,No,No
+35,Male,White,Married,Post-graduate,Employed full-time,6,4,Yes,Yes,No,Purchased,Yes,No
+35,Male,White,Married,Post-graduate,Employed full-time,8,4,No,No,Yes,Purchased,Yes,Yes
+33,Female,White,Married,College,Employed full-time,8,4,Yes,No,Yes,Other sources,Yes,No
+33,Female,White,Married,High school,Unemployed,1,4,Yes,No,No,Purchased,Yes,No
+33,Male,White,Married,High school,Employed full-time,7,4,Yes,No,No,Purchased,Yes,No
+33,Female,White,Never been married,High school,Employed full-time,4,4,Yes,No,No,Borrowed from others,Yes,No
+30,Male,White,Never been married,Some college,Unemployed,4,4,Yes,No,No,Purchased,Yes,No
+30,Male,White,Married,High school,Employed full-time,5,4,Yes,No,Yes,Other sources,No,No
+29,Female,White,Married,Post-graduate,Employed full-time,7,4,Yes,Yes,No,Purchased,No,Yes
+28,Female,White,Living with a partner,College,Unemployed,2,4,Yes,No,No,Purchased,No,No
+28,Male,White,Living with a partner,Some college,Employed full-time,4,4,Yes,No,Yes,Purchased,No,No
+28,Male,White,Married,High school,Employed full-time,6,4,Yes,No,No,Borrowed from others,Yes,No
+26,Male,White,Never been married,College,Employed full-time,4,4,Yes,No,No,Other sources,Yes,No
+25,Female,White,Never been married,College,Employed full-time,4,4,Yes,No,No,Purchased,No,No
+24,Male,White,Married,College,Employed part-time,3,4,Yes,No,No,Purchased,Yes,No
+24,Male,White,Never been married,Some college,Employed full-time,2,4,Yes,No,No,Other sources,No,No
+23,Female,White,Never been married,Some high school,Employed full-time,1,4,Yes,No,No,Purchased,Yes,No
+23,Male,White,Single,Some college,Employed full-time,2,4,Yes,Yes,No,Other sources,Yes,No
+23,Male,White,Never been married,Some college,Employed full-time,8,4,Yes,Yes,No,Other sources,Yes,Yes
+20,Male,White,Married,High school,Unemployed,3,4,Yes,No,Yes,Purchased,No,No
+20,Male,White,Never been married,Some college,Employed full-time,7,4,Yes,No,Yes,Purchased,No,No
+19,Male,White,Never been married,High school,Unemployed,8,4,Yes,Yes,No,Purchased,No,Yes
+18,Female,White,Never been married,High school,Employed part-time,3,4,Yes,No,Yes,Purchased,No,Yes
+18,Male,White,Never been married,High school,Employed part-time,5,4,No,No,No,Borrowed from others,No,Yes
+18,Male,White,Never been married,Some college,Unemployed,8,4,Yes,Yes,No,Borrowed from others,Yes,No
+17,Male,White,Never been married,Some high school,Employed full-time,7,4,Yes,No,No,Purchased,No,Yes
+16,Female,White,Never been married,Some high school,Unemployed,8,4,Yes,No,Yes,Purchased,No,Yes
+16,Female,White,Never been married,Some high school,Unemployed,4,4,Yes,Yes,No,Purchased,No,Yes
+16,Male,White,Never been married,Some high school,Employed part-time,5,4,Yes,No,No,Borrowed from library,No,No
+16,Male,White,Never been married,Some high school,Unemployed,8,4,Yes,No,No,Other sources,No,Yes
+53,Female,Other,Married,Some college,Retired,8,3,Yes,Yes,Yes,Borrowed from others,Yes,No
+40,Male,Other,Married,High school,Employed full-time,8,3,No,No,No,Other sources,No,No
+25,Female,Other,Living with a partner,High school,Unemployed,1,3,Yes,No,No,Purchased,Yes,Yes
+22,Female,Other,Married,High school,Employed part-time,1,3,No,No,Yes,Borrowed from library,No,No
+21,Female,Other,Never been married,Some high school,Unemployed,8,3,Yes,No,No,Borrowed from library,No,No
+19,Female,Other,Never been married,Some college,Employed part-time,6,3,Yes,Yes,Yes,Other sources,No,No
+16,Female,Other,Never been married,Some high school,Student,8,3,Yes,No,No,Other sources,Yes,Yes
+16,Male,Other,Single,High school,Employed part-time,8,3,Yes,Yes,No,Borrowed from library,Yes,No
+60,Male,Native American,Never been married,Some college,Employed full-time,8,3,Yes,No,No,Borrowed from others,Yes,Yes
+47,Female,Native American,Married,Post-graduate,Employed full-time,6,3,Yes,No,No,Purchased,No,Yes
+35,Male,Native American,Married,High school,Employed full-time,3,3,Yes,No,No,Purchased,Yes,No
+35,Female,Native American,Divorced,High school,Employed full-time,3,3,Yes,No,No,Borrowed from library,Yes,No
+48,Male,Mixed race,Divorced,High school,Unemployed,8,3,No,No,No,Borrowed from others,Yes,No
+22,Male,Mixed race,Never been married,Some college,Employed full-time,6,3,Yes,No,No,Borrowed from others,Yes,Yes
+18,Male,Mixed race,Never been married,Some high school,Employed part-time,4,3,Yes,No,Yes,Borrowed from others,Yes,No
+70,Male,Asian/Pacific Islander,Married,College,Retired,7,3,Yes,No,No,Borrowed from others,No,Yes
+55,Male,Asian/Pacific Islander,Married,College,Employed full-time,8,3,Yes,No,Yes,Purchased,Yes,No
+40,Female,Asian/Pacific Islander,Married,College,Unemployed,8,3,Yes,No,No,Other sources,No,Yes
+40,Male,Asian/Pacific Islander,Married,Post-graduate,Employed full-time,8,3,Yes,No,No,Purchased,Yes,No
+30,Male,Asian/Pacific Islander,Married,Post-graduate,Employed full-time,7,3,No,No,Yes,Borrowed from others,Yes,No
+30,Male,Asian/Pacific Islander,Married,College,Employed full-time,8,3,No,No,Yes,Purchased,Yes,No
+30,Female,Asian/Pacific Islander,Married,College,Unemployed,1,3,Yes,Yes,Yes,Other sources,Yes,Yes
+30,Male,Asian/Pacific Islander,Single,Some college,Employed full-time,5,3,No,No,Yes,Other sources,No,Yes
+27,Female,Asian/Pacific Islander,Married,College,Employed part-time,8,3,Yes,No,Yes,Purchased,Yes,No
+26,Male,Asian/Pacific Islander,Never been married,College,Employed full-time,8,3,Yes,No,Yes,Borrowed from others,No,No
+88,Female,Black/African-American,Widowed,High school,Retired,1,3,Yes,No,No,Purchased,Yes,No
+82,Female,Black/African-American,Divorced,Post-graduate,Retired,6,3,Yes,No,No,Purchased,No,No
+72,Female,Black/African-American,Widowed,Some college,Retired,5,3,Yes,No,No,Borrowed from others,No,Yes
+70,Female,Black/African-American,Widowed,Some high school,Retired,6,3,No,No,No,Borrowed from others,Yes,Yes
+65,Female,Black/African-American,Separated,High school,Unemployed,8,3,Yes,No,No,Borrowed from library,Yes,Yes
+61,Female,Black/African-American,Married,High school,Employed part-time,7,3,Yes,No,No,Borrowed from others,No,Yes
+58,Female,Black/African-American,Married,High school,Unemployed,8,3,Yes,Yes,No,Other sources,No,No
+57,Female,Black/African-American,Widowed,High school,Employed part-time,8,3,Yes,No,No,Borrowed from others,Yes,No
+55,Male,Black/African-American,Separated,Some high school,Retired,1,3,Yes,No,No,Borrowed from others,Yes,No
+54,Male,Black/African-American,Separated,Some college,Unemployed,2,3,Yes,No,No,Purchased,No,No
+51,Male,Black/African-American,Single,High school,Disabled,1,3,Yes,No,No,Borrowed from others,Yes,Yes
+50,Female,Black/African-American,Married,Some college,Employed full-time,7,3,No,Yes,Yes,Purchased,Yes,No
+50,Female,Black/African-American,Never been married,High school,Unemployed,1,3,Yes,No,No,Purchased,Yes,Yes
+49,Female,Black/African-American,Divorced,Some college,Employed full-time,4,3,Yes,No,No,Other sources,No,Yes
+48,Female,Black/African-American,Divorced,Some college,Employed full-time,7,3,Yes,No,No,Purchased,No,Yes
+47,Female,Black/African-American,Separated,College,Unemployed,2,3,Yes,Yes,No,Other sources,Yes,No
+47,Female,Black/African-American,Married,College,Employed full-time,7,3,Yes,No,No,Purchased,Yes,Yes
+45,Female,Black/African-American,Never been married,College,Employed full-time,4,3,Yes,No,No,Purchased,No,No
+43,Male,Black/African-American,Married,College,Employed full-time,8,3,Yes,No,No,Purchased,No,Yes
+41,Female,Black/African-American,Married,Trade school,Employed full-time,7,3,Yes,No,No,Purchased,Yes,No
+40,Female,Black/African-American,Never been married,High school,Unemployed,1,3,Yes,No,No,Borrowed from others,No,No
+39,Female,Black/African-American,Married,High school,Employed part-time,1,3,Yes,No,Yes,Purchased,Yes,Yes
+38,Male,Black/African-American,Divorced,College,Employed full-time,8,3,Yes,No,No,Purchased,No,No
+37,Male,Black/African-American,Divorced,Some high school,Employed full-time,1,3,Yes,No,No,Borrowed from library,Yes,No
+31,Male,Black/African-American,Divorced,College,Employed full-time,3,3,Yes,No,No,Purchased,Yes,Yes
+30,Male,Black/African-American,Never been married,Some high school,Unemployed,8,3,Yes,No,No,Borrowed from others,No,No
+30,Male,Black/African-American,Never been married,Some high school,Employed full-time,2,3,Yes,No,No,Borrowed from others,No,No
+27,Female,Black/African-American,Married,College,Employed full-time,4,3,Yes,No,No,Purchased,No,No
+26,Female,Black/African-American,Never been married,High school,Employed full-time,4,3,Yes,No,No,Purchased,No,No
+26,Male,Black/African-American,Never been married,High school,Employed full-time,4,3,Yes,No,No,Borrowed from others,Yes,No
+24,Female,Black/African-American,Never been married,Some college,Employed part-time,4,3,Yes,No,No,Borrowed from others,No,No
+23,Female,Black/African-American,Never been married,Some college,Employed full-time,4,3,Yes,No,No,Borrowed from others,Yes,No
+22,Female,Black/African-American,Never been married,High school,Employed full-time,5,3,Yes,No,No,Borrowed from library,Yes,Yes
+20,Female,Black/African-American,Never been married,Some college,Unemployed,1,3,Yes,Yes,Yes,Borrowed from library,No,No
+20,Male,Black/African-American,Never been married,Some college,Employed full-time,8,3,Yes,No,Yes,Borrowed from others,No,Yes
+18,Female,Black/African-American,Never been married,High school,Employed part-time,2,3,Yes,Yes,Yes,Borrowed from library,No,No
+16,Female,Black/African-American,Never been married,Some high school,Unemployed,8,3,No,No,No,Borrowed from library,No,No
+16,Male,Black/African-American,Never been married,Some high school,Unemployed,2,3,Yes,No,No,Purchased,No,No
+93,Female,White,Widowed,Some college,Retired,1,3,Yes,No,No,Borrowed from others,No,Yes
+84,Male,White,Widowed,Some college,Retired,8,3,Yes,Yes,No,Purchased,Yes,Yes
+84,Female,White,Widowed,College,Retired,6,3,Yes,No,No,Purchased,Yes,Yes
+81,Male,White,Divorced,Post-graduate,Retired,2,3,Yes,No,No,Borrowed from others,Yes,Yes
+78,Male,White,Married,Post-graduate,Retired,5,3,Yes,Yes,Yes,Purchased,Yes,Yes
+78,Female,White,Widowed,College,Retired,8,3,Yes,No,No,Borrowed from others,No,No
+77,Male,White,Married,Some college,Retired,6,3,Yes,No,No,Borrowed from others,Yes,Yes
+76,Female,White,Widowed,Some college,Retired,2,3,Yes,No,No,Other sources,No,No
+75,Male,White,Married,High school,Retired,5,3,Yes,Yes,No,Borrowed from library,Yes,Yes
+74,Male,White,Widowed,Trade school,Retired,8,3,Yes,No,No,Borrowed from others,No,Yes
+73,Female,White,Married,High school,Retired,5,3,Yes,No,No,Borrowed from others,Yes,Yes
+73,Male,White,Widowed,High school,Retired,2,3,Yes,No,No,Other sources,Yes,No
+73,Female,White,Widowed,Some high school,Unemployed,2,3,Yes,No,Yes,Other sources,Yes,No
+71,Female,White,Married,Post-graduate,Self-employed,6,3,Yes,No,Yes,Purchased,Yes,Yes
+69,Male,White,Married,Some high school,Retired,6,3,Yes,No,No,Purchased,Yes,Yes
+69,Female,White,Married,High school,Retired,3,3,Yes,No,No,Purchased,No,No
+69,Female,White,Married,College,Retired,8,3,Yes,Yes,No,Purchased,Yes,Yes
+67,Female,White,Married,High school,Retired,6,3,Yes,No,Yes,Purchased,No,No
+67,Female,White,Married,College,Retired,6,3,Yes,Yes,Yes,Purchased,Yes,No
+66,Male,White,Married,Post-graduate,Retired,7,3,Yes,No,No,Purchased,Yes,Yes
+66,Female,White,Married,Some college,Employed part-time,5,3,Yes,No,Yes,Other sources,Yes,Yes
+65,Male,White,Married,College,Retired,6,3,Yes,No,No,Purchased,Yes,Yes
+65,Female,White,Married,Some college,Employed part-time,4,3,Yes,No,Yes,Purchased,No,No
+65,Female,White,Never been married,Post-graduate,Employed full-time,7,3,Yes,No,No,Purchased,No,No
+64,Female,White,Married,High school,Retired,5,3,Yes,No,No,Borrowed from others,No,No
+64,Male,White,Single,None,Other,8,3,Yes,No,No,Other sources,No,No
+63,Male,White,Married,Some college,Disabled,4,3,Yes,No,No,Borrowed from others,Yes,No
+63,Male,White,Married,Post-graduate,Employed full-time,7,3,Yes,No,Yes,Borrowed from library,Yes,Yes
+63,Female,White,Married,Some college,Employed part-time,8,3,Yes,Yes,No,Borrowed from others,No,Yes
+63,Female,White,Married,Some college,Retired,8,3,Yes,No,No,Borrowed from library,No,Yes
+62,Male,White,Married,High school,Employed part-time,6,3,Yes,Yes,No,Borrowed from library,Yes,No
+61,Male,White,Married,College,Employed full-time,8,3,Yes,No,No,Purchased,Yes,Yes
+60,Male,White,Married,College,Self-employed,8,3,Yes,No,No,Purchased,Yes,Yes
+60,Female,White,Married,Post-graduate,Employed full-time,2,3,No,No,No,Borrowed from others,No,No
+58,Female,White,Married,Post-graduate,Employed full-time,6,3,Yes,No,No,Purchased,Yes,Yes
+58,Female,White,Married,College,Employed part-time,6,3,Yes,No,No,Purchased,Yes,Yes
+58,Male,White,Married,College,Employed part-time,6,3,Yes,No,No,Purchased,No,No
+58,Male,White,Married,Some college,Employed full-time,5,3,Yes,No,No,Purchased,Yes,No
+58,Male,White,Widowed,High school,Employed full-time,5,3,Yes,No,No,Borrowed from others,Yes,No
+57,Female,White,Married,High school,Unemployed,3,3,Yes,No,No,Purchased,Yes,No
+57,Male,White,Married,College,Employed full-time,8,3,Yes,No,No,Borrowed from others,No,Yes
+56,Male,White,Married,Some college,Employed full-time,8,3,No,No,Yes,Other sources,Yes,No
+55,Female,White,Divorced,Some college,Employed full-time,3,3,Yes,No,No,Borrowed from library,Yes,Yes
+55,Male,White,Married,High school,Self-employed,5,3,Yes,No,No,Purchased,Yes,Yes
+54,Male,White,Married,High school,Employed full-time,7,3,No,No,No,Other sources,No,No
+54,Male,White,Married,College,Employed full-time,8,3,Yes,No,Yes,Purchased,Yes,No
+53,Male,White,Married,Some college,Employed full-time,3,3,Yes,No,No,Purchased,No,Yes
+52,Male,White,Never been married,Some college,Unemployed,1,3,Yes,No,No,Other sources,Yes,No
+51,Male,White,Never been married,Trade school,Employed full-time,4,3,Yes,No,No,Purchased,Yes,Yes
+51,Female,White,Widowed,Some college,Employed full-time,6,3,Yes,No,Yes,Purchased,Yes,Yes
+51,Female,White,Divorced,Some college,Employed full-time,8,3,Yes,No,No,Purchased,No,No
+50,Female,White,Married,College,Employed full-time,8,3,Yes,Yes,No,Other sources,No,No
+49,Male,White,Married,Some high school,Employed full-time,4,3,No,No,No,Borrowed from library,No,No
+49,Female,White,Never been married,Some college,Disabled,2,3,Yes,No,No,Borrowed from others,Yes,No
+49,Male,White,Never been married,High school,Employed full-time,8,3,Yes,No,No,Purchased,Yes,Yes
+48,Female,White,Married,College,Employed full-time,8,3,Yes,No,No,Purchased,Yes,Yes
+48,Male,White,Married,College,Employed full-time,8,3,Yes,No,No,Purchased,No,No
+47,Female,White,Married,Post-graduate,Employed full-time,7,3,Yes,No,No,Borrowed from library,Yes,Yes
+47,Male,White,Never been married,High school,Employed part-time,2,3,Yes,No,No,Purchased,Yes,No
+47,Female,White,Married,High school,Unemployed,5,3,Yes,No,No,Purchased,Yes,No
+47,Male,White,Married,High school,Employed full-time,7,3,Yes,No,No,Purchased,Yes,No
+44,Male,White,Married,College,Employed full-time,8,3,No,No,Yes,Purchased,Yes,Yes
+44,Male,White,Married,Post-graduate,Employed full-time,8,3,Yes,No,Yes,Purchased,Yes,Yes
+44,Male,White,Married,Some high school,Employed full-time,3,3,Yes,No,No,Purchased,No,No
+44,Female,White,Married,Some college,Employed full-time,8,3,Yes,No,No,Purchased,No,No
+43,Female,White,Married,College,Employed full-time,4,3,Yes,No,Yes,Borrowed from others,No,Yes
+43,Female,White,Married,College,Employed part-time,7,3,Yes,No,No,Purchased,No,No
+42,Female,White,Married,College,Employed full-time,7,3,Yes,No,No,Purchased,No,No
+42,Female,White,Married,College,Employed part-time,8,3,Yes,No,No,Borrowed from others,Yes,Yes
+42,Female,White,Married,Post-graduate,Unemployed,8,3,Yes,No,No,Purchased,Yes,Yes
+41,Male,White,Married,High school,Employed full-time,8,3,Yes,No,No,Borrowed from others,Yes,No
+41,Female,White,Divorced,Post-graduate,Employed full-time,6,3,Yes,No,Yes,Borrowed from others,Yes,Yes
+40,Male,White,Married,Some college,Employed full-time,8,3,Yes,No,No,Borrowed from others,Yes,Yes
+40,Male,White,Married,Post-graduate,Employed full-time,7,3,No,No,Yes,Purchased,No,No
+40,Male,White,Married,High school,Employed full-time,7,3,Yes,Yes,No,Borrowed from others,No,No
+40,Male,White,Never been married,College,Employed full-time,6,3,Yes,Yes,No,Borrowed from others,No,No
+39,Female,White,Married,Post-graduate,Employed full-time,8,3,Yes,No,No,Purchased,Yes,No
+39,Male,White,Married,College,Employed full-time,8,3,No,No,Yes,Purchased,Yes,No
+39,Male,White,Married,College,Employed full-time,8,3,Yes,No,No,Other sources,Yes,Yes
+38,Male,White,Married,Post-graduate,Employed full-time,6,3,Yes,No,No,Purchased,Yes,No
+38,Female,White,Never been married,Post-graduate,Employed full-time,5,3,Yes,No,Yes,Other sources,No,No
+37,Female,White,Married,Some college,Employed part-time,5,3,Yes,No,No,Other sources,No,Yes
+37,Female,White,Married,Some college,Unemployed,6,3,Yes,No,Yes,Borrowed from others,Yes,Yes
+36,Female,White,Living with a partner,High school,Employed full-time,4,3,Yes,No,No,Purchased,No,Yes
+36,Male,White,Living with a partner,High school,Employed full-time,6,3,Yes,No,No,Purchased,No,No
+36,Female,White,Living with a partner,High school,Employed full-time,4,3,Yes,No,Yes,Purchased,Yes,Yes
+36,Female,White,Married,Some college,Unemployed,6,3,Yes,Yes,No,Purchased,Yes,No
+35,Female,White,Divorced,Some college,Employed full-time,3,3,Yes,No,Yes,Purchased,Yes,Yes
+35,Male,White,Married,Post-graduate,Employed full-time,8,3,Yes,Yes,No,Borrowed from others,Yes,Yes
+34,Male,White,Married,High school,Employed full-time,6,3,Yes,No,No,Purchased,Yes,No
+34,Female,White,Married,Some college,Employed part-time,2,3,Yes,No,No,Borrowed from others,No,No
+34,Male,White,Never been married,High school,Unemployed,1,3,Yes,No,No,Borrowed from others,Yes,No
+33,Male,White,Married,College,Employed full-time,8,3,Yes,No,No,Purchased,Yes,No
+32,Female,White,Married,College,Unemployed,8,3,Yes,No,Yes,Borrowed from others,No,Yes
+31,Female,White,Married,Post-graduate,Employed part-time,8,3,Yes,No,No,Borrowed from others,Yes,No
+31,Male,White,Living with a partner,High school,Employed full-time,3,3,Yes,No,Yes,Borrowed from others,No,No
+31,Male,White,Living with a partner,College,Unemployed,4,3,Yes,No,No,Borrowed from others,Yes,No
+30,Male,White,Married,High school,Employed full-time,2,3,Yes,No,No,Borrowed from others,No,No
+29,Female,White,Living with a partner,High school,Unemployed,8,3,Yes,No,No,Borrowed from others,No,Yes
+28,Male,White,Married,Some college,Employed full-time,6,3,Yes,Yes,No,Purchased,No,No
+27,Female,White,Never been married,Some college,Employed full-time,2,3,Yes,No,No,Purchased,No,No
+27,Female,White,Never been married,Some college,Employed part-time,3,3,Yes,No,No,Borrowed from others,No,Yes
+26,Female,White,Married,Some college,Employed full-time,6,3,Yes,No,Yes,Purchased,No,No
+25,Male,White,Single,College,Employed full-time,1,3,Yes,No,No,Purchased,Yes,No
+25,Male,White,Never been married,High school,Employed part-time,8,3,Yes,No,No,Purchased,Yes,Yes
+25,Male,White,Married,High school,Employed full-time,6,3,Yes,No,No,Purchased,No,No
+24,Male,White,Never been married,College,Employed full-time,2,3,Yes,No,Yes,Purchased,Yes,No
+24,Female,White,Single,Trade school,Employed part-time,3,3,Yes,No,No,Purchased,Yes,Yes
+24,Male,White,Married,College,Employed full-time,6,3,Yes,No,No,Borrowed from library,No,Yes
+23,Male,White,Never been married,High school,Employed part-time,8,3,Yes,No,No,Purchased,Yes,Yes
+23,Male,White,Never been married,College,Employed full-time,3,3,Yes,No,No,Borrowed from others,No,No
+22,Female,White,Living with a partner,High school,Employed full-time,1,3,Yes,No,No,Borrowed from others,No,No
+20,Male,White,Never been married,Some college,Unemployed,2,3,Yes,No,No,Purchased,Yes,No
+19,Female,White,Never been married,High school,Unemployed,8,3,Yes,No,No,Other sources,No,No
+19,Male,White,Single,High school,Employed full-time,4,3,Yes,No,No,Borrowed from others,No,No
+18,Male,White,Never been married,High school,Employed part-time,6,3,Yes,No,No,Borrowed from others,No,No
+18,Male,White,Never been married,Some high school,Employed part-time,8,3,Yes,No,No,Borrowed from library,Yes,No
+18,Female,White,Never been married,High school,Employed full-time,2,3,Yes,No,Yes,Other sources,No,No
+17,Male,White,Never been married,Some high school,Unemployed,8,3,Yes,No,No,Borrowed from library,No,Yes
+17,Male,White,Never been married,Some high school,Employed part-time,8,3,Yes,No,No,Purchased,No,Yes
+17,Female,White,Never been married,Some high school,Employed part-time,3,3,Yes,No,No,Borrowed from library,No,No
+16,Male,White,Never been married,Some high school,Employed part-time,8,3,Yes,No,No,Borrowed from others,Yes,No
+55,Male,Other,Married,None,Unemployed,8,2,Yes,No,No,Purchased,Yes,No
+32,Male,Other,Single,High school,Unemployed,6,2,No,No,Yes,Other sources,Yes,No
+22,Female,Other,Never been married,Some college,Employed part-time,7,2,Yes,No,No,Purchased,No,No
+18,Male,Other,Never been married,High school,Unemployed,8,2,Yes,No,No,Other sources,No,No
+61,Female,Native American,Divorced,High school,Retired,2,2,Yes,No,No,Purchased,Yes,No
+59,Male,Mixed race,Married,High school,Disabled,6,2,Yes,No,No,Purchased,Yes,Yes
+39,Female,Mixed race,Married,Some college,Employed part-time,3,2,Yes,Yes,No,Purchased,No,Yes
+32,Male,Mixed race,Divorced,College,Employed full-time,4,2,Yes,No,Yes,Other sources,No,No
+30,Female,Mixed race,Married,Some high school,Employed part-time,5,2,Yes,No,No,Purchased,No,No
+56,Female,Asian/Pacific Islander,Married,College,Employed full-time,6,2,Yes,Yes,No,Purchased,No,No
+41,Female,Asian/Pacific Islander,Divorced,Post-graduate,Employed full-time,6,2,Yes,No,No,Borrowed from library,No,No
+39,Male,Asian/Pacific Islander,Married,College,Employed full-time,8,2,Yes,No,No,Borrowed from others,No,Yes
+25,Male,Asian/Pacific Islander,Married,College,Unemployed,3,2,Yes,No,No,Borrowed from others,Yes,No
+84,Female,Black/African-American,Widowed,Post-graduate,Retired,3,2,Yes,No,No,Borrowed from others,Yes,No
+81,Female,Black/African-American,Widowed,High school,Unemployed,1,2,Yes,No,No,Borrowed from others,No,Yes
+80,Female,Black/African-American,Widowed,None,Retired,1,2,Yes,No,No,Purchased,No,No
+77,Male,Black/African-American,Widowed,Some college,Retired,4,2,Yes,No,No,Borrowed from others,Yes,No
+62,Female,Black/African-American,Widowed,High school,Retired,2,2,Yes,No,Yes,Purchased,Yes,No
+62,Female,Black/African-American,Divorced,Trade school,Retired,3,2,Yes,No,No,Borrowed from others,Yes,No
+58,Male,Black/African-American,Never been married,Some college,Employed full-time,6,2,Yes,No,No,Purchased,Yes,No
+56,Male,Black/African-American,Separated,None,Employed full-time,3,2,Yes,No,No,Borrowed from others,No,No
+56,Female,Black/African-American,Widowed,Post-graduate,Employed full-time,7,2,Yes,No,No,Borrowed from others,No,No
+55,Female,Black/African-American,Divorced,Some college,Employed full-time,5,2,Yes,No,No,Purchased,No,No
+52,Female,Black/African-American,Living with a partner,Some college,Unemployed,8,2,Yes,No,No,Purchased,No,Yes
+51,Female,Black/African-American,Married,College,Employed full-time,7,2,Yes,Yes,No,Purchased,Yes,Yes
+51,Female,Black/African-American,Widowed,Some college,Employed full-time,6,2,Yes,Yes,No,Purchased,Yes,No
+50,Male,Black/African-American,Never been married,Some college,Employed part-time,1,2,Yes,No,No,Borrowed from library,Yes,Yes
+50,Female,Black/African-American,Married,Post-graduate,Employed full-time,7,2,Yes,No,Yes,Other sources,Yes,Yes
+50,Male,Black/African-American,Married,High school,Employed full-time,6,2,Yes,No,No,Other sources,Yes,No
+47,Male,Black/African-American,Married,College,Employed full-time,7,2,Yes,No,No,Purchased,Yes,No
+47,Male,Black/African-American,Married,High school,Unemployed,2,2,Yes,No,No,Purchased,No,No
+40,Female,Black/African-American,Never been married,Some college,Employed full-time,6,2,Yes,No,No,Purchased,Yes,Yes
+40,Male,Black/African-American,Never been married,High school,Employed part-time,1,2,Yes,No,No,Borrowed from others,No,No
+38,Male,Black/African-American,Married,High school,Employed full-time,3,2,Yes,No,No,Purchased,Yes,No
+36,Male,Black/African-American,Married,College,Unemployed,2,2,Yes,No,No,Borrowed from others,Yes,No
+32,Female,Black/African-American,Living with a partner,Some college,Employed part-time,3,2,Yes,No,No,Borrowed from others,Yes,Yes
+32,Female,Black/African-American,Divorced,Some high school,Employed part-time,1,2,Yes,No,No,Borrowed from others,No,No
+31,Male,Black/African-American,Living with a partner,Some college,Employed full-time,6,2,Yes,No,No,Other sources,Yes,Yes
+24,Male,Black/African-American,Never been married,Some college,Employed part-time,3,2,Yes,Yes,No,Purchased,No,No
+24,Male,Black/African-American,Married,Some college,Employed part-time,8,2,Yes,Yes,Yes,Purchased,Yes,No
+18,Male,Black/African-American,Never been married,High school,Employed part-time,7,2,Yes,No,No,Borrowed from library,No,No
+16,Female,Black/African-American,Never been married,Some high school,Employed part-time,5,2,Yes,No,No,Purchased,No,Yes
+88,Female,White,Widowed,High school,Retired,2,2,Yes,No,No,Borrowed from others,Yes,Yes
+80,Male,White,Widowed,High school,Retired,4,2,No,No,No,Other sources,Yes,No
+74,Female,White,Widowed,High school,Retired,3,2,Yes,No,No,Borrowed from others,Yes,No
+73,Male,White,Married,Post-graduate,Retired,8,2,Yes,No,No,Borrowed from others,Yes,Yes
+71,Male,White,Widowed,High school,Retired,4,2,Yes,No,No,Purchased,Yes,Yes
+71,Female,White,Married,College,Self-employed,7,2,Yes,No,No,Purchased,No,Yes
+71,Female,White,Never been married,College,Retired,6,2,Yes,No,No,Borrowed from library,Yes,Yes
+70,Female,White,Married,High school,Employed part-time,4,2,Yes,No,No,Borrowed from others,Yes,Yes
+70,Male,White,Married,Some college,Retired,6,2,Yes,No,No,Purchased,Yes,No
+69,Female,White,Married,High school,Retired,3,2,Yes,No,No,Purchased,Yes,Yes
+69,Male,White,Widowed,High school,Disabled,2,2,Yes,No,No,Borrowed from others,No,No
+67,Male,White,Married,Some college,Employed full-time,5,2,Yes,No,No,Borrowed from others,No,No
+67,Male,White,Never been married,Some college,Disabled,2,2,Yes,No,No,Borrowed from others,No,No
+66,Female,White,Divorced,Some college,Retired,4,2,Yes,No,No,Purchased,No,Yes
+66,Male,White,Married,Some college,Retired,4,2,Yes,No,No,Purchased,Yes,No
+65,Female,White,Divorced,Some college,Disabled,8,2,Yes,No,No,Borrowed from others,Yes,No
+65,Female,White,Married,High school,Retired,5,2,Yes,No,No,Borrowed from others,No,Yes
+65,Female,White,Married,High school,Retired,3,2,Yes,No,No,Borrowed from others,No,No
+64,Male,White,Divorced,College,Employed full-time,8,2,Yes,No,No,Other sources,Yes,Yes
+64,Male,White,Divorced,College,Disabled,2,2,Yes,No,No,Purchased,No,No
+62,Female,White,Widowed,High school,Unemployed,2,2,No,No,No,Borrowed from others,Yes,No
+62,Male,White,Married,Post-graduate,Employed full-time,8,2,Yes,No,Yes,Purchased,Yes,No
+61,Female,White,Married,Some college,Unemployed,4,2,Yes,No,No,Borrowed from others,No,No
+61,Male,White,Married,College,Retired,8,2,Yes,No,No,Purchased,Yes,No
+61,Female,White,Widowed,Some college,Employed full-time,5,2,Yes,No,No,Borrowed from others,Yes,Yes
+61,Female,White,Married,High school,Retired,6,2,Yes,No,No,Borrowed from library,Yes,No
+61,Female,White,Married,High school,Unemployed,6,2,Yes,Yes,Yes,Purchased,Yes,No
+60,Male,White,Married,College,Employed full-time,8,2,Yes,No,No,Other sources,No,Yes
+60,Male,White,Married,Some college,Retired,8,2,Yes,Yes,No,Borrowed from others,Yes,Yes
+60,Male,White,Married,Some college,Employed full-time,8,2,Yes,No,No,Other sources,Yes,Yes
+60,Male,White,Married,Trade school,Employed full-time,7,2,No,No,No,Borrowed from others,Yes,Yes
+59,Female,White,Living with a partner,Some college,Unemployed,1,2,Yes,No,No,Borrowed from others,Yes,No
+58,Male,White,Married,Post-graduate,Employed full-time,8,2,Yes,No,Yes,Purchased,Yes,Yes
+58,Female,White,Married,Some high school,Unemployed,4,2,Yes,No,No,Other sources,Yes,Yes
+57,Female,White,Divorced,High school,Employed full-time,8,2,Yes,No,No,Borrowed from others,Yes,Yes
+56,Female,White,Divorced,High school,Employed full-time,2,2,Yes,No,No,Borrowed from others,No,Yes
+56,Male,White,Married,Some college,Employed full-time,6,2,Yes,No,No,Purchased,Yes,No
+55,Female,White,Divorced,College,Retired,4,2,Yes,No,No,Purchased,Yes,Yes
+55,Female,White,Married,Some high school,Employed full-time,5,2,Yes,No,No,Purchased,Yes,Yes
+54,Female,White,Married,High school,Employed part-time,4,2,Yes,No,No,Other sources,No,Yes
+53,Male,White,Married,Some college,Employed full-time,6,2,Yes,No,No,Borrowed from others,No,Yes
+52,Female,White,Never been married,Post-graduate,Employed full-time,4,2,Yes,No,No,Purchased,Yes,Yes
+52,Female,White,Widowed,Some college,Employed full-time,4,2,No,No,Yes,Other sources,Yes,No
+52,Male,White,Married,High school,Employed full-time,6,2,Yes,No,No,Other sources,Yes,No
+52,Female,White,Married,High school,Employed full-time,5,2,Yes,No,Yes,Purchased,Yes,Yes
+51,Female,White,Married,Post-graduate,Employed part-time,8,2,Yes,No,No,Borrowed from others,No,Yes
+51,Male,White,Divorced,Some college,Employed full-time,6,2,Yes,No,No,Borrowed from library,Yes,Yes
+51,Male,White,Divorced,Post-graduate,Employed full-time,7,2,Yes,No,No,Other sources,No,No
+51,Male,White,Divorced,High school,Retired,6,2,Yes,No,No,Purchased,No,Yes
+50,Female,White,Divorced,None,Retired,1,2,Yes,No,No,Purchased,Yes,Yes
+47,Male,White,Married,Some college,Employed full-time,7,2,Yes,No,No,Borrowed from others,Yes,No
+47,Male,White,Married,College,Employed full-time,8,2,Yes,No,No,Purchased,No,Yes
+47,Male,White,Married,None,Self-employed,4,2,Yes,No,No,Purchased,Yes,Yes
+46,Female,White,Married,College,Employed part-time,8,2,Yes,No,No,Purchased,Yes,Yes
+45,Female,White,Separated,College,Employed full-time,4,2,Yes,No,No,Purchased,No,No
+45,Female,White,Living with a partner,High school,Employed full-time,5,2,Yes,Yes,No,Purchased,Yes,Yes
+44,Female,White,Married,College,Employed full-time,7,2,Yes,No,No,Borrowed from others,No,No
+44,Female,White,Divorced,Some high school,Employed full-time,3,2,Yes,No,No,Borrowed from others,No,Yes
+44,Male,White,Married,Post-graduate,Employed full-time,7,2,Yes,No,Yes,Purchased,Yes,Yes
+43,Female,White,Divorced,Some college,Employed part-time,4,2,Yes,No,No,Borrowed from others,Yes,No
+43,Male,White,Married,Some college,Employed full-time,4,2,Yes,No,No,Purchased,No,No
+42,Male,White,Living with a partner,Some college,Employed full-time,3,2,Yes,No,No,Borrowed from others,No,No
+39,Female,White,Married,Post-graduate,Employed part-time,8,2,Yes,No,No,Borrowed from library,No,No
+39,Female,White,Living with a partner,Some college,Employed full-time,8,2,Yes,No,No,Other sources,Yes,No
+39,Female,White,Married,Some college,Employed full-time,8,2,Yes,No,No,Purchased,No,Yes
+39,Male,White,Married,College,Employed full-time,5,2,Yes,No,No,Borrowed from library,Yes,No
+39,Male,White,Married,Some college,Employed full-time,8,2,Yes,No,No,Purchased,No,No
+37,Male,White,Never been married,Some college,Employed part-time,6,2,Yes,No,Yes,Purchased,Yes,No
+35,Female,White,Married,College,Employed full-time,8,2,Yes,No,No,Purchased,Yes,No
+35,Female,White,Separated,Some high school,Unemployed,1,2,Yes,No,No,Borrowed from others,No,Yes
+34,Female,White,Never been married,High school,Employed full-time,2,2,Yes,No,No,Purchased,No,Yes
+33,Female,White,Married,Some high school,Employed full-time,8,2,Yes,No,No,Borrowed from others,No,No
+32,Female,White,Married,High school,Employed part-time,5,2,Yes,No,No,Purchased,No,No
+32,Male,White,Married,Post-graduate,Employed full-time,8,2,Yes,No,No,Purchased,No,No
+32,Male,White,Married,Some college,Employed full-time,6,2,Yes,No,No,Other sources,Yes,Yes
+31,Female,White,Married,College,Unemployed,6,2,Yes,Yes,Yes,Other sources,No,Yes
+31,Female,White,Married,High school,Employed full-time,8,2,Yes,No,No,Purchased,No,No
+30,Male,White,Married,College,Employed full-time,6,2,Yes,No,Yes,Borrowed from library,Yes,No
+28,Male,White,Never been married,College,Employed full-time,6,2,No,Yes,No,Other sources,Yes,No
+28,Male,White,Married,College,Employed full-time,7,2,Yes,No,Yes,Borrowed from others,Yes,Yes
+27,Female,White,Living with a partner,Post-graduate,Employed full-time,1,2,Yes,No,No,Borrowed from others,Yes,No
+27,Male,White,Married,College,Employed full-time,6,2,Yes,No,No,Borrowed from others,Yes,No
+27,Female,White,Married,Some college,Unemployed,4,2,Yes,No,No,Other sources,No,No
+26,Male,White,Never been married,Post-graduate,Student,1,2,Yes,No,No,Borrowed from others,No,No
+26,Female,White,Married,Post-graduate,Self-employed,8,2,Yes,No,No,Borrowed from others,Yes,Yes
+26,Male,White,Married,High school,Employed full-time,6,2,Yes,No,Yes,Purchased,Yes,No
+26,Female,White,Married,Some college,Employed full-time,8,2,No,No,Yes,Purchased,No,No
+25,Male,White,Living with a partner,College,Unemployed,6,2,Yes,No,No,Purchased,No,Yes
+25,Female,White,Married,College,Employed full-time,7,2,Yes,No,No,Purchased,No,Yes
+25,Male,White,Never been married,None,Employed full-time,3,2,Yes,No,No,Purchased,No,No
+25,Male,White,Never been married,Some college,Employed full-time,3,2,Yes,No,No,Purchased,No,Yes
+23,Male,White,Never been married,Post-graduate,Employed full-time,3,2,Yes,No,No,Purchased,Yes,Yes
+22,Female,White,Never been married,Some college,Employed full-time,2,2,Yes,No,No,Borrowed from others,No,Yes
+22,Male,White,Married,Some college,Employed full-time,7,2,Yes,No,No,Borrowed from others,No,No
+21,Female,White,Living with a partner,Some college,Employed full-time,3,2,Yes,No,No,Other sources,Yes,No
+20,Male,White,Never been married,Some college,Employed part-time,8,2,No,No,No,Purchased,Yes,Yes
+19,Female,White,Never been married,Some college,Employed part-time,7,2,No,No,No,Other sources,Yes,No
+18,Male,White,Living with a partner,High school,Employed full-time,4,2,Yes,No,No,Borrowed from others,Yes,No
+18,Male,White,Never been married,High school,Employed part-time,1,2,Yes,No,No,Borrowed from library,Yes,Yes
+17,Male,White,Never been married,Some high school,Unemployed,4,2,Yes,No,No,Other sources,Yes,No
+17,Male,White,Never been married,Some high school,Employed part-time,8,2,Yes,No,No,Borrowed from library,Yes,Yes
+17,Female,White,Never been married,Some high school,Unemployed,8,2,Yes,No,No,Borrowed from others,Yes,No
+53,Male,Native American,Married,High school,Employed full-time,3,1,No,No,No,Borrowed from others,No,Yes
+65,Female,Mixed race,Divorced,College,Unemployed,1,1,Yes,No,No,Borrowed from others,Yes,No
+62,Male,Mixed race,Married,Some college,Employed full-time,7,1,Yes,No,No,Purchased,No,No
+48,Male,Mixed race,Married,Trade school,Unemployed,1,1,Yes,No,No,Borrowed from library,No,No
+39,Female,Mixed race,Separated,Some high school,Unemployed,3,1,Yes,No,No,Borrowed from others,No,No
+30,Male,Mixed race,Never been married,Trade school,Employed full-time,3,1,Yes,No,No,Other sources,Yes,Yes
+18,Male,Mixed race,Never been married,None,Unemployed,1,1,No,No,No,Borrowed from others,No,Yes
+49,Male,Asian/Pacific Islander,Married,High school,Self-employed,6,1,Yes,No,No,Other sources,Yes,No
+25,Male,Asian/Pacific Islander,Married,Post-graduate,Employed full-time,8,1,Yes,No,No,Purchased,Yes,No
+78,Female,Black/African-American,Married,Some high school,Retired,2,1,Yes,No,No,Purchased,Yes,No
+75,Female,Black/African-American,Divorced,Post-graduate,Retired,1,1,Yes,No,No,Borrowed from library,No,No
+62,Male,Black/African-American,Divorced,None,Disabled,8,1,No,No,No,Borrowed from others,No,No
+58,Female,Black/African-American,Never been married,Some high school,Employed full-time,2,1,Yes,No,No,Purchased,No,No
+56,Female,Black/African-American,Married,Post-graduate,Retired,8,1,Yes,No,Yes,Purchased,Yes,Yes
+55,Female,Black/African-American,Married,High school,Employed full-time,6,1,Yes,No,No,Purchased,No,No
+54,Male,Black/African-American,Never been married,High school,Employed part-time,2,1,Yes,No,No,Other sources,Yes,No
+50,Male,Black/African-American,Never been married,High school,Employed full-time,2,1,Yes,No,No,Borrowed from others,Yes,Yes
+41,Male,Black/African-American,Never been married,High school,Employed full-time,5,1,Yes,No,No,Borrowed from others,Yes,No
+40,Male,Black/African-American,Never been married,College,Self-employed,8,1,No,No,No,Purchased,Yes,Yes
+34,Female,Black/African-American,Living with a partner,None,Employed full-time,1,1,Yes,No,No,Purchased,Yes,Yes
+34,Female,Black/African-American,Never been married,Some college,Unemployed,3,1,Yes,No,No,Other sources,No,No
+31,Female,Black/African-American,Living with a partner,High school,Employed full-time,3,1,Yes,No,No,Borrowed from others,No,Yes
+30,Male,Black/African-American,Married,College,Employed full-time,7,1,Yes,No,No,Borrowed from others,Yes,No
+23,Male,Black/African-American,Never been married,High school,Employed full-time,8,1,No,No,No,Other sources,Yes,No
+20,Male,Black/African-American,Never been married,None,Unemployed,2,1,No,No,Yes,Borrowed from others,Yes,No
+20,Male,Black/African-American,Never been married,Some college,Employed part-time,8,1,No,Yes,No,Purchased,No,No
+19,Female,Black/African-American,Never been married,High school,Student,4,1,Yes,No,No,Purchased,Yes,Yes
+18,Female,Black/African-American,Never been married,Some high school,Employed part-time,1,1,No,No,Yes,Borrowed from library,No,Yes
+18,Male,Black/African-American,Living with a partner,High school,Employed full-time,5,1,Yes,No,No,Purchased,No,No
+16,Female,Black/African-American,Single,Some high school,Unemployed,8,1,Yes,No,No,Borrowed from library,Yes,Yes
+85,Female,White,Widowed,High school,Unemployed,6,1,Yes,No,No,Purchased,Yes,Yes
+82,Female,White,Widowed,College,Retired,7,1,Yes,No,No,Borrowed from others,Yes,Yes
+82,Male,White,Married,Some college,Retired,6,1,Yes,No,No,Borrowed from others,Yes,Yes
+82,Female,White,Married,High school,Retired,2,1,No,No,No,Other sources,Yes,No
+81,Female,White,Married,High school,Retired,8,1,Yes,No,No,Borrowed from others,No,No
+79,Female,White,Single,Some college,Retired,8,1,Yes,No,No,Other sources,No,No
+77,Female,White,Married,Post-graduate,Retired,5,1,Yes,No,Yes,Purchased,Yes,Yes
+73,Male,White,Married,College,Employed part-time,7,1,Yes,No,No,Borrowed from others,Yes,Yes
+72,Female,White,Married,High school,Retired,3,1,Yes,No,No,Purchased,Yes,No
+71,Female,White,Widowed,High school,Retired,1,1,Yes,No,No,Purchased,Yes,No
+71,Female,White,Married,High school,Retired,3,1,Yes,No,No,Other sources,Yes,Yes
+67,Female,White,Married,High school,Retired,3,1,Yes,No,No,Borrowed from others,No,No
+67,Male,White,Married,High school,Retired,8,1,Yes,Yes,No,Purchased,Yes,Yes
+67,Male,White,Married,Some college,Employed part-time,3,1,Yes,No,No,Purchased,No,Yes
+66,Female,White,Divorced,Some college,Retired,2,1,Yes,No,No,Borrowed from others,Yes,No
+66,Female,White,Married,Some college,Retired,8,1,Yes,No,Yes,Purchased,Yes,No
+65,Female,White,Married,High school,Retired,4,1,Yes,No,No,Other sources,Yes,Yes
+64,Female,White,Married,High school,Unemployed,3,1,Yes,No,No,Other sources,Yes,Yes
+64,Male,White,Married,Trade school,Retired,4,1,Yes,No,No,Borrowed from others,Yes,No
+63,Male,White,Married,Some college,Employed full-time,7,1,No,No,No,Borrowed from others,Yes,Yes
+62,Male,White,Married,Post-graduate,Employed part-time,7,1,Yes,No,Yes,Borrowed from others,Yes,Yes
+62,Male,White,Married,Some college,Retired,7,1,Yes,No,No,Other sources,Yes,No
+61,Female,White,Divorced,Some college,Employed full-time,2,1,Yes,No,No,Purchased,No,Yes
+61,Female,White,Married,None,Unemployed,1,1,Yes,No,No,Purchased,No,No
+61,Male,White,Married,High school,Employed full-time,8,1,Yes,No,No,Borrowed from others,Yes,Yes
+61,Male,White,Married,Some college,Employed full-time,7,1,No,Yes,Yes,Purchased,Yes,No
+59,Female,White,Married,High school,Unemployed,6,1,No,Yes,No,Purchased,No,No
+59,Male,White,Married,Post-graduate,Employed full-time,8,1,Yes,No,No,Purchased,Yes,Yes
+59,Male,White,Married,College,Employed full-time,8,1,Yes,No,No,Purchased,Yes,Yes
+58,Female,White,Married,Some college,Unemployed,3,1,Yes,No,No,Other sources,Yes,No
+58,Female,White,Single,High school,Employed full-time,2,1,Yes,No,No,Other sources,No,No
+57,Female,White,Married,Some high school,Employed full-time,3,1,No,Yes,No,Borrowed from library,Yes,No
+56,Male,White,Married,High school,Employed full-time,5,1,Yes,No,No,Borrowed from others,No,No
+55,Male,White,Married,Some college,Employed full-time,6,1,Yes,No,No,Borrowed from library,Yes,No
+54,Female,White,Never been married,College,Employed full-time,6,1,Yes,No,No,Purchased,Yes,Yes
+53,Male,White,Divorced,Some college,Employed full-time,8,1,No,No,No,Borrowed from others,No,No
+53,Male,White,Never been married,Some high school,Retired,2,1,Yes,Yes,No,Borrowed from library,No,Yes
+53,Male,White,Married,Some college,Employed full-time,8,1,Yes,No,No,Purchased,Yes,No
+53,Female,White,Divorced,High school,Unemployed,1,1,Yes,Yes,No,Purchased,No,No
+53,Male,White,Married,Some college,Employed full-time,5,1,Yes,No,No,Other sources,Yes,Yes
+52,Female,White,Living with a partner,College,Employed full-time,5,1,Yes,No,No,Other sources,Yes,No
+49,Male,White,Married,Some college,Employed full-time,7,1,Yes,No,No,Purchased,Yes,Yes
+48,Male,White,Married,High school,Employed full-time,2,1,Yes,Yes,No,Borrowed from library,Yes,No
+47,Female,White,Divorced,Some high school,Unemployed,1,1,Yes,No,No,Borrowed from library,Yes,No
+46,Male,White,Married,Post-graduate,Employed full-time,8,1,Yes,Yes,No,Purchased,Yes,Yes
+46,Female,White,Married,College,Unemployed,4,1,Yes,Yes,No,Borrowed from library,Yes,No
+46,Female,White,Married,College,Employed full-time,7,1,Yes,No,No,Purchased,No,No
+44,Male,White,Divorced,Post-graduate,Employed full-time,8,1,Yes,No,No,Purchased,No,Yes
+44,Female,White,Married,Post-graduate,Employed full-time,8,1,Yes,No,No,Purchased,Yes,Yes
+42,Female,White,Divorced,High school,Employed part-time,2,1,Yes,No,No,Purchased,Yes,No
+40,Male,White,Married,None,Unemployed,1,1,Yes,No,No,Purchased,Yes,No
+39,Female,White,Married,Some college,Employed part-time,4,1,Yes,Yes,No,Purchased,Yes,Yes
+38,Male,White,Married,Some college,Employed full-time,6,1,Yes,No,No,Borrowed from others,Yes,Yes
+37,Male,White,Divorced,High school,Employed part-time,1,1,Yes,No,No,Borrowed from others,No,No
+37,Male,White,Married,College,Employed full-time,6,1,Yes,Yes,No,Borrowed from library,No,No
+36,Female,White,Married,College,Employed full-time,8,1,Yes,No,Yes,Purchased,Yes,Yes
+35,Male,White,Divorced,Some college,Unemployed,1,1,Yes,Yes,Yes,Borrowed from library,No,No
+33,Female,White,Never been married,Some college,Employed full-time,6,1,Yes,No,No,Borrowed from library,No,No
+33,Female,White,Married,Post-graduate,Employed full-time,8,1,Yes,No,No,Borrowed from others,Yes,No
+32,Female,White,Married,Some college,Employed full-time,5,1,Yes,No,No,Borrowed from library,No,No
+32,Female,White,Married,High school,Unemployed,6,1,Yes,No,No,Purchased,No,Yes
+32,Male,White,Married,Trade school,Self-employed,7,1,Yes,No,No,Other sources,No,No
+31,Male,White,Never been married,High school,Unemployed,4,1,Yes,No,No,Purchased,Yes,No
+31,Male,White,Married,High school,Unemployed,4,1,Yes,No,No,Purchased,No,No
+31,Male,White,Living with a partner,High school,Employed full-time,3,1,Yes,No,No,Borrowed from library,No,No
+31,Male,White,Married,Post-graduate,Employed full-time,8,1,Yes,No,Yes,Other sources,Yes,Yes
+30,Male,White,Married,High school,Employed full-time,6,1,No,No,Yes,Other sources,No,No
+30,Female,White,Never been married,Some college,Employed full-time,2,1,Yes,No,Yes,Borrowed from others,Yes,No
+30,Male,White,Living with a partner,Some college,Employed full-time,6,1,Yes,No,No,Purchased,Yes,Yes
+29,Male,White,Married,Some college,Employed full-time,6,1,Yes,No,No,Other sources,Yes,Yes
+28,Male,White,Single,Post-graduate,Employed full-time,7,1,No,No,Yes,Purchased,Yes,No
+27,Female,White,Married,High school,Unemployed,1,1,No,No,No,Other sources,No,No
+27,Female,White,Married,College,Employed full-time,3,1,Yes,No,No,Other sources,Yes,No
+27,Female,White,Married,Some college,Employed part-time,6,1,No,Yes,Yes,Purchased,Yes,No
+26,Male,White,Married,Some college,Employed full-time,6,1,Yes,No,No,Other sources,No,No
+25,Male,White,Never been married,College,Employed part-time,8,1,Yes,No,No,Purchased,No,No
+25,Female,White,Never been married,Some college,Employed part-time,2,1,Yes,No,No,Purchased,No,No
+24,Male,White,Never been married,College,Employed full-time,6,1,No,No,Yes,Purchased,Yes,Yes
+24,Male,White,Never been married,High school,Employed full-time,8,1,Yes,No,No,Borrowed from others,No,Yes
+23,Male,White,Married,High school,Employed full-time,2,1,Yes,Yes,No,Purchased,No,No
+22,Female,White,Living with a partner,Some college,Employed full-time,8,1,Yes,No,No,Borrowed from others,No,Yes
+21,Male,White,Never been married,High school,Unemployed,4,1,Yes,No,No,Other sources,No,No
+19,Male,White,Never been married,High school,Employed part-time,8,1,Yes,No,No,Other sources,No,Yes
+17,Male,White,Never been married,Some high school,Unemployed,6,1,Yes,No,No,Borrowed from library,No,Yes
+17,Female,White,Never been married,High school,Unemployed,3,1,Yes,No,No,Borrowed from others,No,No
+16,Female,White,Never been married,Some high school,Unemployed,4,1,Yes,No,No,Purchased,No,No
+16,Female,White,Never been married,Some high school,Unemployed,1,1,Yes,No,No,Borrowed from library,No,No
+16,Male,White,Never been married,Some high school,Unemployed,8,1,No,No,No,Other sources,Yes,No
+16,Female,White,Never been married,Some high school,Employed part-time,8,1,Yes,No,No,Borrowed from others,No,Yes
+16,Female,White,Never been married,Some high school,Unemployed,2,1,Yes,No,No,Borrowed from library,No,No
