@@ -1,4 +1,4 @@
-# <center>FINAL PROJECT: Heart Attack Analysis & Prediction Dataset<center>
+# <center>FINAL PROJECT: Reading habit Dataset<center>
 
 ### Đồ án thực hành cuối kỳ 
 #### Môn: Lập trình Khoa học Dữ liệu
