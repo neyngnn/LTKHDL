@@ -1,14 +1,6 @@
 # LTKHDL - Nhóm 20
 Đồ án cuối kỳ môn học Lập trình cho Khoa học dữ liệu
 
-## Mục lục
-
- - [Thông tin nhóm](#Thông tin nhóm)
- - [Tổng quan về đồ án](#Tổng quan đồ án)
- - [Cấu trúc đồ án](#Cấu trúc đồ án)
- - [Môi trường sử dụng](#Môi trường sử dụng)
- - [Hướng dẫn sử dụng](#Hướng dẫn sử dụng)
-
 ## Thông tin nhóm
 
 | MSSV       | Họ tên                 | Lớp                                      | 
