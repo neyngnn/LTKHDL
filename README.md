@@ -2,7 +2,7 @@
 
 ### Đồ án thực hành cuối kỳ 
 #### Môn: Lập trình Khoa học Dữ liệu
-#### Nhóm 20 - Lớp 22_21
+#### Nhóm: 20 - Lớp 22_21
 | HỌ TÊN                | MSSV      |
 |:------------------    |:--------: |
 | Phan Thảo Nguyên  | 21120103  |
