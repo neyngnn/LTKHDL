@@ -1,4 +1,4 @@
-Age,Sex,Race,Marital status,Education,Employment,Incomes,Number of books read,Printed books?,Audiobooks?,E-books?,Source of the last book read,Daily news/newspapers reader?,Magazines/Journals reader?
+age,sex,race,marital_status,education,employment_status,income_level,books_read_last_12m,read_printed_books_last_12m,read_audiobooks_last_12m,read_ebooks_last_12m,last_book_read_source,read_daily_news,read_magazines_journals
 46,Male,Native American,Married,High school,Employed full-time,<$10k,97,Yes,Yes,Yes,Purchased,Yes,Yes
 32,Male,Mixed race,Never been married,High school,Employed full-time,<$10k,97,No,Yes,Yes,Borrowed from others,Yes,Yes
 27,Male,Mixed race,Married,High school,Employed full-time,$40k-50k,97,Yes,No,Yes,Borrowed from library,Yes,No
