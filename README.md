@@ -29,12 +29,17 @@
 ├──📂data
 │   ├──📜cleaned_data.csv
 │   ├──📜data.csv
+├──📜requirements.txt
 ├──📜.gitignore
 └──📜README.md
 ```
 
-## Môi trường sử dụng
-
-
 ## Hướng dẫn sử dụng
+1. Thiết lập môi trường: Các thư viện và phiên bản sử dụng trong project ở file requirements.
+2. Clone repository về thiết bị của bạn:
+```
+  https://github.com/neyngnn/LTKHDL.git
+```
+3. Mở Jupyter Notebook (Anaconda/Miniconda/...)
+4. Mở các tệp .ipynb trong thư mục
 
